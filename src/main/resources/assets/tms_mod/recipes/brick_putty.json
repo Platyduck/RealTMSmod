@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:raw_snurbum_putty"
+    },
+    "1": {
+      "item": "tms_mod:snurbum_ingot"
+    },
+    "2": {
+      "item": "tms_mod:snurbum_ingot"
+    },
+    "3": {
+      "item": "tms_mod:raw_snurbum_putty"
+    }
+  },
+  "result": {
+    "item": "tms_mod:snurbum_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:crystaline_snurbite"
+    },
+    "1": {
+      "item": "tms_mod:crystaline_snurbite"
+    },
+    "2": {
+      "item": "tms_mod:blazing_saber_hilt"
+    }
+  },
+  "result": {
+    "item": "tms_mod:snurbinian_phasesaber",
+    "count": 1
+  }
+}

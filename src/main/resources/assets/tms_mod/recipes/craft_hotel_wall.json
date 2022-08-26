@@ -1,0 +1,43 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "1": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "2": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "3": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "4": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "5": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "6": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "7": {
+      "item": "tms_mod:backrooms_wallpaper"
+    },
+    "8": {
+      "item": "tms_mod:backrooms_wallpaper"
+    }
+  },
+  "result": {
+    "item": "tms_mod:hotel_wallpaper",
+    "count": 48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:rat"
+    },
+    "title": {
+      "translate": "advancements.then_you_make_fun_of_karmas_rat.title"
+    },
+    "description": {
+      "translate": "advancements.then_you_make_fun_of_karmas_rat.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "then_you_make_fun_of_karmas_rat": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:then_you_kill_purple_sus"
+}

@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "2": {
+      "item": "tms_mod:darkest_heart"
+    },
+    "3": {
+      "item": "tms_mod:iron_rod"
+    },
+    "4": {
+      "item": "tms_mod:rocket_tier_2"
+    },
+    "5": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "6": {
+      "item": "tms_mod:coltinium_block"
+    },
+    "7": {
+      "item": "tms_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rocket_tier_3",
+    "count": 1
+  }
+}

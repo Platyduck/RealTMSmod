@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:rot_particles"
+    },
+    "1": {
+      "item": "tms_mod:rot_particles"
+    },
+    "2": {
+      "item": "tms_mod:rot_particles"
+    },
+    "3": {
+      "item": "tms_mod:rot_particles"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rot",
+    "count": 1
+  }
+}

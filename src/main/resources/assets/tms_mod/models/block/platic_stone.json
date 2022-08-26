@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "up": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "north": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "east": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "south": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "west": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks",
+    "particle": "tms_mod:blocks/decorative_blocks_frozen_nitrogen_bricks"
+  }
+}

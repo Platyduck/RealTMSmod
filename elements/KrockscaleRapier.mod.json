@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "krockyrapier",
+    "customModelName": "Normal",
+    "name": "Krockscale Rapier",
+    "specialInfo": [
+      "The power of a god lies within"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 5.0,
+    "enchantability": 10,
+    "damageVsEntity": 38.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:KrockyScale"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

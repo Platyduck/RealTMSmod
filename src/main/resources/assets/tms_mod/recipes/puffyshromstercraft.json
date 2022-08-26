@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "1": {
+      "item": "tms_mod:shroomster_spores"
+    },
+    "2": {
+      "item": "minecraft:rotten_flesh"
+    }
+  },
+  "result": {
+    "item": "tms_mod:sacrifice",
+    "count": 1
+  }
+}

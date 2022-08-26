@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/guildedcrubstone",
+    "up": "tms_mod:blocks/guildedcrubstone",
+    "north": "tms_mod:blocks/guildedcrubstone",
+    "east": "tms_mod:blocks/guildedcrubstone",
+    "south": "tms_mod:blocks/guildedcrubstone",
+    "west": "tms_mod:blocks/guildedcrubstone",
+    "particle": "tms_mod:blocks/guildedcrubstone"
+  }
+}

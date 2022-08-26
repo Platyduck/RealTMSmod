@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:plastic_gem"
+    },
+    "1": {
+      "item": "tms_mod:plastic_gem"
+    },
+    "2": {
+      "item": "tms_mod:plastic_gem"
+    },
+    "3": {
+      "item": "tms_mod:plastic_gem"
+    }
+  },
+  "result": {
+    "item": "tms_mod:plastic_gem_block",
+    "count": 1
+  }
+}

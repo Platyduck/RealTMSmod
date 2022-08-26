@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/emeraldlime",
+    "up": "tms_mod:blocks/emeraldlime",
+    "north": "tms_mod:blocks/emeraldlime",
+    "east": "tms_mod:blocks/emeraldlime",
+    "south": "tms_mod:blocks/emeraldlime",
+    "west": "tms_mod:blocks/emeraldlime",
+    "particle": "tms_mod:blocks/emeraldlime"
+  }
+}

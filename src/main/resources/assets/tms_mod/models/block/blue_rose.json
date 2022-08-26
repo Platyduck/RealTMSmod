@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tms_mod:blocks/bluerose",
+    "particle": "tms_mod:blocks/bluerose"
+  }
+}

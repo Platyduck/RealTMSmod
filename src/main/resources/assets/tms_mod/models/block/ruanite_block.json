@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/ruanitebottom",
+    "up": "tms_mod:blocks/ruanitetop",
+    "north": "tms_mod:blocks/ruaniteside",
+    "east": "tms_mod:blocks/ruaniteside",
+    "south": "tms_mod:blocks/ruaniteside",
+    "west": "tms_mod:blocks/ruaniteside",
+    "particle": "tms_mod:blocks/ruanitebottom"
+  }
+}

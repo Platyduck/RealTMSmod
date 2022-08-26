@@ -1,0 +1,87 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 204,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 258,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Shred",
+          "onClick": {
+            "name": "ShredderShred"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Shred",
+          "x": 213,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowgui.png",
+          "use1Xscale": false,
+          "name": "arrowgui.png",
+          "x": 231,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "The Shredder",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "The Shredder",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "radshredsgui.png",
+          "use1Xscale": false,
+          "name": "radshredsgui.png",
+          "x": 141,
+          "y": 62
+        }
+      }
+    ]
+  }
+}

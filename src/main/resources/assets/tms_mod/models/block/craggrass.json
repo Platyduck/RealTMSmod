@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/cragrock",
+    "up": "tms_mod:blocks/craggrasstop",
+    "north": "tms_mod:blocks/craggrass",
+    "east": "tms_mod:blocks/craggrass",
+    "south": "tms_mod:blocks/craggrass",
+    "west": "tms_mod:blocks/craggrass",
+    "particle": "tms_mod:blocks/cragrock"
+  }
+}

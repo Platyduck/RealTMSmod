@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:plastic_quartz_pillar"
+    },
+    "facing=south": {
+      "model": "tms_mod:plastic_quartz_pillar"
+    },
+    "facing=north": {
+      "model": "tms_mod:plastic_quartz_pillar"
+    },
+    "facing=east": {
+      "model": "tms_mod:plastic_quartz_pillar",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "tms_mod:plastic_quartz_pillar",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "tms_mod:plastic_quartz_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "tms_mod:plastic_quartz_pillar",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

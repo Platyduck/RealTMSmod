@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/rotplank",
+    "up": "tms_mod:blocks/rotplank",
+    "north": "tms_mod:blocks/rotplank",
+    "east": "tms_mod:blocks/rotplank",
+    "south": "tms_mod:blocks/rotplank",
+    "west": "tms_mod:blocks/rotplank",
+    "particle": "tms_mod:blocks/rotplank"
+  }
+}

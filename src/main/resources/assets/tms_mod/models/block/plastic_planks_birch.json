@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "up": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "north": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "east": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "south": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "west": "tms_mod:blocks/kepler22b_plank_maple_yellow",
+    "particle": "tms_mod:blocks/kepler22b_plank_maple_yellow"
+  }
+}

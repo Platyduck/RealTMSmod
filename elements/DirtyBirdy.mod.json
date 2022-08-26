@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Dirty Birdy & the land of Rot",
+    "icon": {
+      "value": "CUSTOM:RotParticles"
+    },
+    "showSearch": false
+  }
+}

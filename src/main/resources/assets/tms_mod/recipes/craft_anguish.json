@@ -1,0 +1,22 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:snurbite"
+    },
+    {
+      "item": "tms_mod:butterfly_gem"
+    },
+    {
+      "item": "tms_mod:pawkite"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:molten_anguish",
+    "count": 1
+  }
+}

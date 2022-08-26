@@ -1,0 +1,48 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "rocketlauncher",
+    "customModelName": "Normal",
+    "name": "Rocket Launcher",
+    "specialInfo": [
+      "oh god..."
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Blocks.TNT"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "item.bucket.fill"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.5,
+    "bulletDamage": 8.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.TNT"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "RocketLauncherBulletHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "RocketLauncherBulletHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "RocketLauncherBulletHitsBlock"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:tibby_head"
+    },
+    "1": {
+      "item": "tms_mod:tibby_head"
+    },
+    "2": {
+      "item": "tms_mod:tibby_head"
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 12
+    },
+    "6": {
+      "item": "tms_mod:netherite_scrap"
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 12
+    },
+    "8": {
+      "item": "tms_mod:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "tms_mod:the_tibby_animatronic",
+    "count": 1
+  }
+}

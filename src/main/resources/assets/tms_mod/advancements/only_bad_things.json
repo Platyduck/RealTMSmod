@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:distant_moon_globe"
+    },
+    "title": {
+      "translate": "advancements.only_bad_things.title"
+    },
+    "description": {
+      "translate": "advancements.only_bad_things.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "only_bad_things": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:worst_dimension",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:the_most_devious_lick"
+}

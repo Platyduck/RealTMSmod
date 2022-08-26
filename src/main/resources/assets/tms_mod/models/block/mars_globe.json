@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/marstop",
+    "up": "tms_mod:blocks/marstop",
+    "north": "tms_mod:blocks/mars",
+    "east": "tms_mod:blocks/mars",
+    "south": "tms_mod:blocks/mars",
+    "west": "tms_mod:blocks/mars",
+    "particle": "tms_mod:blocks/marstop"
+  }
+}

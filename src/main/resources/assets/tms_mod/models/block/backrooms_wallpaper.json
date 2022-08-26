@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/backroomsmonoyellow",
+    "up": "tms_mod:blocks/backroomsmonoyellow",
+    "north": "tms_mod:blocks/backroomsmonoyellow",
+    "east": "tms_mod:blocks/backroomsmonoyellow",
+    "south": "tms_mod:blocks/backroomsmonoyellow",
+    "west": "tms_mod:blocks/backroomsmonoyellow",
+    "particle": "tms_mod:blocks/backroomsmonoyellow"
+  }
+}

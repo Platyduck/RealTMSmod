@@ -1,0 +1,49 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "png-1.png",
+          "use1Xscale": true,
+          "name": "png-1.png",
+          "x": 177,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "sussy craige",
+          "width": 85,
+          "height": 20,
+          "name": "sussy craige",
+          "x": 172,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "his face",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "his face",
+          "x": 193,
+          "y": 47
+        }
+      }
+    ]
+  }
+}

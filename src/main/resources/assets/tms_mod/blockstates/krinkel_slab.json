@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "tms_mod:krinkel_slab"
+    },
+    "half=top,variant=default": {
+      "model": "tms_mod:krinkel_slab_top"
+    }
+  }
+}

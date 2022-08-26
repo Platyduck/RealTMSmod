@@ -1,0 +1,33 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:squinkel_planks"
+    },
+    "3": {
+      "item": "tms_mod:squinkel_planks"
+    },
+    "4": {
+      "item": "tms_mod:squinkel_planks"
+    },
+    "6": {
+      "item": "tms_mod:squinkel_planks"
+    },
+    "7": {
+      "item": "tms_mod:squinkel_planks"
+    },
+    "8": {
+      "item": "tms_mod:squinkel_planks"
+    }
+  },
+  "result": {
+    "item": "tms_mod:squinkel_stairs",
+    "count": 4
+  }
+}

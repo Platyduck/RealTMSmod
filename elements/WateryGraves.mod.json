@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "waterygravesdisc",
+    "name": "Music Disc",
+    "description": "PvZ1 - Watery Graves",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:waterygraves"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

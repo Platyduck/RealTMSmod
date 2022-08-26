@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:family_photo"
+    },
+    "facing=north": {
+      "model": "tms_mod:family_photo"
+    },
+    "facing=east": {
+      "model": "tms_mod:family_photo",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:family_photo",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:family_photo",
+      "y": 270
+    }
+  }
+}

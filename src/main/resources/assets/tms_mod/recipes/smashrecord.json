@@ -1,0 +1,16 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:nathinium_hammer"
+    },
+    {
+      "item": "minecraft:record_stal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:record_11",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/greenlattice",
+    "up": "tms_mod:blocks/greenlattice",
+    "north": "tms_mod:blocks/greenlattice",
+    "east": "tms_mod:blocks/greenlattice",
+    "south": "tms_mod:blocks/greenlattice",
+    "west": "tms_mod:blocks/greenlattice",
+    "particle": "tms_mod:blocks/greenlattice"
+  }
+}

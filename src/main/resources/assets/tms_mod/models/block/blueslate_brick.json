@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tms_mod:blocks/blueslatebrick",
+    "particle": "tms_mod:blocks/blueslatebrick"
+  }
+}

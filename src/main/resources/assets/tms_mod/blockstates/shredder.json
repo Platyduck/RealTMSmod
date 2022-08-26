@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:shredder"
+    },
+    "facing=north": {
+      "model": "tms_mod:shredder"
+    },
+    "facing=east": {
+      "model": "tms_mod:shredder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:shredder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:shredder",
+      "y": 270
+    }
+  }
+}

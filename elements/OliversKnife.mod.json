@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "oliversknife",
+    "customModelName": "Normal",
+    "name": "Olivers Knife",
+    "specialInfo": [
+      "Tainted by the blood of the innocent"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:DerpysAndSnurbs"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 5.0,
+    "enchantability": 2,
+    "damageVsEntity": 49.0,
+    "usageCount": 2800,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/plasticunderblankarite",
+    "up": "tms_mod:blocks/plasticunderblankarite",
+    "north": "tms_mod:blocks/plasticunderblankarite",
+    "east": "tms_mod:blocks/plasticunderblankarite",
+    "south": "tms_mod:blocks/plasticunderblankarite",
+    "west": "tms_mod:blocks/plasticunderblankarite",
+    "particle": "tms_mod:blocks/plasticunderblankarite"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:cafe_wall"
+    },
+    "1": {
+      "item": "tms_mod:cafe_wall"
+    },
+    "2": {
+      "item": "tms_mod:cafe_wall"
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "4": {
+      "item": "tms_mod:cafe_tiles"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "6": {
+      "item": "tms_mod:cafe_wall"
+    },
+    "7": {
+      "item": "tms_mod:cafe_wall"
+    },
+    "8": {
+      "item": "tms_mod:cafe_wall"
+    }
+  },
+  "result": {
+    "item": "tms_mod:cafe_wall_mid",
+    "count": 24
+  }
+}

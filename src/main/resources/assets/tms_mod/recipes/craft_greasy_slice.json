@@ -1,0 +1,20 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:pizza"
+    },
+    "1": {
+      "item": "tms_mod:lotion"
+    }
+  },
+  "result": {
+    "item": "tms_mod:greasy_slice",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/snurblamptop",
+    "up": "tms_mod:blocks/carvedshuttle",
+    "north": "tms_mod:blocks/snurblantern",
+    "east": "tms_mod:blocks/snurblantern",
+    "south": "tms_mod:blocks/snurblantern",
+    "west": "tms_mod:blocks/snurblantern",
+    "particle": "tms_mod:blocks/snurblamptop"
+  }
+}

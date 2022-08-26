@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/squinkellogtop",
+    "up": "tms_mod:blocks/squinkellogtop",
+    "north": "tms_mod:blocks/squinkletreelog",
+    "east": "tms_mod:blocks/squinkletreelog",
+    "south": "tms_mod:blocks/squinkletreelog",
+    "west": "tms_mod:blocks/squinkletreelog",
+    "particle": "tms_mod:blocks/squinkellogtop"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/overgrown_log_top",
+    "up": "tms_mod:blocks/overgrown_log_top",
+    "north": "tms_mod:blocks/overgrown_log_side",
+    "east": "tms_mod:blocks/overgrown_log_side",
+    "south": "tms_mod:blocks/overgrown_log_side",
+    "west": "tms_mod:blocks/overgrown_log_side",
+    "particle": "tms_mod:blocks/overgrown_log_top"
+  }
+}

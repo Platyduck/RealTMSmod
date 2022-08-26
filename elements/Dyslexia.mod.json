@@ -1,0 +1,22 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Potion of Dyslexia",
+    "effectName": "Dyslexia",
+    "icon": "dyslexia.png",
+    "color": {
+      "value": -10092442,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "DyslexiaOnPotionActiveTick"
+    }
+  }
+}

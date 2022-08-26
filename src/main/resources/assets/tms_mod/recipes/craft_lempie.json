@@ -1,0 +1,27 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:milk_bucket"
+    },
+    "2": {
+      "item": "tms_mod:lemon"
+    },
+    "3": {
+      "item": "minecraft:sugar"
+    },
+    "5": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "tms_mod:lemon_pie",
+    "count": 1
+  }
+}

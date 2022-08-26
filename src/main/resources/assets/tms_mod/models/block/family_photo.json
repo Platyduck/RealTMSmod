@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/cafewall",
+    "up": "tms_mod:blocks/cafewall",
+    "north": "tms_mod:blocks/familyphoto",
+    "east": "tms_mod:blocks/cafewall",
+    "south": "tms_mod:blocks/cafewall",
+    "west": "tms_mod:blocks/cafewall",
+    "particle": "tms_mod:blocks/cafewall"
+  }
+}

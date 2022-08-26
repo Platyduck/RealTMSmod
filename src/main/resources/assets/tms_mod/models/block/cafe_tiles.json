@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/cafetiles",
+    "up": "tms_mod:blocks/cafetiles",
+    "north": "tms_mod:blocks/cafetiles",
+    "east": "tms_mod:blocks/cafetiles",
+    "south": "tms_mod:blocks/cafetiles",
+    "west": "tms_mod:blocks/cafetiles",
+    "particle": "tms_mod:blocks/cafetiles"
+  }
+}

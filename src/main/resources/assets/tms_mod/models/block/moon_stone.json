@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/moonstone",
+    "up": "tms_mod:blocks/moonstone",
+    "north": "tms_mod:blocks/moonstone",
+    "east": "tms_mod:blocks/moonstone",
+    "south": "tms_mod:blocks/moonstone",
+    "west": "tms_mod:blocks/moonstone",
+    "particle": "tms_mod:blocks/moonstone"
+  }
+}

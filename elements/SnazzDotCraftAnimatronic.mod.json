@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "Blocks.WOOL#15"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "CUSTOM:StrangeComputerChip"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SnazzDotAnimatronic"
+    },
+    "name": "snazz_dot_craft_animatronic",
+    "namespace": "mod"
+  }
+}

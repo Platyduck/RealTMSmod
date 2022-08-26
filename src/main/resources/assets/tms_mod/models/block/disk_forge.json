@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/diskmakerside",
+    "up": "tms_mod:blocks/diskmakerside",
+    "north": "tms_mod:blocks/diskmaker",
+    "east": "tms_mod:blocks/diskmakerside",
+    "south": "tms_mod:blocks/diskmakerside",
+    "west": "tms_mod:blocks/diskmakerside",
+    "particle": "tms_mod:blocks/diskmakerside"
+  }
+}

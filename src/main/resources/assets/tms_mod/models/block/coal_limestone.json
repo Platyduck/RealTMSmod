@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/coallime",
+    "up": "tms_mod:blocks/coallime",
+    "north": "tms_mod:blocks/coallime",
+    "east": "tms_mod:blocks/coallime",
+    "south": "tms_mod:blocks/coallime",
+    "west": "tms_mod:blocks/coallime",
+    "particle": "tms_mod:blocks/coallime"
+  }
+}

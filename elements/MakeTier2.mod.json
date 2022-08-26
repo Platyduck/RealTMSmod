@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmicitePlate"
+      },
+      {
+        "value": "CUSTOM:OweniumIngot"
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": "CUSTOM:RocketTier1"
+      },
+      {
+        "value": "CUSTOM:AmicitePlate"
+      },
+      {
+        "value": "Items.FIRE_CHARGE"
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier2"
+    },
+    "name": "make_tier_2",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/cobbledlimestone",
+    "up": "tms_mod:blocks/cobbledlimestone",
+    "north": "tms_mod:blocks/cobbledlimestone",
+    "east": "tms_mod:blocks/cobbledlimestone",
+    "south": "tms_mod:blocks/cobbledlimestone",
+    "west": "tms_mod:blocks/cobbledlimestone",
+    "particle": "tms_mod:blocks/cobbledlimestone"
+  }
+}

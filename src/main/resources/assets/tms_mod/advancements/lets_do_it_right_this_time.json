@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:reset_clock"
+    },
+    "title": {
+      "translate": "advancements.lets_do_it_right_this_time.title"
+    },
+    "description": {
+      "translate": "advancements.lets_do_it_right_this_time.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "lets_do_it_right_this_time": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:reset_clock",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:the_good_ending"
+}

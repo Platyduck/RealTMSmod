@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-10.png",
+    "name": "Record",
+    "description": "Days n' Daze - Goodbye Lulu Pt. 2",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:goodbyelulupt2"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

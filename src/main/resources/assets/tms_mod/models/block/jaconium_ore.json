@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/jaconiumore",
+    "up": "tms_mod:blocks/jaconiumore",
+    "north": "tms_mod:blocks/jaconiumore",
+    "east": "tms_mod:blocks/jaconiumore",
+    "south": "tms_mod:blocks/jaconiumore",
+    "west": "tms_mod:blocks/jaconiumore",
+    "particle": "tms_mod:blocks/jaconiumore"
+  }
+}

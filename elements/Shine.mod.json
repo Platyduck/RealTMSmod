@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-4.png",
+    "name": "Music Disc",
+    "description": "Shine - Antiformsgames",
+    "creativeTab": {
+      "value": "CUSTOM:KobePlanetTab"
+    },
+    "music": {
+      "value": "CUSTOM:shinesong"
+    },
+    "specialInfo": [
+      "Early Version of The Kobe Theme"
+    ],
+    "hasGlow": false
+  }
+}

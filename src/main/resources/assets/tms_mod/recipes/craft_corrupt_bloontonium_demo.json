@@ -1,0 +1,22 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:bloontonium"
+    },
+    "1": {
+      "item": "tms_mod:heartbleed_ingot"
+    },
+    "2": {
+      "item": "tms_mod:infuser"
+    }
+  },
+  "result": {
+    "item": "tms_mod:corrupted_bloontonium",
+    "count": 1
+  }
+}

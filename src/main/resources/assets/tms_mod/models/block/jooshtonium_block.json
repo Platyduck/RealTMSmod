@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/jooshtoniumbottom",
+    "up": "tms_mod:blocks/jooshtoniumtop",
+    "north": "tms_mod:blocks/jooshtoniumside2",
+    "east": "tms_mod:blocks/jooshtoniumside1",
+    "south": "tms_mod:blocks/jooshtoniumside2",
+    "west": "tms_mod:blocks/jooshtoniumside1",
+    "particle": "tms_mod:blocks/jooshtoniumbottom"
+  }
+}

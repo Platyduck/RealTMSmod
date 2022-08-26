@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NathiniumIngot"
+      },
+      {
+        "value": "CUSTOM:RossminiumIngot"
+      },
+      {
+        "value": "CUSTOM:ColtiniumDust"
+      },
+      {
+        "value": "CUSTOM:DyslexiumIngot"
+      },
+      {
+        "value": "CUSTOM:DerpiniumIngot"
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconium"
+      },
+      {
+        "value": "CUSTOM:OweniumIngot"
+      },
+      {
+        "value": "CUSTOM:ButterflyIngot"
+      },
+      {
+        "value": "CUSTOM:UnderblankareiteIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:UnitedSteelIngot"
+    },
+    "name": "united_steel_craft",
+    "namespace": "mod"
+  }
+}

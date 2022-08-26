@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "tms_mod:krinkel_slab_double"
+    }
+  }
+}

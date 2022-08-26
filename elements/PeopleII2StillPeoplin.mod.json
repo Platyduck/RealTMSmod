@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-7.png_1",
+    "name": "Music Disc",
+    "description": "AJJ - People II 2: Still Peoplin'",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:youcouldbuyasaladglove"
+    },
+    "specialInfo": [
+      "You could buy a Salad Glove"
+    ],
+    "hasGlow": false
+  }
+}

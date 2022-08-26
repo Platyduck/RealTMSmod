@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/birch_log_top",
+    "up": "tms_mod:blocks/birch_log_top",
+    "north": "tms_mod:blocks/birch_log",
+    "east": "tms_mod:blocks/birch_log",
+    "south": "tms_mod:blocks/birch_log",
+    "west": "tms_mod:blocks/birch_log",
+    "particle": "tms_mod:blocks/birch_log_top"
+  }
+}

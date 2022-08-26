@@ -1,0 +1,14 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "forgeryanwood_log"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:ryanwood_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:jooshtonium_block"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:jooshtonium_ingot",
+    "count": 9
+  }
+}

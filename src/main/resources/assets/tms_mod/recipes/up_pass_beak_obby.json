@@ -1,0 +1,20 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 ",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:snurb_beak"
+    },
+    "3": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "item": "tms_mod:snurbum_4",
+    "count": 1
+  }
+}

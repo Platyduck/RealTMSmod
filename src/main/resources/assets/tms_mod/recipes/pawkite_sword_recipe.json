@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:pawkite"
+    },
+    "1": {
+      "item": "tms_mod:pawkite"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pawkite_sword",
+    "count": 1
+  }
+}

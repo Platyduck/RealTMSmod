@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:raw_boi"
+    },
+    "title": {
+      "translate": "advancements.the_sinful_lick.title"
+    },
+    "description": {
+      "translate": "advancements.the_sinful_lick.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_sinful_lick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:raw_boi",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:the_start_of_something_horrible"
+}

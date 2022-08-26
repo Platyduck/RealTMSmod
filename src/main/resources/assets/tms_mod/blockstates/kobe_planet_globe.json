@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:kobe_planet_globe"
+    },
+    "facing=north": {
+      "model": "tms_mod:kobe_planet_globe"
+    },
+    "facing=east": {
+      "model": "tms_mod:kobe_planet_globe",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:kobe_planet_globe",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:kobe_planet_globe",
+      "y": 270
+    }
+  }
+}

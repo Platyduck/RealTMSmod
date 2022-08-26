@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/ventcover",
+    "up": "tms_mod:blocks/ventcover",
+    "north": "tms_mod:blocks/ventcover",
+    "east": "tms_mod:blocks/ventcover",
+    "south": "tms_mod:blocks/ventcover",
+    "west": "tms_mod:blocks/ventcover",
+    "particle": "tms_mod:blocks/ventcover"
+  }
+}

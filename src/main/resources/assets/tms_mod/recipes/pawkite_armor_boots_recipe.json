@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:pawkite"
+    },
+    "2": {
+      "item": "tms_mod:pawkite"
+    },
+    "3": {
+      "item": "tms_mod:pawkite"
+    },
+    "5": {
+      "item": "tms_mod:pawkite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pawkite_armorboots",
+    "count": 1
+  }
+}

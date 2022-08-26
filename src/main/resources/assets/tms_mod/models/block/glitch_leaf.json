@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/redglitch",
+    "up": "tms_mod:blocks/redglitch",
+    "north": "tms_mod:blocks/redglitch",
+    "east": "tms_mod:blocks/redglitch",
+    "south": "tms_mod:blocks/redglitch",
+    "west": "tms_mod:blocks/redglitch",
+    "particle": "tms_mod:blocks/redglitch"
+  }
+}

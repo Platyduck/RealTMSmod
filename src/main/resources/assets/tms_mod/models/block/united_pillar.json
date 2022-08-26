@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/unitedcrosssection",
+    "up": "tms_mod:blocks/unitedcrosssection",
+    "north": "tms_mod:blocks/uppillar",
+    "east": "tms_mod:blocks/uppillar",
+    "south": "tms_mod:blocks/uppillar",
+    "west": "tms_mod:blocks/uppillar",
+    "particle": "tms_mod:blocks/unitedcrosssection"
+  }
+}

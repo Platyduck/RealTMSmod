@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:heavy_duty_shuttle_sheeting"
+    }
+  }
+}

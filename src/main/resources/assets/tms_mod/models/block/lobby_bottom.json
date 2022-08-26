@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/steelfloor",
+    "up": "tms_mod:blocks/bottom",
+    "north": "tms_mod:blocks/lobbybottom",
+    "east": "tms_mod:blocks/lobbybottom",
+    "south": "tms_mod:blocks/lobbybottom",
+    "west": "tms_mod:blocks/lobbybottom",
+    "particle": "tms_mod:blocks/steelfloor"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:paper"
+    },
+    "1": {
+      "item": "minecraft:paper"
+    },
+    "3": {
+      "item": "minecraft:paper"
+    },
+    "4": {
+      "item": "minecraft:paper"
+    },
+    "5": {
+      "item": "minecraft:dye",
+      "data": 11
+    },
+    "7": {
+      "item": "minecraft:potion",
+      "data": 32767
+    }
+  },
+  "result": {
+    "item": "tms_mod:damp_yellow_wallpaper",
+    "count": 16
+  }
+}

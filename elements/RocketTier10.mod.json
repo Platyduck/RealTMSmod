@@ -1,0 +1,41 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "tier10rocket",
+    "customModelName": "Normal",
+    "name": "Tier 10 Rocket",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:Rocketry"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "This bad boy can reach any system in the galaxy..."
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "RocketTier10RightClickedOnBlock"
+    },
+    "onRightClickedOnBlock": {
+      "name": "RocketTier10RightClickedOnBlock"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tms_mod:the_mackenzone_portal_ew"
+    },
+    "axis=x": {
+      "model": "tms_mod:the_mackenzone_portal_ns"
+    },
+    "inventory": {
+      "model": "tms_mod:the_mackenzone_portal_ns"
+    }
+  }
+}

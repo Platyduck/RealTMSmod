@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/natureleaf",
+    "up": "tms_mod:blocks/natureleaf",
+    "north": "tms_mod:blocks/natureleaf",
+    "east": "tms_mod:blocks/natureleaf",
+    "south": "tms_mod:blocks/natureleaf",
+    "west": "tms_mod:blocks/natureleaf",
+    "particle": "tms_mod:blocks/natureleaf"
+  }
+}

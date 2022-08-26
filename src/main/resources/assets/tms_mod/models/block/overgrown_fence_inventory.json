@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "tms_mod:blocks/livingplank",
+    "particle": "tms_mod:blocks/livingplank"
+  }
+}

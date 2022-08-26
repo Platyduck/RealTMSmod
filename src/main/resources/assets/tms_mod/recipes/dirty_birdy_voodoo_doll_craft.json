@@ -1,0 +1,33 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:wool",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:feather"
+    },
+    "4": {
+      "item": "minecraft:wool",
+      "data": 8
+    },
+    "5": {
+      "item": "minecraft:feather"
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 7
+    }
+  },
+  "result": {
+    "item": "tms_mod:rotlandia",
+    "count": 1
+  }
+}

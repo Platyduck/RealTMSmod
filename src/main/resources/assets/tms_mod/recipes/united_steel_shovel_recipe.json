@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:united_steel_ingot"
+    },
+    "1": {
+      "item": "tms_mod:iron_rod"
+    },
+    "2": {
+      "item": "tms_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:united_steel_shovel",
+    "count": 1
+  }
+}

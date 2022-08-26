@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/snurbcarpet",
+    "up": "tms_mod:blocks/snurbcarpet",
+    "north": "tms_mod:blocks/snurbcarpet",
+    "east": "tms_mod:blocks/snurbcarpet",
+    "south": "tms_mod:blocks/snurbcarpet",
+    "west": "tms_mod:blocks/snurbcarpet",
+    "particle": "tms_mod:blocks/snurbcarpet"
+  }
+}

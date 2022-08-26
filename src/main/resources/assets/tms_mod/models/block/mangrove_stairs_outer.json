@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "tms_mod:blocks/plank_mangrove",
+    "top": "tms_mod:blocks/plank_mangrove",
+    "side": "tms_mod:blocks/plank_mangrove"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MomillaVoid"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:GlitchLeaf"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:MomillaLog"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Mainframe"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "ambient.cave"
+    },
+    "igniterName": "Untuned Wormhole Component",
+    "igniterTab": {
+      "value": "CUSTOM:KillBoars"
+    },
+    "texture": "untunedwormhollestaff",
+    "portalTexture": "glitch",
+    "enablePortal": true
+  }
+}

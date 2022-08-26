@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:UnrefinedUnderblankareite"
+      },
+      {
+        "value": "CUSTOM:JooshtoniumBlock"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": "CUSTOM:RocketTier6"
+      },
+      {
+        "value": "CUSTOM:UnrefinedUnderblankareite"
+      },
+      {
+        "value": "CUSTOM:Plasticoal"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier7"
+    },
+    "name": "make_tier_7",
+    "namespace": "mod"
+  }
+}

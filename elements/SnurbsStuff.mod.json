@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Snurbum 4",
+    "icon": {
+      "value": "CUSTOM:Snurbite"
+    },
+    "showSearch": false
+  }
+}

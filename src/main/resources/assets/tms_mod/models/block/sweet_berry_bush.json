@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tms_mod:blocks/sweet_berry_bush_stage3",
+    "particle": "tms_mod:blocks/sweet_berry_bush_stage3"
+  }
+}

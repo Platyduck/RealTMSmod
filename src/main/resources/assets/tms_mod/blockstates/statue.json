@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:statue"
+    },
+    "facing=north": {
+      "model": "tms_mod:statue"
+    },
+    "facing=east": {
+      "model": "tms_mod:statue",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:statue",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:statue",
+      "y": 270
+    }
+  }
+}

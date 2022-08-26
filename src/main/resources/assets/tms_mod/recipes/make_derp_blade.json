@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "tms_mod:derpinium_ingot"
+    },
+    "4": {
+      "item": "tms_mod:derpinium_ingot"
+    },
+    "6": {
+      "item": "tms_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:derp_blade",
+    "count": 1
+  }
+}

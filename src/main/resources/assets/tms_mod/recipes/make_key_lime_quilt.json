@@ -1,0 +1,16 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:white_quilt"
+    },
+    {
+      "item": "tms_mod:lime"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:key_lime_parlor_quilt",
+    "count": 1
+  }
+}

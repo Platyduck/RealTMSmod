@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/backroomslevel1",
+    "up": "tms_mod:blocks/backroomslevel1",
+    "north": "tms_mod:blocks/backroomslevel1",
+    "east": "tms_mod:blocks/backroomslevel1",
+    "south": "tms_mod:blocks/backroomslevel1",
+    "west": "tms_mod:blocks/backroomslevel1",
+    "particle": "tms_mod:blocks/backroomslevel1"
+  }
+}

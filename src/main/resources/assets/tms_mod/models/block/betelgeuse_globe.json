@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/betelgeuse",
+    "up": "tms_mod:blocks/betelgeuse",
+    "north": "tms_mod:blocks/betelgeuse",
+    "east": "tms_mod:blocks/betelgeuse",
+    "south": "tms_mod:blocks/betelgeuse",
+    "west": "tms_mod:blocks/betelgeuse",
+    "particle": "tms_mod:blocks/betelgeuse"
+  }
+}

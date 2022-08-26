@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "new_piskel-15.png_1",
+    "name": "Susmeiser's Sustacular Disc",
+    "description": "Something sus is brewing",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:susmiser"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

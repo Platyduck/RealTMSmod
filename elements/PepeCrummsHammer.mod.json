@@ -1,0 +1,43 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pepehammer",
+    "customModelName": "Normal",
+    "name": "Pepe Crumm's Hammer",
+    "specialInfo": [
+      "Legendary Hammer from the heroics of Pepe Crumm"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "Special",
+    "harvestLevel": 4,
+    "efficiency": 15.0,
+    "attackSpeed": 0.5,
+    "enchantability": 2,
+    "damageVsEntity": 23.0,
+    "usageCount": 4200,
+    "blocksAffected": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NathiniumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "PepeCrummsHammerLivingEntityIsHitWithTool"
+    },
+    "onItemInUseTick": {
+      "name": "PepeCrummsHammerToolInHandTick"
+    }
+  }
+}

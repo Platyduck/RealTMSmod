@@ -1,0 +1,43 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:kobite"
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "2": {
+      "item": "tms_mod:kobite"
+    },
+    "3": {
+      "item": "tms_mod:kobite"
+    },
+    "4": {
+      "item": "tms_mod:strange_computer_chip"
+    },
+    "5": {
+      "item": "tms_mod:rexium_ingot"
+    },
+    "6": {
+      "item": "tms_mod:kobite"
+    },
+    "7": {
+      "item": "tms_mod:kobite"
+    },
+    "8": {
+      "item": "tms_mod:kobite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:kobe_animatronic",
+    "count": 1
+  }
+}

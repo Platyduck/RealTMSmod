@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/kobeplanetglobeside",
+    "up": "tms_mod:blocks/kobeplanetglobetop",
+    "north": "tms_mod:blocks/kobeplanetglobe",
+    "east": "tms_mod:blocks/kobeplanetglobeside",
+    "south": "tms_mod:blocks/kobeplanetglobeside",
+    "west": "tms_mod:blocks/kobeplanetglobeside",
+    "particle": "tms_mod:blocks/kobeplanetglobeside"
+  }
+}

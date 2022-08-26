@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:plasticoal"
+    },
+    "title": {
+      "translate": "advancements.screw_the_turtles.title"
+    },
+    "description": {
+      "translate": "advancements.screw_the_turtles.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "screw_the_turtles": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:a_planet_as_fake_as_its_ruler"
+}

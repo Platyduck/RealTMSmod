@@ -1,0 +1,20 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:elder_ruby"
+    },
+    "1": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:blazing_saber_hilt",
+    "count": 1
+  }
+}

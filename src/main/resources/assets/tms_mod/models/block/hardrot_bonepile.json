@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/rotbonepile",
+    "up": "tms_mod:blocks/rotbonepile",
+    "north": "tms_mod:blocks/rotbonepile",
+    "east": "tms_mod:blocks/rotbonepile",
+    "south": "tms_mod:blocks/rotbonepile",
+    "west": "tms_mod:blocks/rotbonepile",
+    "particle": "tms_mod:blocks/rotbonepile"
+  }
+}

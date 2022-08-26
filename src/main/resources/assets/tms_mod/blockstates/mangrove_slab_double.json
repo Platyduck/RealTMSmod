@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "tms_mod:mangrove_slab_double"
+    }
+  }
+}

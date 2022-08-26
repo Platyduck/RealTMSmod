@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/basalt_top",
+    "up": "tms_mod:blocks/basalt_top",
+    "north": "tms_mod:blocks/basalt_side",
+    "east": "tms_mod:blocks/basalt_side",
+    "south": "tms_mod:blocks/basalt_side",
+    "west": "tms_mod:blocks/basalt_side",
+    "particle": "tms_mod:blocks/basalt_top"
+  }
+}

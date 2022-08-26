@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SansDogeiumIngot"
+      },
+      {
+        "value": "CUSTOM:SansDogeiumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SansDogeiumIngot"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SansDogeiumAxe"
+    },
+    "name": "sans_dogeium_axe_recipe",
+    "namespace": "mod"
+  }
+}

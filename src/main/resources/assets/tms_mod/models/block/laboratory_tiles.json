@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/floortile",
+    "up": "tms_mod:blocks/floortile",
+    "north": "tms_mod:blocks/floortile",
+    "east": "tms_mod:blocks/floortile",
+    "south": "tms_mod:blocks/floortile",
+    "west": "tms_mod:blocks/floortile",
+    "particle": "tms_mod:blocks/floortile"
+  }
+}

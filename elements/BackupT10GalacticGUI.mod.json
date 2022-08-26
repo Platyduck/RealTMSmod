@@ -1,0 +1,242 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 330,
+    "height": 226,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Galactic Travel",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Galactic Travel",
+          "x": 176,
+          "y": 10
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Earth",
+          "onClick": {
+            "name": "EarthLaunch"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Earth",
+          "x": 190,
+          "y": 24
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gravity Bubble",
+          "onClick": {
+            "name": "TitanLaunch"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Gravity Bubble",
+          "x": 166,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Neptune II",
+          "onClick": {
+            "name": "NeptuneLaunch"
+          },
+          "width": 75,
+          "height": 20,
+          "name": "Neptune II",
+          "x": 178,
+          "y": 64
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Betelguise",
+          "onClick": {
+            "name": "BetelguiseLaunch"
+          },
+          "width": 75,
+          "height": 20,
+          "name": "Betelguise",
+          "x": 178,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Thicc Planet",
+          "onClick": {
+            "name": "ThiccPlanetLaunch"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Thicc Planet",
+          "x": 172,
+          "y": 104
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Snurbum-4",
+          "onClick": {
+            "name": "Snurbum4Launch"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "Snurbum-4",
+          "x": 180,
+          "y": 124
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "KM-15",
+          "onClick": {
+            "name": "KM15Launch"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "KM-15",
+          "x": 190,
+          "y": 144
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Kobe Planet",
+          "onClick": {
+            "name": "KobePlanetLaunch"
+          },
+          "width": 80,
+          "height": 20,
+          "name": "Kobe Planet",
+          "x": 174,
+          "y": 164
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Kawp",
+          "onClick": {
+            "name": "KawpLaunch"
+          },
+          "width": 45,
+          "height": 20,
+          "name": "Kawp",
+          "x": 192,
+          "y": 184
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Distant Moon",
+          "onClick": {
+            "name": "DistantMoonLaunch"
+          },
+          "width": 85,
+          "height": 20,
+          "name": "Distant Moon",
+          "x": 172,
+          "y": 204
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rossmania",
+          "width": 70,
+          "height": 20,
+          "name": "Rossmania",
+          "x": 303,
+          "y": 62
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Natrea",
+          "onClick": {
+            "name": "NatreaLaunch"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Natrea",
+          "x": 303,
+          "y": 116
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Snurbum-9",
+          "onClick": {
+            "name": "BirbumLaunch"
+          },
+          "width": 70,
+          "height": 20,
+          "name": "Snurbum-9",
+          "x": 303,
+          "y": 35
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Dislex",
+          "width": 55,
+          "height": 20,
+          "name": "Dislex",
+          "x": 303,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Bonus Planets",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Bonus Planets",
+          "x": 303,
+          "y": 17
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Abby Cloud",
+          "width": 75,
+          "height": 20,
+          "name": "Abby Cloud",
+          "x": 303,
+          "y": 143
+        }
+      }
+    ]
+  }
+}

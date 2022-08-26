@@ -1,0 +1,28 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "criscosrice",
+    "customModelName": "Normal",
+    "name": "Crisco's Rice",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "A toy in every yummy meal!"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 10,
+    "saturation": 0.8,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": "CUSTOM:CroscoPellet"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/copper_block",
+    "up": "tms_mod:blocks/copper_block",
+    "north": "tms_mod:blocks/copper_block",
+    "east": "tms_mod:blocks/copper_block",
+    "south": "tms_mod:blocks/copper_block",
+    "west": "tms_mod:blocks/copper_block",
+    "particle": "tms_mod:blocks/copper_block"
+  }
+}

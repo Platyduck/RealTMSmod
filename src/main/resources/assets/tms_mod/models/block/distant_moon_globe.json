@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/moonglobebottom",
+    "up": "tms_mod:blocks/moonglobeblock",
+    "north": "tms_mod:blocks/distantmoonglobe",
+    "east": "tms_mod:blocks/distantmoonglobe",
+    "south": "tms_mod:blocks/distantmoonglobe",
+    "west": "tms_mod:blocks/moonglobeside",
+    "particle": "tms_mod:blocks/moonglobebottom"
+  }
+}

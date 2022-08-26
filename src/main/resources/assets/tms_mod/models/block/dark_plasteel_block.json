@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/netheplastic",
+    "up": "tms_mod:blocks/netheplastic",
+    "north": "tms_mod:blocks/netheplastic",
+    "east": "tms_mod:blocks/netheplastic",
+    "south": "tms_mod:blocks/netheplastic",
+    "west": "tms_mod:blocks/netheplastic",
+    "particle": "tms_mod:blocks/netheplastic"
+  }
+}

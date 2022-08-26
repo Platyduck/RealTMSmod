@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/funtiles",
+    "up": "tms_mod:blocks/funtiles",
+    "north": "tms_mod:blocks/funtiles",
+    "east": "tms_mod:blocks/funtiles",
+    "south": "tms_mod:blocks/funtiles",
+    "west": "tms_mod:blocks/funtiles",
+    "particle": "tms_mod:blocks/funtiles"
+  }
+}

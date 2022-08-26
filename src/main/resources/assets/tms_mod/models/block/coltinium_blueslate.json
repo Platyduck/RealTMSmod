@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/bluecoltonore",
+    "up": "tms_mod:blocks/bluecoltonore",
+    "north": "tms_mod:blocks/bluecoltonore",
+    "east": "tms_mod:blocks/bluecoltonore",
+    "south": "tms_mod:blocks/bluecoltonore",
+    "west": "tms_mod:blocks/bluecoltonore",
+    "particle": "tms_mod:blocks/bluecoltonore"
+  }
+}

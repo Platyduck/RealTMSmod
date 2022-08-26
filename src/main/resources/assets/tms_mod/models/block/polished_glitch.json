@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/cleanglitch",
+    "up": "tms_mod:blocks/cleanglitch",
+    "north": "tms_mod:blocks/cleanglitch",
+    "east": "tms_mod:blocks/cleanglitch",
+    "south": "tms_mod:blocks/cleanglitch",
+    "west": "tms_mod:blocks/cleanglitch",
+    "particle": "tms_mod:blocks/cleanglitch"
+  }
+}

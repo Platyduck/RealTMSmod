@@ -1,0 +1,28 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "experiment11",
+    "customModelName": "Normal",
+    "name": "Cooked Rat",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Experiment 11: What happens if we burn Owen?"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:TMSmod"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 0.3,
+    "eatingSpeed": 10,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

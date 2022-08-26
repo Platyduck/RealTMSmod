@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": "CUSTOM:UnpreppedShuttle"
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "Items.FIRE_CHARGE"
+      },
+      {
+        "value": "CUSTOM:IronRod"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier1"
+    },
+    "name": "make_tier_1",
+    "namespace": "mod"
+  }
+}

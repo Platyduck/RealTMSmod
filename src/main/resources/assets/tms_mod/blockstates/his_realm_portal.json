@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "tms_mod:his_realm_portal_ew"
+    },
+    "axis=x": {
+      "model": "tms_mod:his_realm_portal_ns"
+    },
+    "inventory": {
+      "model": "tms_mod:his_realm_portal_ns"
+    }
+  }
+}

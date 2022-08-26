@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=dandelion": {
+      "model": "tms_mod:white_rose"
+    }
+  }
+}

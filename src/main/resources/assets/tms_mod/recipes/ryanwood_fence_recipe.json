@@ -1,0 +1,32 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:ryanwood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "tms_mod:ryanwood_planks"
+    },
+    "3": {
+      "item": "tms_mod:ryanwood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "tms_mod:ryanwood_planks"
+    }
+  },
+  "result": {
+    "item": "tms_mod:ryanwood_fence",
+    "count": 3
+  }
+}

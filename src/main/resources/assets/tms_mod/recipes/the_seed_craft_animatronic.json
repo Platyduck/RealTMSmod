@@ -1,0 +1,27 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:golden_helmet"
+    },
+    "2": {
+      "item": "tms_mod:lemon"
+    },
+    "3": {
+      "item": "tms_mod:strange_computer_chip"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:seed_animatronic",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "tms_mod:squinkel_slab_double"
+    }
+  }
+}

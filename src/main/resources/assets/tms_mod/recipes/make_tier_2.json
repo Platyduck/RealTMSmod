@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:amicite_plate"
+    },
+    "2": {
+      "item": "tms_mod:owenium_ingot"
+    },
+    "3": {
+      "item": "tms_mod:iron_rod"
+    },
+    "4": {
+      "item": "tms_mod:rocket_tier_1"
+    },
+    "5": {
+      "item": "tms_mod:amicite_plate"
+    },
+    "6": {
+      "item": "minecraft:fire_charge"
+    },
+    "7": {
+      "item": "tms_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rocket_tier_2",
+    "count": 1
+  }
+}

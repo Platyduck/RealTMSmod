@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/netherrack",
+    "up": "tms_mod:blocks/netherrack",
+    "north": "tms_mod:blocks/netherrack",
+    "east": "tms_mod:blocks/netherrack",
+    "south": "tms_mod:blocks/netherrack",
+    "west": "tms_mod:blocks/netherrack",
+    "particle": "tms_mod:blocks/netherrack"
+  }
+}

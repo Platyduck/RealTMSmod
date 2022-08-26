@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/lapis_block",
+    "up": "tms_mod:blocks/lapis_block",
+    "north": "tms_mod:blocks/lapis_block",
+    "east": "tms_mod:blocks/lapis_block",
+    "south": "tms_mod:blocks/lapis_block",
+    "west": "tms_mod:blocks/lapis_block",
+    "particle": "tms_mod:blocks/lapis_block"
+  }
+}

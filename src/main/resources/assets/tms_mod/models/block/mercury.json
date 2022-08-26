@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/mercury",
+    "up": "tms_mod:blocks/mercury",
+    "north": "tms_mod:blocks/mercury",
+    "east": "tms_mod:blocks/mercury",
+    "south": "tms_mod:blocks/mercury",
+    "west": "tms_mod:blocks/mercury",
+    "particle": "tms_mod:blocks/mercury"
+  }
+}

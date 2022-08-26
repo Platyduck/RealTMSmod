@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/bosstiles",
+    "up": "tms_mod:blocks/bosstiles",
+    "north": "tms_mod:blocks/bosstiles",
+    "east": "tms_mod:blocks/bosstiles",
+    "south": "tms_mod:blocks/bosstiles",
+    "west": "tms_mod:blocks/bosstiles",
+    "particle": "tms_mod:blocks/bosstiles"
+  }
+}

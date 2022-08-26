@@ -1,0 +1,39 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "1": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "2": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "3": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "5": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "6": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "7": {
+      "item": "tms_mod:cobbled_limestone"
+    },
+    "8": {
+      "item": "tms_mod:cobbled_limestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

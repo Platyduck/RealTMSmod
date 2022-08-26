@@ -1,0 +1,23 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:cheese"
+    },
+    "2": {
+      "item": "tms_mod:cooked_morsel"
+    },
+    "3": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pizza",
+    "count": 1
+  }
+}

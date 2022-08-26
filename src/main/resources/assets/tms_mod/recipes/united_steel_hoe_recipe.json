@@ -1,0 +1,27 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:united_steel_ingot"
+    },
+    "1": {
+      "item": "tms_mod:united_steel_ingot"
+    },
+    "3": {
+      "item": "tms_mod:iron_rod"
+    },
+    "5": {
+      "item": "tms_mod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:united_steel_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:birbite"
+    },
+    "1": {
+      "item": "tms_mod:birbite"
+    },
+    "2": {
+      "item": "tms_mod:birbite"
+    },
+    "3": {
+      "item": "tms_mod:birbite"
+    },
+    "4": {
+      "item": "tms_mod:strange_computer_chip"
+    },
+    "5": {
+      "item": "tms_mod:pawkite"
+    },
+    "6": {
+      "item": "tms_mod:birbite"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    },
+    "8": {
+      "item": "tms_mod:birbite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:birb_animatronic_real",
+    "count": 1
+  }
+}

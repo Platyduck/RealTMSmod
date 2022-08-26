@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:kobite_plate"
+    },
+    "2": {
+      "item": "tms_mod:kobite"
+    },
+    "3": {
+      "item": "tms_mod:plasteel_ingot"
+    },
+    "4": {
+      "item": "tms_mod:rocket_tier_7"
+    },
+    "5": {
+      "item": "tms_mod:kobite_plate"
+    },
+    "6": {
+      "item": "tms_mod:plasticoal"
+    },
+    "7": {
+      "item": "tms_mod:plasteel_ingot"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rocket_tier_8",
+    "count": 1
+  }
+}

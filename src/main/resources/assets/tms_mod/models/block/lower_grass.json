@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/lowerdirt",
+    "up": "tms_mod:blocks/lowergrass",
+    "north": "tms_mod:blocks/lowergrassside",
+    "east": "tms_mod:blocks/lowergrassside",
+    "south": "tms_mod:blocks/lowergrassside",
+    "west": "tms_mod:blocks/lowergrassside",
+    "particle": "tms_mod:blocks/lowerdirt"
+  }
+}

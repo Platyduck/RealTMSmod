@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/jungle_planks",
+    "up": "tms_mod:blocks/jungle_planks",
+    "north": "tms_mod:blocks/jungle_planks",
+    "east": "tms_mod:blocks/jungle_planks",
+    "south": "tms_mod:blocks/jungle_planks",
+    "west": "tms_mod:blocks/jungle_planks",
+    "particle": "tms_mod:blocks/jungle_planks"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:koylite_block"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:koylite_ingot",
+    "count": 9
+  }
+}

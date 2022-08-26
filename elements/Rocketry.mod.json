@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Rocketry",
+    "icon": {
+      "value": "CUSTOM:UnpreppedShuttle"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "United Planets",
+    "icon": {
+      "value": "CUSTOM:UPPass"
+    },
+    "showSearch": false
+  }
+}

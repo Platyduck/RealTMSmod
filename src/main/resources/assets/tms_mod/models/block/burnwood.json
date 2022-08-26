@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/burnwoodtop",
+    "up": "tms_mod:blocks/burnwoodtop",
+    "north": "tms_mod:blocks/burnwood",
+    "east": "tms_mod:blocks/burnwood",
+    "south": "tms_mod:blocks/burnwood",
+    "west": "tms_mod:blocks/burnwood",
+    "particle": "tms_mod:blocks/burnwoodtop"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ozmiredagger",
+    "customModelName": "Normal",
+    "name": "Ozmire Dagger",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 10.0,
+    "enchantability": 2,
+    "damageVsEntity": 7.5,
+    "usageCount": 800,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

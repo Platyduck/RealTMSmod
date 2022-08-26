@@ -1,0 +1,39 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:snurbite"
+    },
+    "2": {
+      "item": "tms_mod:snurbite"
+    },
+    "3": {
+      "item": "tms_mod:snurbite"
+    },
+    "4": {
+      "item": "tms_mod:snurbite"
+    },
+    "5": {
+      "item": "tms_mod:snurbite"
+    },
+    "6": {
+      "item": "tms_mod:snurbite"
+    },
+    "7": {
+      "item": "tms_mod:snurbite"
+    },
+    "8": {
+      "item": "tms_mod:snurbite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:snurbinian_armorbody",
+    "count": 1
+  }
+}

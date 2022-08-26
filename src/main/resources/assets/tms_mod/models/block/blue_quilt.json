@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/bluequilt",
+    "up": "tms_mod:blocks/bluequilt",
+    "north": "tms_mod:blocks/bluequilt",
+    "east": "tms_mod:blocks/bluequilt",
+    "south": "tms_mod:blocks/bluequilt",
+    "west": "tms_mod:blocks/bluequilt",
+    "particle": "tms_mod:blocks/bluequilt"
+  }
+}

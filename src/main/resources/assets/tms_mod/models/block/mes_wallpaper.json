@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/mestiles",
+    "up": "tms_mod:blocks/mestiles",
+    "north": "tms_mod:blocks/mestiles",
+    "east": "tms_mod:blocks/mestiles",
+    "south": "tms_mod:blocks/mestiles",
+    "west": "tms_mod:blocks/mestiles",
+    "particle": "tms_mod:blocks/mestiles"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/kenziedirt",
+    "up": "tms_mod:blocks/kenziegrasstop",
+    "north": "tms_mod:blocks/kenziegrass",
+    "east": "tms_mod:blocks/kenziegrass",
+    "south": "tms_mod:blocks/kenziegrass",
+    "west": "tms_mod:blocks/kenziegrass",
+    "particle": "tms_mod:blocks/kenziedirt"
+  }
+}

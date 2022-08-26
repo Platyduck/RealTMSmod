@@ -1,0 +1,34 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "snurblade2",
+    "customModelName": "Normal",
+    "name": "Snurblade",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 10.0,
+    "attackSpeed": 4.0,
+    "enchantability": 35,
+    "damageVsEntity": 14.0,
+    "usageCount": 1902,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Snurbite"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "SnurbiteToolsSwordRightClickedInAir"
+    }
+  }
+}

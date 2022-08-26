@@ -1,0 +1,19 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_springstorm-1.png",
+    "name": "Music Disc",
+    "description": "Spring and a Storm -Tally Hall",
+    "creativeTab": {
+      "value": "CUSTOM:SnurbsStuff"
+    },
+    "music": {
+      "value": "CUSTOM:springandastorm"
+    },
+    "specialInfo": [
+      "8 Bit Version"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/nii_floor_1",
+    "up": "tms_mod:blocks/nii_floor_1",
+    "north": "tms_mod:blocks/nii_floor_1",
+    "east": "tms_mod:blocks/nii_floor_1",
+    "south": "tms_mod:blocks/nii_floor_1",
+    "west": "tms_mod:blocks/nii_floor_1",
+    "particle": "tms_mod:blocks/nii_floor_1"
+  }
+}

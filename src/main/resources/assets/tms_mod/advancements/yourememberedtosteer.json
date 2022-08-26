@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:bus_1"
+    },
+    "title": {
+      "translate": "advancements.yourememberedtosteer.title"
+    },
+    "description": {
+      "translate": "advancements.yourememberedtosteer.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yourememberedtosteer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:bus_1",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:dont_forget_to_steer"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/plasticglobetop",
+    "up": "tms_mod:blocks/plasticglobetop",
+    "north": "tms_mod:blocks/plasticmoon",
+    "east": "tms_mod:blocks/plasticmoon",
+    "south": "tms_mod:blocks/plasticmoon",
+    "west": "tms_mod:blocks/plasticmoon",
+    "particle": "tms_mod:blocks/plasticglobetop"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/snurbumore",
+    "up": "tms_mod:blocks/snurbumore",
+    "north": "tms_mod:blocks/snurbumore",
+    "east": "tms_mod:blocks/snurbumore",
+    "south": "tms_mod:blocks/snurbumore",
+    "west": "tms_mod:blocks/snurbumore",
+    "particle": "tms_mod:blocks/snurbumore"
+  }
+}

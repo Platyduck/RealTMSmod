@@ -1,0 +1,20 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:plastic_planks"
+    },
+    "1": {
+      "item": "tms_mod:plastic_planks"
+    }
+  },
+  "result": {
+    "item": "tms_mod:plastic_stick",
+    "count": 4
+  }
+}

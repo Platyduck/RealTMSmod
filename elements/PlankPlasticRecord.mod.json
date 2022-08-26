@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-11.png",
+    "name": "Blank Plastic Record",
+    "description": "There is nothing on this record yet!",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.anvil.place"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

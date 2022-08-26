@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/limestoneiron",
+    "up": "tms_mod:blocks/limestoneiron",
+    "north": "tms_mod:blocks/limestoneiron",
+    "east": "tms_mod:blocks/limestoneiron",
+    "south": "tms_mod:blocks/limestoneiron",
+    "west": "tms_mod:blocks/limestoneiron",
+    "particle": "tms_mod:blocks/limestoneiron"
+  }
+}

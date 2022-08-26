@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "tms_mod:blocks/bottom",
+    "top": "tms_mod:blocks/bottom",
+    "side": "tms_mod:blocks/bottom"
+  }
+}

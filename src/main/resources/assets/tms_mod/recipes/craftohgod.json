@@ -1,0 +1,20 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:the_peanut_butter"
+    },
+    "2": {
+      "item": "tms_mod:stange_object"
+    }
+  },
+  "result": {
+    "item": "tms_mod:oh_god",
+    "count": 1
+  }
+}

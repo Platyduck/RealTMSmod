@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlaticStone"
+      },
+      {
+        "value": "CUSTOM:PlaticStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlaticStone"
+      },
+      {
+        "value": "CUSTOM:PlasticStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlasticStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PlastoneAxe"
+    },
+    "name": "plastone_axe_recipe",
+    "namespace": "mod"
+  }
+}

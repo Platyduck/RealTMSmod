@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "beachboygetsaround",
+    "name": "Music Disc",
+    "description": "The Beach Boys - I Get Around",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:igetaround"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

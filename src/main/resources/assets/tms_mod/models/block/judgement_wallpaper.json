@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/judgementwallpaper",
+    "up": "tms_mod:blocks/judgementwallpaper",
+    "north": "tms_mod:blocks/judgementwallpaper",
+    "east": "tms_mod:blocks/judgementwallpaper",
+    "south": "tms_mod:blocks/judgementwallpaper",
+    "west": "tms_mod:blocks/judgementwallpaper",
+    "particle": "tms_mod:blocks/judgementwallpaper"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/log_oak-2.png",
+    "up": "tms_mod:blocks/log_oak-2.png",
+    "north": "tms_mod:blocks/snurblog",
+    "east": "tms_mod:blocks/snurblog",
+    "south": "tms_mod:blocks/snurblog",
+    "west": "tms_mod:blocks/snurblog",
+    "particle": "tms_mod:blocks/log_oak-2.png"
+  }
+}

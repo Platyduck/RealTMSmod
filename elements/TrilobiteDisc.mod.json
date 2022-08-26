@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "hissues1",
+    "name": "Graham Song",
+    "description": "The Coal Miners - Trilobite (Instrumental)",
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "music": {
+      "value": "CUSTOM:trilosong"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

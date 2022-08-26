@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:rexium_nugget"
+    },
+    "1": {
+      "item": "tms_mod:rexium_ingot"
+    },
+    "2": {
+      "item": "tms_mod:rexium_ingot"
+    },
+    "3": {
+      "item": "tms_mod:rexium_nugget"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rexium_plate",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/happyhellstone",
+    "up": "tms_mod:blocks/happyhellgrasstop",
+    "north": "tms_mod:blocks/happyhellgrass",
+    "east": "tms_mod:blocks/happyhellgrass",
+    "south": "tms_mod:blocks/happyhellgrass",
+    "west": "tms_mod:blocks/happyhellgrass",
+    "particle": "tms_mod:blocks/happyhellstone"
+  }
+}

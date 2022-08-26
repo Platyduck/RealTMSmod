@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "up": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "north": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "east": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "south": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "west": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "particle": "tms_mod:blocks/decorative_blocks_metal_mesh"
+  }
+}

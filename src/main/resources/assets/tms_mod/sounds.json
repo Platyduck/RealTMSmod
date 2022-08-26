@@ -1,0 +1,219 @@
+{
+  "springandastorm": {
+    "category": "record",
+    "subtitle": "subtitles.springandastorm",
+    "sounds": [
+      {
+        "name": "tms_mod:tally-hall-spring-and-a-storm-_8-bit-cover_",
+        "stream": true
+      }
+    ]
+  },
+  "corruptuniversesong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:united_planets_ost_1_-_tales_of_the_corrupt_universes",
+        "stream": true
+      }
+    ]
+  },
+  "redgiantsong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:united_planets_ost_2_-_red_giant",
+        "stream": true
+      }
+    ]
+  },
+  "intergalacticshippingsong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:united_planets_ost_3_-_intergalactic_shipping",
+        "stream": true
+      }
+    ]
+  },
+  "shinesong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:united_planets_ost_5_-_shine",
+        "stream": true
+      }
+    ]
+  },
+  "getthisbred": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tms_mod:get_this_bread",
+        "stream": false
+      }
+    ]
+  },
+  "sussysong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:among_us_drip_theme_song_original_among_us_trap_remix___amogus_meme_music",
+        "stream": true
+      }
+    ]
+  },
+  "manbehindtheslaughter": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:five_nights_at_freddys_2_song_-_the_living_tombstone_fnaf2",
+        "stream": true
+      }
+    ]
+  },
+  "goodbyelulupt2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:goodbye_lulu_pt_2_short_version",
+        "stream": true
+      }
+    ]
+  },
+  "waterygraves": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:watery_graves_in-game",
+        "stream": true
+      }
+    ]
+  },
+  "fnaf3nightstart": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tms_mod:fnaf_-_fnaf_3_start_night_sound_-_gaming_sound_effect_hd",
+        "stream": false
+      }
+    ]
+  },
+  "impesserdeth": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "tms_mod:among_us_kill_-_gaming_sound_effect_hd",
+        "stream": false
+      }
+    ]
+  },
+  "lobbysong": {
+    "category": "record",
+    "subtitle": "subtitles.lobbysong",
+    "sounds": [
+      {
+        "name": "tms_mod:johnny_mathis_-_chances_are",
+        "stream": true
+      }
+    ]
+  },
+  "thunk": {
+    "category": "master",
+    "subtitle": "subtitles.thunk",
+    "sounds": [
+      {
+        "name": "tms_mod:frypan_hit",
+        "stream": false
+      }
+    ]
+  },
+  "youcouldbuyasaladglove": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:andrew_jackson_jihad_-_people_ii_2_-_still_peoplin",
+        "stream": true
+      }
+    ]
+  },
+  "igetaround": {
+    "category": "record",
+    "subtitle": "subtitles.igetaround",
+    "sounds": [
+      {
+        "name": "tms_mod:btclod.com_-beach-boys-i-get-around-320k",
+        "stream": true
+      }
+    ]
+  },
+  "ilylaa": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:btclod.com_-i-love-you-like-an-alcoholic-320k",
+        "stream": true
+      }
+    ]
+  },
+  "talldisc": {
+    "category": "record",
+    "subtitle": "subtitles.talldisc",
+    "sounds": [
+      {
+        "name": "tms_mod:btclod.com_-minecraft-ust-tall-_end-music-disc-concept_-320k",
+        "stream": true
+      }
+    ]
+  },
+  "aubertheme": {
+    "category": "record",
+    "subtitle": "subtitles.aubertheme",
+    "sounds": [
+      {
+        "name": "tms_mod:btclod.com_-dsaf-dave-theme-remake-320k",
+        "stream": true
+      }
+    ]
+  },
+  "trilosong": {
+    "category": "record",
+    "subtitle": "subtitles.trilosong",
+    "sounds": [
+      {
+        "name": "tms_mod:trilobite",
+        "stream": true
+      }
+    ]
+  },
+  "susmiser": {
+    "category": "record",
+    "subtitle": "subtitles.susmiser",
+    "sounds": [
+      {
+        "name": "tms_mod:sus-miser-and-crew-miser-_full_-among-us-parody-song",
+        "stream": true
+      }
+    ]
+  },
+  "ourtheme": {
+    "category": "record",
+    "subtitle": "subtitles.ourtheme",
+    "sounds": [
+      {
+        "name": "tms_mod:backpacking-roblox-backround-music-_my-favorite-one_",
+        "stream": true
+      }
+    ]
+  },
+  "monsterwhale": {
+    "category": "master",
+    "subtitle": "subtitles.monsterwhale",
+    "sounds": [
+      {
+        "name": "tms_mod:whale1",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "tms_mod:blocks/stained_clay_tiles_lime",
+    "particle": "tms_mod:blocks/stained_clay_tiles_lime"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:dyslexium_ingot"
+    },
+    "2": {
+      "item": "tms_mod:dyslexium_ingot"
+    },
+    "3": {
+      "item": "tms_mod:dyslexium_ingot"
+    },
+    "5": {
+      "item": "tms_mod:dyslexium_ingot"
+    }
+  },
+  "result": {
+    "item": "tms_mod:dyslexium_armorboots",
+    "count": 1
+  }
+}

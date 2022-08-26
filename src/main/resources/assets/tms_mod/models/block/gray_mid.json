@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/darkwall",
+    "up": "tms_mod:blocks/whitewallpng",
+    "north": "tms_mod:blocks/new_piskel-17.png_1",
+    "east": "tms_mod:blocks/new_piskel-17.png_1",
+    "south": "tms_mod:blocks/new_piskel-17.png_1",
+    "west": "tms_mod:blocks/new_piskel-17.png_1",
+    "particle": "tms_mod:blocks/darkwall"
+  }
+}

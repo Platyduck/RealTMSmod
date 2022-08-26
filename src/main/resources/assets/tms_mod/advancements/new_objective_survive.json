@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:pepto_bismol"
+    },
+    "title": {
+      "translate": "advancements.new_objective_survive.title"
+    },
+    "description": {
+      "translate": "advancements.new_objective_survive.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "new_objective_survive": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:not_a_storya_smart_person_would_tell"
+}

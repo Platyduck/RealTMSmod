@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "tms_mod:blocks/plank_mangrove",
+    "particle": "tms_mod:blocks/plank_mangrove"
+  }
+}

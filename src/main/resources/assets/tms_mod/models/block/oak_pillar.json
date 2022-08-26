@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/logpillartop",
+    "up": "tms_mod:blocks/logpillartop",
+    "north": "tms_mod:blocks/logpillar",
+    "east": "tms_mod:blocks/logpillar",
+    "south": "tms_mod:blocks/logpillar",
+    "west": "tms_mod:blocks/logpillar",
+    "particle": "tms_mod:blocks/logpillartop"
+  }
+}

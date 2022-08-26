@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:snurbite_nugget"
+    },
+    "1": {
+      "item": "tms_mod:derpinium_ingot"
+    },
+    "2": {
+      "item": "tms_mod:alexium_nugget"
+    },
+    "4": {
+      "item": "tms_mod:iron_rod"
+    },
+    "5": {
+      "item": "tms_mod:derpinium_ingot"
+    },
+    "6": {
+      "item": "tms_mod:iron_rod"
+    },
+    "8": {
+      "item": "tms_mod:kobite_nugget"
+    }
+  },
+  "result": {
+    "item": "tms_mod:derpickaxe",
+    "count": 1
+  }
+}

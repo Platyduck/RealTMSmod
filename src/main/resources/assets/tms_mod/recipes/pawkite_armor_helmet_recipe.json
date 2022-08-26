@@ -1,0 +1,29 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:pawkite"
+    },
+    "1": {
+      "item": "tms_mod:pawkite"
+    },
+    "2": {
+      "item": "tms_mod:pawkite"
+    },
+    "3": {
+      "item": "tms_mod:pawkite"
+    },
+    "5": {
+      "item": "tms_mod:pawkite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pawkite_armorhelmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/pumpkin_top",
+    "up": "tms_mod:blocks/pumpkin_top",
+    "north": "tms_mod:blocks/jack_o_lantern",
+    "east": "tms_mod:blocks/pumpkin_side",
+    "south": "tms_mod:blocks/pumpkin_side",
+    "west": "tms_mod:blocks/pumpkin_side",
+    "particle": "tms_mod:blocks/pumpkin_top"
+  }
+}

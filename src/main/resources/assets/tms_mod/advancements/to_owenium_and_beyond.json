@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:owenium_ingot"
+    },
+    "title": {
+      "translate": "advancements.to_owenium_and_beyond.title"
+    },
+    "description": {
+      "translate": "advancements.to_owenium_and_beyond.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "to_owenium_and_beyond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:owenium_ingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:my_first_rocket"
+}

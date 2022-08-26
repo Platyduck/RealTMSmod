@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/chlorophyllpaste",
+    "up": "tms_mod:blocks/chlorophyllpaste",
+    "north": "tms_mod:blocks/chlorophyllpaste",
+    "east": "tms_mod:blocks/chlorophyllpaste",
+    "south": "tms_mod:blocks/chlorophyllpaste",
+    "west": "tms_mod:blocks/chlorophyllpaste",
+    "particle": "tms_mod:blocks/chlorophyllpaste"
+  }
+}

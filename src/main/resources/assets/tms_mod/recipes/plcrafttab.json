@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:plastic_planks"
+    },
+    "1": {
+      "item": "tms_mod:plastic_planks"
+    },
+    "2": {
+      "item": "tms_mod:plastic_planks"
+    },
+    "3": {
+      "item": "tms_mod:plastic_planks"
+    }
+  },
+  "result": {
+    "item": "tms_mod:plastic_table",
+    "count": 1
+  }
+}

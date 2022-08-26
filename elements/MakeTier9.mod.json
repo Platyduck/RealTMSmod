@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AlexiumPlate"
+      },
+      {
+        "value": "CUSTOM:Alexium"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": "CUSTOM:RocketTier8"
+      },
+      {
+        "value": "CUSTOM:AlexiumPlate"
+      },
+      {
+        "value": "CUSTOM:Bloontonium"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier9"
+    },
+    "name": "make_tier_9",
+    "namespace": "mod"
+  }
+}

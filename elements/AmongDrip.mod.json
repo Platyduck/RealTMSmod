@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-5.png",
+    "name": "Sussy Disc",
+    "description": "Leonz - Among Drip",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:sussysong"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

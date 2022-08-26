@@ -1,0 +1,39 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "bow_pulling_0",
+    "customModelName": "Normal",
+    "name": "Plastic Bow",
+    "specialInfo": [
+      "Uses Quickdraw Technology"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:PlasticArrow"
+    },
+    "shootConstantly": true,
+    "usageCount": 1000,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 0,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:PlasticArrow"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

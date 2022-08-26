@@ -1,0 +1,16 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:birbite_block"
+    }
+  },
+  "result": {
+    "item": "tms_mod:birbite",
+    "count": 9
+  }
+}

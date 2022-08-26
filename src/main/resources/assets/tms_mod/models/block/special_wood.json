@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/speciallog",
+    "up": "tms_mod:blocks/speciallog",
+    "north": "tms_mod:blocks/speciallog",
+    "east": "tms_mod:blocks/speciallog",
+    "south": "tms_mod:blocks/speciallog",
+    "west": "tms_mod:blocks/speciallog",
+    "particle": "tms_mod:blocks/speciallog"
+  }
+}

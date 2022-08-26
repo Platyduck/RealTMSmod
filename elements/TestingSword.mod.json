@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "testingsword",
+    "customModelName": "Normal",
+    "name": "Testing Sword",
+    "specialInfo": [
+      "Cringe"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 21,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 6,
+    "damageVsEntity": 99999.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

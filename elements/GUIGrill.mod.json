@@ -1,0 +1,87 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 168,
+          "y": 62
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 240,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "symbol_troll_face.png",
+          "use1Xscale": false,
+          "name": "symbol_troll_face.png",
+          "x": 169,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "arrowgui.png",
+          "use1Xscale": false,
+          "name": "arrowgui.png",
+          "x": 204,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "We do a little trolling...",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "We do a little trolling...",
+          "x": 158,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Troll le bird",
+          "onClick": {
+            "name": "GrillRecipes"
+          },
+          "width": 90,
+          "height": 20,
+          "name": "Troll le bird",
+          "x": 168,
+          "y": 89
+        }
+      }
+    ]
+  }
+}

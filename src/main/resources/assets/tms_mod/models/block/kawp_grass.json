@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/aether_dirt",
+    "up": "tms_mod:blocks/glowcelium_top",
+    "north": "tms_mod:blocks/kawpgrassside",
+    "east": "tms_mod:blocks/kawpgrassside",
+    "south": "tms_mod:blocks/kawpgrassside",
+    "west": "tms_mod:blocks/kawpgrassside",
+    "particle": "tms_mod:blocks/aether_dirt"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Final Battle",
+    "icon": {
+      "value": "CUSTOM:JudgementTiles"
+    },
+    "showSearch": false
+  }
+}

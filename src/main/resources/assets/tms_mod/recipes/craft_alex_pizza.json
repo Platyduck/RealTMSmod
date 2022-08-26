@@ -1,0 +1,42 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:alexium"
+    },
+    "1": {
+      "item": "tms_mod:alexium"
+    },
+    "2": {
+      "item": "tms_mod:alexium"
+    },
+    "3": {
+      "item": "tms_mod:alexium"
+    },
+    "4": {
+      "item": "tms_mod:greasy_slice"
+    },
+    "5": {
+      "item": "tms_mod:alexium"
+    },
+    "6": {
+      "item": "tms_mod:alexium"
+    },
+    "7": {
+      "item": "tms_mod:alexium"
+    },
+    "8": {
+      "item": "tms_mod:alexium"
+    }
+  },
+  "result": {
+    "item": "tms_mod:alexs_slice",
+    "count": 1
+  }
+}

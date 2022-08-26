@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/spruce_log_top",
+    "up": "tms_mod:blocks/spruce_log_top",
+    "north": "tms_mod:blocks/spruce_log",
+    "east": "tms_mod:blocks/spruce_log",
+    "south": "tms_mod:blocks/spruce_log",
+    "west": "tms_mod:blocks/spruce_log",
+    "particle": "tms_mod:blocks/spruce_log_top"
+  }
+}

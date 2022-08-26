@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/pinksandstonebottom",
+    "up": "tms_mod:blocks/pinksandstonetop",
+    "north": "tms_mod:blocks/pinksandstoneside",
+    "east": "tms_mod:blocks/pinksandstoneside",
+    "south": "tms_mod:blocks/pinksandstoneside",
+    "west": "tms_mod:blocks/pinksandstoneside",
+    "particle": "tms_mod:blocks/pinksandstonebottom"
+  }
+}

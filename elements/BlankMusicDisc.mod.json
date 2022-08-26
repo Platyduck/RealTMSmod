@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-10.png_copy",
+    "name": "Blank Music Disc",
+    "description": "There is nothing on this music Disc yet!",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.anvil.place"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

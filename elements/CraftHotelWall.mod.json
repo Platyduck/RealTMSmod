@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 48,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      },
+      {
+        "value": "CUSTOM:BackroomsWallpaper"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HotelWallpaper"
+    },
+    "name": "craft_hotel_wall",
+    "namespace": "mod"
+  }
+}

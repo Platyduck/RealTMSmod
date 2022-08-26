@@ -1,0 +1,8 @@
+{
+  "parent": "tms_mod:custom/seedblock",
+  "textures": {
+    "all": "tms_mod:blocks/gold_block",
+    "particle": "tms_mod:blocks/gold_block",
+    "0": "tms_mod:blocks/seed"
+  }
+}

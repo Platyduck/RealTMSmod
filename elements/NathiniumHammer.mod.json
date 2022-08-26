@@ -1,0 +1,38 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nathiniumhammer",
+    "customModelName": "Normal",
+    "name": "Nathinium Hammer",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "Special",
+    "harvestLevel": 3,
+    "efficiency": 8.5,
+    "attackSpeed": 0.5,
+    "enchantability": 2,
+    "damageVsEntity": 13.0,
+    "usageCount": 5000,
+    "blocksAffected": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NathiniumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true,
+    "onEntityHitWith": {
+      "name": "PepeCrummsHammerLivingEntityIsHitWithTool"
+    }
+  }
+}

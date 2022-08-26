@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:the_letter"
+    },
+    "title": {
+      "translate": "advancements.huh_i_should_read_this_aloud_in_the_bathroom.title"
+    },
+    "description": {
+      "translate": "advancements.huh_i_should_read_this_aloud_in_the_bathroom.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "huh_i_should_read_this_aloud_in_the_bathroom": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "tms_mod:the_letter",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "tms_mod:show_me_your_darkest_heart"
+}

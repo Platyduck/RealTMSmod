@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom,variant=default": {
+      "model": "tms_mod:ryanwood_slab"
+    },
+    "half=top,variant=default": {
+      "model": "tms_mod:ryanwood_slab_top"
+    }
+  }
+}

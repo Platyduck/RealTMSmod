@@ -1,0 +1,31 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    "3": {
+      "item": "tms_mod:kobite_nugget"
+    },
+    "4": {
+      "item": "tms_mod:blank_music_disc"
+    },
+    "5": {
+      "item": "tms_mod:snurbite_nugget"
+    },
+    "7": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "tms_mod:backpacking_theme",
+    "count": 1
+  }
+}

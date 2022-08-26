@@ -1,0 +1,36 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "resetclock",
+    "customModelName": "Normal",
+    "name": "ctrl+z Clock",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:FinalBattle"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "Finally, you can undo all the horrors of SansDoge. You are free.",
+      "Right Click to go back to May 15th, 2018, Washington DC"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "3": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "4": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "5": {
+      "item": "tms_mod:coltinium_dust"
+    }
+  },
+  "result": {
+    "item": "tms_mod:colton_crystal",
+    "count": 1
+  }
+}

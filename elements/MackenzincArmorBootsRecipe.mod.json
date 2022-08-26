@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MackenzincIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MackenzincIngot"
+      },
+      {
+        "value": "CUSTOM:MackenzincIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MackenzincIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MackenzincArmor.boots"
+    },
+    "name": "mackenzinc_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

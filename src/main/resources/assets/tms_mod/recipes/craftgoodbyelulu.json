@@ -1,0 +1,25 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:blueprints"
+    },
+    "1": {
+      "item": "tms_mod:plank_plastic_record"
+    },
+    "2": {
+      "item": "minecraft:skull",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "tms_mod:goodbye_lulu_pt_2",
+    "count": 1
+  }
+}

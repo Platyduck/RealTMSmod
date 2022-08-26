@@ -1,0 +1,19 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "tms_mod:unrefined_underblankareite"
+    },
+    {
+      "item": "tms_mod:infuser"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:jooshtonium_ingot",
+    "count": 2
+  }
+}

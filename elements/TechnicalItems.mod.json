@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Technical Items",
+    "icon": {
+      "value": "CUSTOM:OweniumWire"
+    },
+    "showSearch": false
+  }
+}

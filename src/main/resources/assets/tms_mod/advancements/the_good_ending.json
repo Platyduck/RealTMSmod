@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "tms_mod:judgement_segway_wall"
+    },
+    "title": {
+      "translate": "advancements.the_good_ending.title"
+    },
+    "description": {
+      "translate": "advancements.the_good_ending.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_good_ending": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 150
+  },
+  "parent": "tms_mod:the_final_stretch"
+}

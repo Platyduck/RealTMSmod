@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/nether_reactor_core",
+    "up": "tms_mod:blocks/nether_reactor_core",
+    "north": "tms_mod:blocks/nether_reactor_core",
+    "east": "tms_mod:blocks/nether_reactor_core",
+    "south": "tms_mod:blocks/nether_reactor_core",
+    "west": "tms_mod:blocks/nether_reactor_core",
+    "particle": "tms_mod:blocks/nether_reactor_core"
+  }
+}

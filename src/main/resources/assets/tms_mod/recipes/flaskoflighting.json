@@ -1,0 +1,43 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:grahamuny_ingot"
+    },
+    "1": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "2": {
+      "item": "tms_mod:grahamuny_ingot"
+    },
+    "3": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "4": {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    "5": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "6": {
+      "item": "tms_mod:grahamuny_ingot"
+    },
+    "7": {
+      "item": "tms_mod:coltinium_dust"
+    },
+    "8": {
+      "item": "tms_mod:grahamuny_ingot"
+    }
+  },
+  "result": {
+    "item": "tms_mod:flask_o_ocean",
+    "count": 1
+  }
+}

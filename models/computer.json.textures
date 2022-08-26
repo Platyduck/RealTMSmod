@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mouse",
+        "2": "moniter",
+        "3": "stand1",
+        "4": "stand2",
+        "5": "keyboard"
+      },
+      "name": "default"
+    }
+  }
+}

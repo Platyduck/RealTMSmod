@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "tms_mod:krocky_scale"
+    },
+    "4": {
+      "item": "tms_mod:krocky_scale"
+    },
+    "6": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:krockscale_rapier",
+    "count": 1
+  }
+}

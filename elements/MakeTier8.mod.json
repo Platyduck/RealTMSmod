@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:KobitePlate"
+      },
+      {
+        "value": "CUSTOM:Kobite"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": "CUSTOM:RocketTier7"
+      },
+      {
+        "value": "CUSTOM:KobitePlate"
+      },
+      {
+        "value": "CUSTOM:Plasticoal"
+      },
+      {
+        "value": "CUSTOM:PlasteelIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier8"
+    },
+    "name": "make_tier_8",
+    "namespace": "mod"
+  }
+}

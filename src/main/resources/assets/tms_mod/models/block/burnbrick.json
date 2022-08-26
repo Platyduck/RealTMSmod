@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/deepslate_bricks",
+    "up": "tms_mod:blocks/deepslate_bricks",
+    "north": "tms_mod:blocks/deepslate_bricks",
+    "east": "tms_mod:blocks/deepslate_bricks",
+    "south": "tms_mod:blocks/deepslate_bricks",
+    "west": "tms_mod:blocks/deepslate_bricks",
+    "particle": "tms_mod:blocks/deepslate_bricks"
+  }
+}

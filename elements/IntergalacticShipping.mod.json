@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_blocks-3.png_1",
+    "name": "Misic Disc",
+    "description": "Intergalactic Shipping - Antiformsgames",
+    "creativeTab": {
+      "value": "CUSTOM:UnitedPlanets"
+    },
+    "music": {
+      "value": "CUSTOM:intergalacticshippingsong"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

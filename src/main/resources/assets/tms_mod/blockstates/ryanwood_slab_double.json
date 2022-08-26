@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "tms_mod:ryanwood_slab_double"
+    }
+  }
+}

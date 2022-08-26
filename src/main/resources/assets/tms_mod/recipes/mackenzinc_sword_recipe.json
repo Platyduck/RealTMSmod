@@ -1,0 +1,24 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:mackenzinc_ingot"
+    },
+    "1": {
+      "item": "tms_mod:mackenzinc_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tms_mod:mackenzinc_sword",
+    "count": 1
+  }
+}

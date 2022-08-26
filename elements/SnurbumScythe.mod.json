@@ -1,0 +1,47 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "snurbumscythe",
+    "customModelName": "Normal",
+    "name": "Snurbum Scythe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "Special",
+    "harvestLevel": 2,
+    "efficiency": 4.0,
+    "attackSpeed": 44.0,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 444,
+    "blocksAffected": [
+      {
+        "value": "Blocks.HAY_BLOCK"
+      },
+      {
+        "value": "Blocks.NETHER_WART_BLOCK"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "CUSTOM:Target"
+      },
+      {
+        "value": "CUSTOM:Moss"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SnurbumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MangroveLog"
+      },
+      {
+        "value": "CUSTOM:MangroveLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MangroveLog"
+      },
+      {
+        "value": "CUSTOM:MangroveLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MangroveWood"
+    },
+    "name": "mangrove_wood_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/rexiumore",
+    "up": "tms_mod:blocks/rexiumore",
+    "north": "tms_mod:blocks/rexiumore",
+    "east": "tms_mod:blocks/rexiumore",
+    "south": "tms_mod:blocks/rexiumore",
+    "west": "tms_mod:blocks/rexiumore",
+    "particle": "tms_mod:blocks/rexiumore"
+  }
+}

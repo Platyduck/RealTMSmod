@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/darkmazebrick",
+    "up": "tms_mod:blocks/burntstone",
+    "north": "tms_mod:blocks/lowermazebrick",
+    "east": "tms_mod:blocks/lowermazebrick",
+    "south": "tms_mod:blocks/lowermazebrick",
+    "west": "tms_mod:blocks/lowermazebrick",
+    "particle": "tms_mod:blocks/darkmazebrick"
+  }
+}

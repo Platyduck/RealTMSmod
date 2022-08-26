@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/richdirt",
+    "up": "tms_mod:blocks/richgrasstop",
+    "north": "tms_mod:blocks/richgrass",
+    "east": "tms_mod:blocks/richgrass",
+    "south": "tms_mod:blocks/richgrass",
+    "west": "tms_mod:blocks/richgrass",
+    "particle": "tms_mod:blocks/richdirt"
+  }
+}

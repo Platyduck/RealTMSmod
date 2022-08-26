@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:rift_wood_log"
+    },
+    "1": {
+      "item": "tms_mod:rift_wood_log"
+    },
+    "2": {
+      "item": "tms_mod:rift_wood_log"
+    },
+    "3": {
+      "item": "tms_mod:rift_wood_log"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rift_wood_wood",
+    "count": 3
+  }
+}

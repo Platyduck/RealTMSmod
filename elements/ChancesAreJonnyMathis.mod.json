@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "chancesdisc",
+    "name": "Lobby Music Disc",
+    "description": "Jonny Mathis - Chances Are",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:lobbysong"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

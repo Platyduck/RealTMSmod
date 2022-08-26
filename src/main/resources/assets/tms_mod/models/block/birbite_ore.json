@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/birbiteore",
+    "up": "tms_mod:blocks/birbiteore",
+    "north": "tms_mod:blocks/birbiteore",
+    "east": "tms_mod:blocks/birbiteore",
+    "south": "tms_mod:blocks/birbiteore",
+    "west": "tms_mod:blocks/birbiteore",
+    "particle": "tms_mod:blocks/birbiteore"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "FREE BOBUX AT BOBUX.GEN",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "FREE BOBUX AT BOBUX.GEN",
+          "x": 150,
+          "y": 44
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "GIVE ME FREE BOBUX!!!",
+          "onClick": {
+            "name": "Scambutton1"
+          },
+          "width": 130,
+          "height": 20,
+          "name": "GIVE ME FREE BOBUX!!!",
+          "x": 144,
+          "y": 61
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "laurenvenomicon.png",
+          "use1Xscale": false,
+          "name": "laurenvenomicon.png",
+          "x": 132,
+          "y": 179
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "SHOW ME AMONGUS",
+          "onClick": {
+            "name": "Scambutton1"
+          },
+          "width": 100,
+          "height": 20,
+          "name": "SHOW ME AMONGUS",
+          "x": 159,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "TAKE MY CREDIT CARD",
+          "onClick": {
+            "name": "Scambutton1"
+          },
+          "width": 120,
+          "height": 20,
+          "name": "TAKE MY CREDIT CARD",
+          "x": 150,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Sponsored by Bluecool (TM)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Sponsored by Bluecool (TM)",
+          "x": 149,
+          "y": 183
+        }
+      }
+    ]
+  }
+}

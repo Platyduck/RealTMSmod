@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/honeycomb",
+    "up": "tms_mod:blocks/honeycomb",
+    "north": "tms_mod:blocks/honeycomb",
+    "east": "tms_mod:blocks/honeycomb",
+    "south": "tms_mod:blocks/honeycomb",
+    "west": "tms_mod:blocks/honeycomb",
+    "particle": "tms_mod:blocks/honeycomb"
+  }
+}

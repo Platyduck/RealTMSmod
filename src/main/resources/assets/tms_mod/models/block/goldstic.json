@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/gold_block",
+    "up": "tms_mod:blocks/gold_block",
+    "north": "tms_mod:blocks/gold_block",
+    "east": "tms_mod:blocks/gold_block",
+    "south": "tms_mod:blocks/gold_block",
+    "west": "tms_mod:blocks/gold_block",
+    "particle": "tms_mod:blocks/gold_block"
+  }
+}

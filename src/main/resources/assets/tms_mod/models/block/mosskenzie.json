@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tms_mod:blocks/mosskenzie",
+    "particle": "tms_mod:blocks/mosskenzie"
+  }
+}

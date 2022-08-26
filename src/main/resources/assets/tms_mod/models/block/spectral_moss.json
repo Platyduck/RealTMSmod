@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/spectralmoss_bottom",
+    "up": "tms_mod:blocks/spectralmoss_top",
+    "north": "tms_mod:blocks/spectralmoss_side",
+    "east": "tms_mod:blocks/spectralmoss_side",
+    "south": "tms_mod:blocks/spectralmoss_side",
+    "west": "tms_mod:blocks/spectralmoss_side",
+    "particle": "tms_mod:blocks/spectralmoss_bottom"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "SinkSoup",
+    "textureStill": "soupymixture",
+    "textureFlowing": "soupymixture",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "LAVA",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [
+      "CUSTOM:TheMackenzone"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:HappyHell"
+      }
+    ]
+  }
+}

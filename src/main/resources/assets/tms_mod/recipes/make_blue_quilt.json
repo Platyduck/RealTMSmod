@@ -1,0 +1,17 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:white_quilt"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  ],
+  "result": {
+    "item": "tms_mod:blue_quilt",
+    "count": 1
+  }
+}

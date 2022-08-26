@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/whitewallpng",
+    "up": "tms_mod:blocks/whitewallpng",
+    "north": "tms_mod:blocks/peehalltop",
+    "east": "tms_mod:blocks/peehalltop",
+    "south": "tms_mod:blocks/peehalltop",
+    "west": "tms_mod:blocks/peehalltop",
+    "particle": "tms_mod:blocks/whitewallpng"
+  }
+}

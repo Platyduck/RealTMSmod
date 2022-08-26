@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LowerStone"
+      },
+      {
+        "value": "CUSTOM:LowerCobble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LowerCobble"
+      },
+      {
+        "value": "CUSTOM:LowerStone"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LowerBrick"
+    },
+    "name": "lower_brick_craft",
+    "namespace": "mod"
+  }
+}

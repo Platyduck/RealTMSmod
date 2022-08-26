@@ -1,0 +1,13 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:mangrove_log"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:mangrove_planks",
+    "count": 4
+  }
+}

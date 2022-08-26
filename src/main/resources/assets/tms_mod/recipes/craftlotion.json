@@ -1,0 +1,28 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "1": {
+      "item": "tms_mod:underblankareite_ingot"
+    },
+    "2": {
+      "item": "minecraft:potion",
+      "data": 32767
+    },
+    "3": {
+      "item": "minecraft:dye",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "tms_mod:lotion",
+    "count": 1
+  }
+}

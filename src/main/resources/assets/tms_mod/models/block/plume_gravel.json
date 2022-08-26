@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/plumegravel",
+    "up": "tms_mod:blocks/plumegravel",
+    "north": "tms_mod:blocks/plumegravel",
+    "east": "tms_mod:blocks/plumegravel",
+    "south": "tms_mod:blocks/plumegravel",
+    "west": "tms_mod:blocks/plumegravel",
+    "particle": "tms_mod:blocks/plumegravel"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RexiumNugget"
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconium"
+      },
+      {
+        "value": "CUSTOM:RexiumNugget"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JonifiedJaconiumPlate"
+    },
+    "name": "make_jonified_jaconium_plate",
+    "namespace": "mod"
+  }
+}

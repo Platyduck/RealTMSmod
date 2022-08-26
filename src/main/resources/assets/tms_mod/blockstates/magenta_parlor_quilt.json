@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:magenta_parlor_quilt"
+    },
+    "facing=north": {
+      "model": "tms_mod:magenta_parlor_quilt"
+    },
+    "facing=east": {
+      "model": "tms_mod:magenta_parlor_quilt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:magenta_parlor_quilt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:magenta_parlor_quilt",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/lowerlogside",
+    "up": "tms_mod:blocks/lowerlogtop",
+    "north": "tms_mod:blocks/lowerlogside",
+    "east": "tms_mod:blocks/lowerlogside",
+    "south": "tms_mod:blocks/lowerlogside",
+    "west": "tms_mod:blocks/lowerlogside",
+    "particle": "tms_mod:blocks/lowerlogside"
+  }
+}

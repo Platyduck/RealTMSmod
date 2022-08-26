@@ -1,0 +1,30 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:snurbite"
+    },
+    "1": {
+      "item": "tms_mod:snurbite"
+    },
+    "2": {
+      "item": "tms_mod:snurbite"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "tms_mod:snurbite_tools_pickaxe",
+    "count": 1
+  }
+}

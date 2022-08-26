@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:number_giver"
+    },
+    "facing=north": {
+      "model": "tms_mod:number_giver"
+    },
+    "facing=east": {
+      "model": "tms_mod:number_giver",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:number_giver",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:number_giver",
+      "y": 270
+    }
+  }
+}

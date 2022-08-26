@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:birb_animatronic_real"
+    },
+    "facing=north": {
+      "model": "tms_mod:birb_animatronic_real"
+    },
+    "facing=east": {
+      "model": "tms_mod:birb_animatronic_real",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:birb_animatronic_real",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:birb_animatronic_real",
+      "y": 270
+    }
+  }
+}

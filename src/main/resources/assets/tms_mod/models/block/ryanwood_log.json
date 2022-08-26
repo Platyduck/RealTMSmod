@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/ryanwoodlogtop",
+    "up": "tms_mod:blocks/ryanwoodlogtop",
+    "north": "tms_mod:blocks/ryanwoodlogside",
+    "east": "tms_mod:blocks/ryanwoodlogside",
+    "south": "tms_mod:blocks/ryanwoodlogside",
+    "west": "tms_mod:blocks/ryanwoodlogside",
+    "particle": "tms_mod:blocks/ryanwoodlogtop"
+  }
+}

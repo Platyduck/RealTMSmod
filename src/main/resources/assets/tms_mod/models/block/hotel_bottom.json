@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/halllowertop",
+    "up": "tms_mod:blocks/halllowertop",
+    "north": "tms_mod:blocks/new_piskel-1.png_copy",
+    "east": "tms_mod:blocks/new_piskel-1.png_copy",
+    "south": "tms_mod:blocks/new_piskel-1.png_copy",
+    "west": "tms_mod:blocks/new_piskel-1.png_copy",
+    "particle": "tms_mod:blocks/halllowertop"
+  }
+}

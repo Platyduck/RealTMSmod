@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/coal_ore",
+    "up": "tms_mod:blocks/coal_ore",
+    "north": "tms_mod:blocks/coal_ore",
+    "east": "tms_mod:blocks/coal_ore",
+    "south": "tms_mod:blocks/coal_ore",
+    "west": "tms_mod:blocks/coal_ore",
+    "particle": "tms_mod:blocks/coal_ore"
+  }
+}

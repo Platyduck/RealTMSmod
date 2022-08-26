@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/thickwool",
+    "up": "tms_mod:blocks/thickwool",
+    "north": "tms_mod:blocks/thickwoolside",
+    "east": "tms_mod:blocks/thickwoolside",
+    "south": "tms_mod:blocks/thickwoolside",
+    "west": "tms_mod:blocks/thickwoolside",
+    "particle": "tms_mod:blocks/thickwool"
+  }
+}

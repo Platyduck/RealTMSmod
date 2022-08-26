@@ -1,0 +1,46 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:damp_yellow_wallpaper"
+    },
+    "1": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "2": {
+      "item": "tms_mod:damp_yellow_wallpaper"
+    },
+    "3": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "4": {
+      "item": "tms_mod:mes_badge"
+    },
+    "5": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "6": {
+      "item": "tms_mod:damp_yellow_wallpaper"
+    },
+    "7": {
+      "item": "minecraft:wool",
+      "data": 0
+    },
+    "8": {
+      "item": "tms_mod:damp_yellow_wallpaper"
+    }
+  },
+  "result": {
+    "item": "tms_mod:mes_wallpaper",
+    "count": 64
+  }
+}

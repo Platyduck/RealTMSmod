@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/lightcontainmentsublevelwall",
+    "up": "tms_mod:blocks/lightcontainmentsublevelwall",
+    "north": "tms_mod:blocks/lightcontainmentsublevelstripe",
+    "east": "tms_mod:blocks/lightcontainmentsublevelstripe",
+    "south": "tms_mod:blocks/lightcontainmentsublevelstripe",
+    "west": "tms_mod:blocks/lightcontainmentsublevelstripe",
+    "particle": "tms_mod:blocks/lightcontainmentsublevelwall"
+  }
+}

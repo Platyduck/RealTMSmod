@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:jonified_jaconium_plate"
+    },
+    "2": {
+      "item": "tms_mod:jonified_jaconium"
+    },
+    "3": {
+      "item": "tms_mod:rexium_plate"
+    },
+    "4": {
+      "item": "tms_mod:rocket_tier_4"
+    },
+    "5": {
+      "item": "tms_mod:jonified_jaconium_plate"
+    },
+    "6": {
+      "item": "tms_mod:phillips_engine"
+    },
+    "7": {
+      "item": "tms_mod:rexium_plate"
+    }
+  },
+  "result": {
+    "item": "tms_mod:rocket_tier_5",
+    "count": 1
+  }
+}

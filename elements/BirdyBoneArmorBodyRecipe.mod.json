@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      },
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      },
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:DirtyBirdyFossil"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BirdyBoneArmor.body"
+    },
+    "name": "birdy_bone_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    "1": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "tms_mod:blueprints",
+    "count": 1
+  }
+}

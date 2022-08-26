@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconiumPlate"
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconium"
+      },
+      {
+        "value": "CUSTOM:RexiumPlate"
+      },
+      {
+        "value": "CUSTOM:RocketTier4"
+      },
+      {
+        "value": "CUSTOM:JonifiedJaconiumPlate"
+      },
+      {
+        "value": "CUSTOM:PhillipsEngine"
+      },
+      {
+        "value": "CUSTOM:RexiumPlate"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RocketTier5"
+    },
+    "name": "make_tier_5",
+    "namespace": "mod"
+  }
+}

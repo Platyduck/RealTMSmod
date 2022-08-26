@@ -1,0 +1,25 @@
+{
+  "_fv": 18,
+  "_type": "potion",
+  "definition": {
+    "name": "Ball And Chain Ability",
+    "effectName": "Ball And Chain Ability",
+    "icon": "chain_chomp.png",
+    "color": {
+      "value": -3355393,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onActiveTick": {
+      "name": "BallAndChainAbilityOnPotionActiveTick"
+    },
+    "onExpired": {
+      "name": "BallAndChainAbilityPotionExpires"
+    }
+  }
+}

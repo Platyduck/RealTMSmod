@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:fluid"
+  },
+  "variants": {
+    "sink_soup": [
+      {
+        "custom": {
+          "fluid": "sink_soup"
+        }
+      }
+    ]
+  }
+}

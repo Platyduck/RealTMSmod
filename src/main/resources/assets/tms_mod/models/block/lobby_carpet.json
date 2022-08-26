@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/purple-ctm-1.png",
+    "up": "tms_mod:blocks/purple-ctm-1.png",
+    "north": "tms_mod:blocks/purple-ctm-1.png",
+    "east": "tms_mod:blocks/purple-ctm-1.png",
+    "south": "tms_mod:blocks/purple-ctm-1.png",
+    "west": "tms_mod:blocks/purple-ctm-1.png",
+    "particle": "tms_mod:blocks/purple-ctm-1.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/log_mangrove_heart",
+    "up": "tms_mod:blocks/log_mangrove_heart",
+    "north": "tms_mod:blocks/log_mangrove_side",
+    "east": "tms_mod:blocks/log_mangrove_side",
+    "south": "tms_mod:blocks/log_mangrove_side",
+    "west": "tms_mod:blocks/log_mangrove_side",
+    "particle": "tms_mod:blocks/log_mangrove_heart"
+  }
+}

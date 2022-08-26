@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/blackstone_top",
+    "up": "tms_mod:blocks/blackstone_top",
+    "north": "tms_mod:blocks/blackstone_top",
+    "east": "tms_mod:blocks/blackstone_top",
+    "south": "tms_mod:blocks/blackstone_top",
+    "west": "tms_mod:blocks/blackstone_top",
+    "particle": "tms_mod:blocks/blackstone_top"
+  }
+}

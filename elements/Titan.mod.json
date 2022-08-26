@@ -1,0 +1,57 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:TitanMajorPlains"
+      },
+      {
+        "value": "CUSTOM:TitanMajorDesert"
+      },
+      {
+        "value": "CUSTOM:TitanMinorWastes"
+      },
+      {
+        "value": "CUSTOM:OwenianPark"
+      },
+      {
+        "value": "CUSTOM:TitanMinorWastes"
+      },
+      {
+        "value": "CUSTOM:Volcaneroot"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:AcidWornRock"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.COBBLESTONE"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Decrepit Forgotten Cheese",
+    "igniterTab": {
+      "value": "CUSTOM:UnitedPlanets"
+    },
+    "texture": "moldycheese",
+    "portalTexture": "crimson_nylium",
+    "enablePortal": true
+  }
+}

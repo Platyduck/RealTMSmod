@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "birdytwizzler",
+    "customModelName": "Normal",
+    "name": "The Birdy Twizzler",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TraditionalWeaponry"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 42.0,
+    "enchantability": 2,
+    "damageVsEntity": 12.0,
+    "usageCount": 42,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:RossminiumIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "TheBirdyTwizzlerRightClickedOnBlock"
+    },
+    "onEntityHitWith": {
+      "name": "RossminiumAxeLivingEntityIsHitWithTool"
+    }
+  }
+}

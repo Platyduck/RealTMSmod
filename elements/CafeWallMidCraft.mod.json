@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 24,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "CUSTOM:CafeTiles"
+      },
+      {
+        "value": "Items.DYE#1"
+      },
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "CUSTOM:CafeWall"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CafeWallMid"
+    },
+    "name": "cafe_wall_mid_craft",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:unrefined_underblankareite"
+    },
+    "1": {
+      "item": "tms_mod:unrefined_underblankareite"
+    },
+    "2": {
+      "item": "tms_mod:unrefined_underblankareite"
+    },
+    "3": {
+      "item": "tms_mod:unrefined_underblankareite"
+    }
+  },
+  "result": {
+    "item": "tms_mod:unrefined_underblanket_block",
+    "count": 1
+  }
+}

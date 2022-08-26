@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/glowingobsidian",
+    "up": "tms_mod:blocks/glowingobsidian",
+    "north": "tms_mod:blocks/glowingobsidian",
+    "east": "tms_mod:blocks/glowingobsidian",
+    "south": "tms_mod:blocks/glowingobsidian",
+    "west": "tms_mod:blocks/glowingobsidian",
+    "particle": "tms_mod:blocks/glowingobsidian"
+  }
+}

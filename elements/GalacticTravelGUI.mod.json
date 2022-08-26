@@ -1,0 +1,335 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 130,
+    "height": 233,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-1.png.png",
+          "use1Xscale": false,
+          "name": "planets-1.png.png",
+          "x": 159,
+          "y": 19
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-2.png.png",
+          "use1Xscale": false,
+          "name": "planets-2.png.png",
+          "x": 159,
+          "y": 40
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-3.png.png",
+          "use1Xscale": false,
+          "name": "planets-3.png.png",
+          "x": 159,
+          "y": 61
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-4.png.png",
+          "use1Xscale": false,
+          "name": "planets-4.png.png",
+          "x": 159,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-5.png.png",
+          "use1Xscale": false,
+          "name": "planets-5.png.png",
+          "x": 159,
+          "y": 103
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-6.png.png",
+          "use1Xscale": false,
+          "name": "planets-6.png.png",
+          "x": 159,
+          "y": 124
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-7.png.png",
+          "use1Xscale": false,
+          "name": "planets-7.png.png",
+          "x": 159,
+          "y": 145
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-8.png.png",
+          "use1Xscale": false,
+          "name": "planets-8.png.png",
+          "x": 159,
+          "y": 166
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-9.png.png",
+          "use1Xscale": false,
+          "name": "planets-9.png.png",
+          "x": 159,
+          "y": 187
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-10.png.png",
+          "use1Xscale": false,
+          "name": "planets-10.png.png",
+          "x": 159,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-12.png.png",
+          "use1Xscale": false,
+          "name": "planets-12.png.png",
+          "x": 300,
+          "y": 145
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-13.png.png",
+          "use1Xscale": false,
+          "name": "planets-13.png.png",
+          "x": 300,
+          "y": 208
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-15.png.png",
+          "use1Xscale": false,
+          "name": "planets-15.png.png",
+          "x": 300,
+          "y": 187
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "planets-14.png.png",
+          "use1Xscale": false,
+          "name": "planets-14.png.png",
+          "x": 300,
+          "y": 166
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Galactic Travel",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Galactic Travel",
+          "x": 179,
+          "y": 7
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Earth",
+          "width": 50,
+          "height": 20,
+          "name": "Earth",
+          "x": 177,
+          "y": 17
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gravity Bubble",
+          "width": 95,
+          "height": 20,
+          "name": "Gravity Bubble",
+          "x": 177,
+          "y": 38
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Neptune II",
+          "width": 75,
+          "height": 20,
+          "name": "Neptune II",
+          "x": 177,
+          "y": 59
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Betelguise",
+          "width": 75,
+          "height": 20,
+          "name": "Betelguise",
+          "x": 177,
+          "y": 80
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Thicc Planet",
+          "width": 85,
+          "height": 20,
+          "name": "Thicc Planet",
+          "x": 177,
+          "y": 101
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Snurbum-4",
+          "width": 70,
+          "height": 20,
+          "name": "Snurbum-4",
+          "x": 177,
+          "y": 122
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "KM-15",
+          "width": 50,
+          "height": 20,
+          "name": "KM-15",
+          "x": 177,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Kobe Planet",
+          "width": 80,
+          "height": 20,
+          "name": "Kobe Planet",
+          "x": 177,
+          "y": 164
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Kawp",
+          "width": 45,
+          "height": 20,
+          "name": "Kawp",
+          "x": 177,
+          "y": 185
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Distant Moon",
+          "width": 85,
+          "height": 20,
+          "name": "Distant Moon",
+          "x": 177,
+          "y": 206
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Rossmania",
+          "width": 70,
+          "height": 20,
+          "name": "Rossmania",
+          "x": 318,
+          "y": 164
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Natrea",
+          "width": 55,
+          "height": 20,
+          "name": "Natrea",
+          "x": 318,
+          "y": 206
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Snurbum-9",
+          "width": 70,
+          "height": 20,
+          "name": "Snurbum-9",
+          "x": 318,
+          "y": 143
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Dislex",
+          "width": 55,
+          "height": 20,
+          "name": "Dislex",
+          "x": 318,
+          "y": 185
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Bonus Planets",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Bonus Planets",
+          "x": 320,
+          "y": 131
+        }
+      }
+    ]
+  }
+}

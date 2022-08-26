@@ -1,0 +1,30 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:rose"
+    },
+    "3": {
+      "item": "minecraft:egg"
+    },
+    "4": {
+      "item": "tms_mod:raw_dirty_birdy"
+    },
+    "5": {
+      "item": "tms_mod:nub"
+    },
+    "7": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "tms_mod:shepbirds_pie",
+    "count": 1
+  }
+}

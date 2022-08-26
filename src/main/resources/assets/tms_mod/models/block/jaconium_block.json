@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/jaconiumblock",
+    "up": "tms_mod:blocks/jaconiumblock",
+    "north": "tms_mod:blocks/jaconiumblock",
+    "east": "tms_mod:blocks/jaconiumblock",
+    "south": "tms_mod:blocks/jaconiumblock",
+    "west": "tms_mod:blocks/jaconiumblock",
+    "particle": "tms_mod:blocks/jaconiumblock"
+  }
+}

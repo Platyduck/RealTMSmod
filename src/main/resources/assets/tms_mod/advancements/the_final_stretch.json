@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "tms_mod:textures/judgementwallpaper.png",
+    "icon": {
+      "item": "tms_mod:his_realm"
+    },
+    "title": {
+      "translate": "advancements.the_final_stretch.title"
+    },
+    "description": {
+      "translate": "advancements.the_final_stretch.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_final_stretch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

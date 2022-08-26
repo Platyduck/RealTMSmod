@@ -1,0 +1,42 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "1": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "2": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "3": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "4": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "5": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "6": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "7": {
+      "item": "tms_mod:butterfly_gem"
+    },
+    "8": {
+      "item": "tms_mod:butterfly_gem"
+    }
+  },
+  "result": {
+    "item": "tms_mod:butterfly_gem_block",
+    "count": 1
+  }
+}

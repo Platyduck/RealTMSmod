@@ -1,0 +1,30 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "tms_mod:ryanwood_log"
+    },
+    "4": {
+      "item": "minecraft:noteblock"
+    },
+    "6": {
+      "item": "tms_mod:haydenite_block"
+    },
+    "7": {
+      "item": "tms_mod:ryanwood_log"
+    }
+  },
+  "result": {
+    "item": "tms_mod:teal_strummer",
+    "count": 1
+  }
+}

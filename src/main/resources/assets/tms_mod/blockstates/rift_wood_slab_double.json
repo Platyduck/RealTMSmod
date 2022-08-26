@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "variant=default": {
+      "model": "tms_mod:rift_wood_slab_double"
+    }
+  }
+}

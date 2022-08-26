@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/leaves_oak_opaque",
+    "up": "tms_mod:blocks/leaves_oak_opaque",
+    "north": "tms_mod:blocks/leaves_oak_opaque",
+    "east": "tms_mod:blocks/leaves_oak_opaque",
+    "south": "tms_mod:blocks/leaves_oak_opaque",
+    "west": "tms_mod:blocks/leaves_oak_opaque",
+    "particle": "tms_mod:blocks/leaves_oak_opaque"
+  }
+}

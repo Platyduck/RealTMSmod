@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:mes_computer"
+    },
+    "facing=north": {
+      "model": "tms_mod:mes_computer"
+    },
+    "facing=east": {
+      "model": "tms_mod:mes_computer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:mes_computer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:mes_computer",
+      "y": 270
+    }
+  }
+}

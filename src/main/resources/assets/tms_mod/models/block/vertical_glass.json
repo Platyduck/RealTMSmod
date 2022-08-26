@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/verticalglass",
+    "up": "tms_mod:blocks/verticalglass",
+    "north": "tms_mod:blocks/verticalglass",
+    "east": "tms_mod:blocks/verticalglass",
+    "south": "tms_mod:blocks/verticalglass",
+    "west": "tms_mod:blocks/verticalglass",
+    "particle": "tms_mod:blocks/verticalglass"
+  }
+}

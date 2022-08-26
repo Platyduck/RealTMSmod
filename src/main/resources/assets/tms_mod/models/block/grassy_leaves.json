@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/leaves_bamboo_fast",
+    "up": "tms_mod:blocks/leaves_bamboo_fast",
+    "north": "tms_mod:blocks/leaves_bamboo_fast",
+    "east": "tms_mod:blocks/leaves_bamboo_fast",
+    "south": "tms_mod:blocks/leaves_bamboo_fast",
+    "west": "tms_mod:blocks/leaves_bamboo_fast",
+    "particle": "tms_mod:blocks/leaves_bamboo_fast"
+  }
+}

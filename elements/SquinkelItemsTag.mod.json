@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:SquinkelWood"
+      },
+      {
+        "value": "CUSTOM:SquinkelLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "squinkel_log",
+    "namespace": "forge"
+  }
+}

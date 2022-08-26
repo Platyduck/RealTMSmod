@@ -1,0 +1,16 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:its_been_so_long"
+    },
+    {
+      "item": "tms_mod:derpinium_nugget"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:aubergine_theme",
+    "count": 1
+  }
+}

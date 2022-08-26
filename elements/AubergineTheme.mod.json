@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "auberginetune",
+    "name": "Suspicious Looking Disc",
+    "description": "Direct Doggo - Aubergines Accursed Anthem",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:aubertheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

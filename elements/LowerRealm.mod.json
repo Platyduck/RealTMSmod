@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Lower Realm",
+    "icon": {
+      "value": "CUSTOM:LowerGrass"
+    },
+    "showSearch": false
+  }
+}

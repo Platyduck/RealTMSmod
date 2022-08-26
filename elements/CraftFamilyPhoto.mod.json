@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CafeWall"
+      },
+      {
+        "value": "Items.ITEM_FRAME"
+      },
+      {
+        "value": "CUSTOM:PowlAnimatronic"
+      },
+      {
+        "value": "CUSTOM:TheKobeAnimatronic"
+      },
+      {
+        "value": "CUSTOM:TheTibbyAnimatronic"
+      },
+      {
+        "value": "CUSTOM:TheAlexAnimatronic"
+      },
+      {
+        "value": "CUSTOM:TheSeedAnimatronic"
+      },
+      {
+        "value": "CUSTOM:TheSnurb"
+      },
+      {
+        "value": "CUSTOM:TheGrapeAnimatronic"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FamilyPhoto"
+    },
+    "name": "craft_family_photo",
+    "namespace": "mod"
+  }
+}

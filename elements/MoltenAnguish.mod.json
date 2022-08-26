@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "MoltenAnguish",
+    "textureStill": "163199833457000624",
+    "textureFlowing": "163199833457000624",
+    "luminosity": 5,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "LAVA",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:HisRealm"
+    ],
+    "restrictionBiomes": []
+  }
+}

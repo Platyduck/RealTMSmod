@@ -1,0 +1,23 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "23"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:bone"
+    },
+    "3": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pizza_cutter",
+    "count": 1
+  }
+}

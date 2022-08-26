@@ -1,0 +1,45 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "1": {
+      "item": "minecraft:golden_apple",
+      "data": 32767
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 9
+    },
+    "3": {
+      "item": "minecraft:quartz"
+    },
+    "4": {
+      "item": "tms_mod:shiny_ingot"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    },
+    "6": {
+      "item": "minecraft:water_bucket"
+    },
+    "7": {
+      "item": "minecraft:milk_bucket"
+    },
+    "8": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pepto_bismol",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/lime_quilt",
+    "up": "tms_mod:blocks/lime_quilt",
+    "north": "tms_mod:blocks/lime_quilt",
+    "east": "tms_mod:blocks/lime_quilt",
+    "south": "tms_mod:blocks/lime_quilt",
+    "west": "tms_mod:blocks/lime_quilt",
+    "particle": "tms_mod:blocks/lime_quilt"
+  }
+}

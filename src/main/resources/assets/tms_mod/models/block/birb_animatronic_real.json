@@ -1,0 +1,8 @@
+{
+  "parent": "tms_mod:custom/birbanimatronic",
+  "textures": {
+    "all": "tms_mod:blocks/lapis_block",
+    "particle": "tms_mod:blocks/lapis_block",
+    "0": "tms_mod:blocks/birb"
+  }
+}

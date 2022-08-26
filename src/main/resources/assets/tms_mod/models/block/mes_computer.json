@@ -1,0 +1,8 @@
+{
+  "parent": "tms_mod:custom/computerfixed",
+  "textures": {
+    "all": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "particle": "tms_mod:blocks/decorative_blocks_metal_mesh",
+    "0": "tms_mod:blocks/compfull"
+  }
+}

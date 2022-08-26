@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/shinyore",
+    "up": "tms_mod:blocks/shinyore",
+    "north": "tms_mod:blocks/shinyore",
+    "east": "tms_mod:blocks/shinyore",
+    "south": "tms_mod:blocks/shinyore",
+    "west": "tms_mod:blocks/shinyore",
+    "particle": "tms_mod:blocks/shinyore"
+  }
+}

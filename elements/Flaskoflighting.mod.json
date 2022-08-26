@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "CUSTOM:ColtiniumDust"
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "CUSTOM:ColtiniumDust"
+      },
+      {
+        "value": "Items.POTIONITEM"
+      },
+      {
+        "value": "CUSTOM:ColtiniumDust"
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      },
+      {
+        "value": "CUSTOM:ColtiniumDust"
+      },
+      {
+        "value": "CUSTOM:GrahamunyIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FlaskOOcean"
+    },
+    "name": "flaskoflighting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/new_piskel-6.png_1",
+    "up": "tms_mod:blocks/new_piskel-5.png_1_copy",
+    "north": "tms_mod:blocks/new_piskel-5.png_1",
+    "east": "tms_mod:blocks/new_piskel-5.png_1",
+    "south": "tms_mod:blocks/new_piskel-5.png_1",
+    "west": "tms_mod:blocks/new_piskel-5.png_1",
+    "particle": "tms_mod:blocks/new_piskel-6.png_1"
+  }
+}

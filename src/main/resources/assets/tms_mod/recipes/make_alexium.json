@@ -1,0 +1,19 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:infuser"
+    },
+    {
+      "item": "tms_mod:pawkite"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:alexium",
+    "count": 1
+  }
+}

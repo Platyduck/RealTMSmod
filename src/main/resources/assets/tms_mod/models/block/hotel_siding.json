@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/hotelsiding",
+    "up": "tms_mod:blocks/hotelsiding",
+    "north": "tms_mod:blocks/hotelsiding",
+    "east": "tms_mod:blocks/hotelsiging2",
+    "south": "tms_mod:blocks/hotelsiding",
+    "west": "tms_mod:blocks/hotelsiging2",
+    "particle": "tms_mod:blocks/hotelsiding"
+  }
+}

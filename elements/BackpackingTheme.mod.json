@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "backpacking_disc",
+    "name": "Music Disc",
+    "description": "Abracadabra - Backpacking Theme",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:ourtheme"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

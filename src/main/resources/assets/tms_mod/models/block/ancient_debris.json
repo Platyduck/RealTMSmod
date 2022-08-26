@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/ancient_debris_top",
+    "up": "tms_mod:blocks/ancient_debris_top",
+    "north": "tms_mod:blocks/ancient_debris_side",
+    "east": "tms_mod:blocks/ancient_debris_side",
+    "south": "tms_mod:blocks/ancient_debris_side",
+    "west": "tms_mod:blocks/ancient_debris_side",
+    "particle": "tms_mod:blocks/ancient_debris_top"
+  }
+}

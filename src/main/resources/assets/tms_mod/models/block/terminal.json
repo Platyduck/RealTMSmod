@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/terminalside",
+    "up": "tms_mod:blocks/terminalside",
+    "north": "tms_mod:blocks/terminal",
+    "east": "tms_mod:blocks/terminalside",
+    "south": "tms_mod:blocks/terminalback",
+    "west": "tms_mod:blocks/terminalside",
+    "particle": "tms_mod:blocks/terminalside"
+  }
+}

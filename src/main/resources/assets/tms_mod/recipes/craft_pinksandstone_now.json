@@ -1,0 +1,26 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:pink_sand"
+    },
+    "1": {
+      "item": "tms_mod:pink_sand"
+    },
+    "2": {
+      "item": "tms_mod:pink_sand"
+    },
+    "3": {
+      "item": "tms_mod:pink_sand"
+    }
+  },
+  "result": {
+    "item": "tms_mod:pink_sandstone",
+    "count": 4
+  }
+}

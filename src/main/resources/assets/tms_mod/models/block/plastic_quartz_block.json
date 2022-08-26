@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/quartz_block_bottom",
+    "up": "tms_mod:blocks/quartz_block_top",
+    "north": "tms_mod:blocks/quartz_block_side",
+    "east": "tms_mod:blocks/quartz_block_side",
+    "south": "tms_mod:blocks/quartz_block_side",
+    "west": "tms_mod:blocks/quartz_block_side",
+    "particle": "tms_mod:blocks/quartz_block_bottom"
+  }
+}

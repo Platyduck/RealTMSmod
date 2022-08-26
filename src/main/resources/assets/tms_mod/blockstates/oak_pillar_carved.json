@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:oak_pillar_carved"
+    },
+    "facing=north": {
+      "model": "tms_mod:oak_pillar_carved"
+    },
+    "facing=east": {
+      "model": "tms_mod:oak_pillar_carved",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:oak_pillar_carved",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:oak_pillar_carved",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/burntstone",
+    "up": "tms_mod:blocks/myctop",
+    "north": "tms_mod:blocks/burncylium",
+    "east": "tms_mod:blocks/burncylium",
+    "south": "tms_mod:blocks/burncylium",
+    "west": "tms_mod:blocks/burncylium",
+    "particle": "tms_mod:blocks/burntstone"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tms_mod:kobite"
+    },
+    {
+      "item": "tms_mod:alexium"
+    },
+    {
+      "item": "tms_mod:snurbite"
+    }
+  ],
+  "result": {
+    "item": "tms_mod:derpinium_ingot",
+    "count": 1
+  }
+}

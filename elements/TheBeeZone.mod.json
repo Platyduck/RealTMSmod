@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Beehive"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:BeesWax"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:HoneyFluid"
+    },
+    "airColor": {
+      "value": -3366656,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:BeehiveWall"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Marching Bee (Creative Only)",
+    "igniterTab": {
+      "value": "CUSTOM:SnurbsStuff"
+    },
+    "texture": "buzzybee",
+    "portalTexture": "honey_block_old",
+    "enablePortal": true
+  }
+}

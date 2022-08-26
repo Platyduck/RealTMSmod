@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "tms_mod:blocks/poppy",
+    "particle": "tms_mod:blocks/poppy"
+  }
+}

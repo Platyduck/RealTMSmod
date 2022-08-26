@@ -1,0 +1,39 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "tms_mod:platic_stone"
+    },
+    "1": {
+      "item": "tms_mod:platic_stone"
+    },
+    "2": {
+      "item": "tms_mod:platic_stone"
+    },
+    "3": {
+      "item": "tms_mod:platic_stone"
+    },
+    "5": {
+      "item": "tms_mod:platic_stone"
+    },
+    "6": {
+      "item": "tms_mod:platic_stone"
+    },
+    "7": {
+      "item": "tms_mod:platic_stone"
+    },
+    "8": {
+      "item": "tms_mod:platic_stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace",
+    "count": 1
+  }
+}

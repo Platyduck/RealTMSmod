@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ilylaa",
+    "name": "Music Disc",
+    "description": "The Taxpayers - I love you like an Alcoholic",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:ilylaa"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

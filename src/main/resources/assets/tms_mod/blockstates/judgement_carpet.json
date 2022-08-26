@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "normal": {
+      "model": "tms_mod:judgement_carpet"
+    },
+    "facing=north": {
+      "model": "tms_mod:judgement_carpet"
+    },
+    "facing=east": {
+      "model": "tms_mod:judgement_carpet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "tms_mod:judgement_carpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tms_mod:judgement_carpet",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "tms_mod:judgement_carpet",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "tms_mod:judgement_carpet",
+      "x": 90
+    }
+  }
+}

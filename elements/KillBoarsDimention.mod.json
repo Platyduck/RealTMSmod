@@ -1,0 +1,66 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:SnurbumHighlands"
+      },
+      {
+        "value": "CUSTOM:RiftBiome"
+      },
+      {
+        "value": "CUSTOM:SquinkelWoodlands"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "CUSTOM:Rotlands"
+      },
+      {
+        "value": "CUSTOM:CragPeaks"
+      },
+      {
+        "value": "CUSTOM:PinkDesert"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:Mainframe"
+    },
+    "portalParticles": {
+      "value": "VILLAGER_ANGRY"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Terminal Password",
+    "igniterTab": {
+      "value": "CUSTOM:TMSmod"
+    },
+    "texture": "barrier-1.png",
+    "portalTexture": "portalkilbor",
+    "enablePortal": true
+  }
+}

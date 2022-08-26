@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tms_mod:blocks/rotlogtop",
+    "up": "tms_mod:blocks/rotlogtop",
+    "north": "tms_mod:blocks/rottedlog",
+    "east": "tms_mod:blocks/rottedlog",
+    "south": "tms_mod:blocks/rottedlog",
+    "west": "tms_mod:blocks/rottedlog",
+    "particle": "tms_mod:blocks/rotlogtop"
+  }
+}
