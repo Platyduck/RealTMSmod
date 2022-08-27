@@ -10,16 +10,17 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.item.ItemRecord;
 import net.minecraft.item.Item;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import net.mcreator.tmsmod.ElementsTmsModMod;
 
 @ElementsTmsModMod.ModElement.Tag
-public class ItemTrilobiteDisc extends ElementsTmsModMod.ModElement {
-	@GameRegistry.ObjectHolder("tms_mod:trilobite_disc")
+public class ItemEverythingStays extends ElementsTmsModMod.ModElement {
+	@GameRegistry.ObjectHolder("tms_mod:everything_stays")
 	public static final Item block = null;
-	public ItemTrilobiteDisc(ElementsTmsModMod instance) {
-		super(instance, 1473);
+	public ItemEverythingStays(ElementsTmsModMod instance) {
+		super(instance, 1652);
 	}
 
 	@Override
@@ -30,14 +31,14 @@ public class ItemTrilobiteDisc extends ElementsTmsModMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:trilobite_disc", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:everything_stays", "inventory"));
 	}
 	public static class MusicDiscItemCustom extends ItemRecord {
 		public MusicDiscItemCustom() {
-			super("trilobite_disc", ElementsTmsModMod.sounds.get(new ResourceLocation("tms_mod:trilosong")));
-			setUnlocalizedName("trilobite_disc");
-			setRegistryName("trilobite_disc");
-			setCreativeTab(null);
+			super("everything_stays", ElementsTmsModMod.sounds.get(new ResourceLocation("tms_mod:everythingstays")));
+			setUnlocalizedName("everything_stays");
+			setRegistryName("everything_stays");
+			setCreativeTab(CreativeTabs.MISC);
 		}
 	}
 }

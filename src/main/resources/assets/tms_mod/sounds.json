@@ -215,5 +215,14 @@
         "stream": false
       }
     ]
+  },
+  "everythingstays": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "tms_mod:everything_stays_feat._olivia_olson",
+        "stream": true
+      }
+    ]
   }
 }

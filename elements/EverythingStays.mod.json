@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "everythingstays",
+    "name": "Everything Stays",
+    "description": "Everything Stays - Adventure Time",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:everythingstays"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

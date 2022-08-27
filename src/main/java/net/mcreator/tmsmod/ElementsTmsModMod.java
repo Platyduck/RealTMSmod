@@ -101,6 +101,8 @@ public class ElementsTmsModMod implements IFuelHandler, IWorldGenerator {
 		sounds.put(new ResourceLocation("tms_mod", "ourtheme"), new net.minecraft.util.SoundEvent(new ResourceLocation("tms_mod", "ourtheme")));
 		sounds.put(new ResourceLocation("tms_mod", "monsterwhale"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("tms_mod", "monsterwhale")));
+		sounds.put(new ResourceLocation("tms_mod", "everythingstays"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("tms_mod", "everythingstays")));
 	}
 
 	public void preInit(FMLPreInitializationEvent event) {
