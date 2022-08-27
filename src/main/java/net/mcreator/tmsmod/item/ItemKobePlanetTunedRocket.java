@@ -24,7 +24,7 @@ public class ItemKobePlanetTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobe_planet_tuned_rocket")
 	public static final Item block = null;
 	public ItemKobePlanetTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 1591);
+		super(instance, 923);
 	}
 
 	@Override

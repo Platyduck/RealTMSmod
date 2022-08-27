@@ -24,7 +24,7 @@ public class ItemNathiniumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_hoe")
 	public static final Item block = null;
 	public ItemNathiniumHoe(ElementsTmsModMod instance) {
-		super(instance, 751);
+		super(instance, 793);
 	}
 
 	@Override

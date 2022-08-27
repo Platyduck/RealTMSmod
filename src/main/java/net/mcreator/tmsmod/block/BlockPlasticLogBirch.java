@@ -31,7 +31,7 @@ public class BlockPlasticLogBirch extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_log_birch")
 	public static final Block block = null;
 	public BlockPlasticLogBirch(ElementsTmsModMod instance) {
-		super(instance, 413);
+		super(instance, 440);
 	}
 
 	@Override

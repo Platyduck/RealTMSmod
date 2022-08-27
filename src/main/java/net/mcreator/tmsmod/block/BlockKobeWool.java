@@ -22,7 +22,7 @@ public class BlockKobeWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobe_wool")
 	public static final Block block = null;
 	public BlockKobeWool(ElementsTmsModMod instance) {
-		super(instance, 327);
+		super(instance, 346);
 	}
 
 	@Override

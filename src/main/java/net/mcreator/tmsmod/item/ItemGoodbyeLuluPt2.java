@@ -20,7 +20,7 @@ public class ItemGoodbyeLuluPt2 extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:goodbye_lulu_pt_2")
 	public static final Item block = null;
 	public ItemGoodbyeLuluPt2(ElementsTmsModMod instance) {
-		super(instance, 647);
+		super(instance, 688);
 	}
 
 	@Override

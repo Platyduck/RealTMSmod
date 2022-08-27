@@ -23,7 +23,7 @@ public class BlockPinkSand extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_sand")
 	public static final Block block = null;
 	public BlockPinkSand(ElementsTmsModMod instance) {
-		super(instance, 473);
+		super(instance, 500);
 	}
 
 	@Override

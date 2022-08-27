@@ -21,7 +21,7 @@ public class ItemCookedRat extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_rat")
 	public static final Item block = null;
 	public ItemCookedRat(ElementsTmsModMod instance) {
-		super(instance, 335);
+		super(instance, 355);
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class ItemCookedPurpleMutton extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_purple_mutton")
 	public static final Item block = null;
 	public ItemCookedPurpleMutton(ElementsTmsModMod instance) {
-		super(instance, 598);
+		super(instance, 638);
 	}
 
 	@Override

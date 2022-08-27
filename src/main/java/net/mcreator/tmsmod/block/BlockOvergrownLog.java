@@ -32,7 +32,7 @@ public class BlockOvergrownLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_log")
 	public static final Block block = null;
 	public BlockOvergrownLog(ElementsTmsModMod instance) {
-		super(instance, 204);
+		super(instance, 208);
 	}
 
 	@Override

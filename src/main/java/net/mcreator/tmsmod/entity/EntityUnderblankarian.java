@@ -39,7 +39,7 @@ public class EntityUnderblankarian extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 108;
 	public static final int ENTITYID_RANGED = 109;
 	public EntityUnderblankarian(ElementsTmsModMod instance) {
-		super(instance, 667);
+		super(instance, 708);
 	}
 
 	@Override

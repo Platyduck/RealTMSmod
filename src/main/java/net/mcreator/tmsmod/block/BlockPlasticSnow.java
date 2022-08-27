@@ -23,7 +23,7 @@ public class BlockPlasticSnow extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_snow")
 	public static final Block block = null;
 	public BlockPlasticSnow(ElementsTmsModMod instance) {
-		super(instance, 430);
+		super(instance, 457);
 	}
 
 	@Override

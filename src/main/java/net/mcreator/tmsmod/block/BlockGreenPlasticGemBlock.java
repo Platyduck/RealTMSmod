@@ -22,7 +22,7 @@ public class BlockGreenPlasticGemBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:green_plastic_gem_block")
 	public static final Block block = null;
 	public BlockGreenPlasticGemBlock(ElementsTmsModMod instance) {
-		super(instance, 461);
+		super(instance, 488);
 	}
 
 	@Override

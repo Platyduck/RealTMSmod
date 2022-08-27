@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedurePawkiteArmorBodyTickEvent extends ElementsTmsModMod.ModElement {
 	public ProcedurePawkiteArmorBodyTickEvent(ElementsTmsModMod instance) {
-		super(instance, 1347);
+		super(instance, 1399);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

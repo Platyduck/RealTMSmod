@@ -32,7 +32,7 @@ public class BlockSnurbAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurb_animatronic")
 	public static final Block block = null;
 	public BlockSnurbAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 143);
+		super(instance, 147);
 	}
 
 	@Override

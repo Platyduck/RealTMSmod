@@ -22,7 +22,7 @@ public class BlockBlueQuilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blue_quilt")
 	public static final Block block = null;
 	public BlockBlueQuilt(ElementsTmsModMod instance) {
-		super(instance, 328);
+		super(instance, 347);
 	}
 
 	@Override

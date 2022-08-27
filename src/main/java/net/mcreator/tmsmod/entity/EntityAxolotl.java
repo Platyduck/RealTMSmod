@@ -35,7 +35,7 @@ public class EntityAxolotl extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 68;
 	public static final int ENTITYID_RANGED = 69;
 	public EntityAxolotl(ElementsTmsModMod instance) {
-		super(instance, 292);
+		super(instance, 311);
 	}
 
 	@Override

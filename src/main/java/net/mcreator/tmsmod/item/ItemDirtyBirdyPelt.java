@@ -20,7 +20,7 @@ public class ItemDirtyBirdyPelt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dirty_birdy_pelt")
 	public static final Item block = null;
 	public ItemDirtyBirdyPelt(ElementsTmsModMod instance) {
-		super(instance, 719);
+		super(instance, 762);
 	}
 
 	@Override

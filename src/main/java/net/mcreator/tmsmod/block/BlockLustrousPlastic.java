@@ -22,7 +22,7 @@ public class BlockLustrousPlastic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lustrous_plastic")
 	public static final Block block = null;
 	public BlockLustrousPlastic(ElementsTmsModMod instance) {
-		super(instance, 457);
+		super(instance, 484);
 	}
 
 	@Override

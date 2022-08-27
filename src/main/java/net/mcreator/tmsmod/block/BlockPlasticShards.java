@@ -36,7 +36,7 @@ public class BlockPlasticShards extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_shards")
 	public static final Block block = null;
 	public BlockPlasticShards(ElementsTmsModMod instance) {
-		super(instance, 424);
+		super(instance, 451);
 	}
 
 	@Override

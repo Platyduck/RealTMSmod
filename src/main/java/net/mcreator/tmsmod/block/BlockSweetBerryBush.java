@@ -41,7 +41,7 @@ public class BlockSweetBerryBush extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sweet_berry_bush")
 	public static final Block block = null;
 	public BlockSweetBerryBush(ElementsTmsModMod instance) {
-		super(instance, 277);
+		super(instance, 296);
 	}
 
 	@Override

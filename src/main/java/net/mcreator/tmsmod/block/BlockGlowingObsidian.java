@@ -22,7 +22,7 @@ public class BlockGlowingObsidian extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:glowing_obsidian")
 	public static final Block block = null;
 	public BlockGlowingObsidian(ElementsTmsModMod instance) {
-		super(instance, 317);
+		super(instance, 336);
 	}
 
 	@Override

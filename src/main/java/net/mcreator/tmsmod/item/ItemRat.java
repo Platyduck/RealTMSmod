@@ -24,7 +24,7 @@ public class ItemRat extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rat")
 	public static final Item block = null;
 	public ItemRat(ElementsTmsModMod instance) {
-		super(instance, 603);
+		super(instance, 644);
 	}
 
 	@Override

@@ -31,7 +31,7 @@ public class ItemPawkitePickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_pickaxe")
 	public static final Item block = null;
 	public ItemPawkitePickaxe(ElementsTmsModMod instance) {
-		super(instance, 752);
+		super(instance, 794);
 	}
 
 	@Override

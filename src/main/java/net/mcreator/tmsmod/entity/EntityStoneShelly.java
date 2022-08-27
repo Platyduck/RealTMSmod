@@ -38,7 +38,7 @@ public class EntityStoneShelly extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 60;
 	public static final int ENTITYID_RANGED = 61;
 	public EntityStoneShelly(ElementsTmsModMod instance) {
-		super(instance, 633);
+		super(instance, 674);
 	}
 
 	@Override

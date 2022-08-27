@@ -32,7 +32,7 @@ public class BlockFamilyPhoto extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:family_photo")
 	public static final Block block = null;
 	public BlockFamilyPhoto(ElementsTmsModMod instance) {
-		super(instance, 135);
+		super(instance, 139);
 	}
 
 	@Override

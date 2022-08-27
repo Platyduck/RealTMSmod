@@ -27,7 +27,7 @@ public class BlockPlumeGravel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plume_gravel")
 	public static final Block block = null;
 	public BlockPlumeGravel(ElementsTmsModMod instance) {
-		super(instance, 261);
+		super(instance, 262);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemOlivarium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:olivarium")
 	public static final Item block = null;
 	public ItemOlivarium(ElementsTmsModMod instance) {
-		super(instance, 119);
+		super(instance, 116);
 	}
 
 	@Override

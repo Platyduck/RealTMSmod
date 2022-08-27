@@ -20,7 +20,7 @@ public class ItemRexCrystal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rex_crystal")
 	public static final Item block = null;
 	public ItemRexCrystal(ElementsTmsModMod instance) {
-		super(instance, 1651);
+		super(instance, 128);
 	}
 
 	@Override

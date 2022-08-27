@@ -25,7 +25,7 @@ public class ItemShine extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shine")
 	public static final Item block = null;
 	public ItemShine(ElementsTmsModMod instance) {
-		super(instance, 329);
+		super(instance, 348);
 	}
 
 	@Override

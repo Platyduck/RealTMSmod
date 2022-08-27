@@ -20,7 +20,7 @@ public class ItemUnitedSteelDrillHead extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_drill_head")
 	public static final Item block = null;
 	public ItemUnitedSteelDrillHead(ElementsTmsModMod instance) {
-		super(instance, 846);
+		super(instance, 875);
 	}
 
 	@Override

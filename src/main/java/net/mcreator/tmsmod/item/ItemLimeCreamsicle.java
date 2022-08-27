@@ -21,7 +21,7 @@ public class ItemLimeCreamsicle extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lime_creamsicle")
 	public static final Item block = null;
 	public ItemLimeCreamsicle(ElementsTmsModMod instance) {
-		super(instance, 594);
+		super(instance, 634);
 	}
 
 	@Override

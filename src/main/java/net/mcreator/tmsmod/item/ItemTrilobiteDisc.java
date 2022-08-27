@@ -19,7 +19,7 @@ public class ItemTrilobiteDisc extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:trilobite_disc")
 	public static final Item block = null;
 	public ItemTrilobiteDisc(ElementsTmsModMod instance) {
-		super(instance, 688);
+		super(instance, 1473);
 	}
 
 	@Override

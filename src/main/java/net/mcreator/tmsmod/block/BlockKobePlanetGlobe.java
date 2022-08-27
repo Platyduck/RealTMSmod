@@ -32,7 +32,7 @@ public class BlockKobePlanetGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobe_planet_globe")
 	public static final Block block = null;
 	public BlockKobePlanetGlobe(ElementsTmsModMod instance) {
-		super(instance, 231);
+		super(instance, 234);
 	}
 
 	@Override

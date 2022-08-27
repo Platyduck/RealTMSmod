@@ -21,7 +21,7 @@ public class ItemLimePie extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lime_pie")
 	public static final Item block = null;
 	public ItemLimePie(ElementsTmsModMod instance) {
-		super(instance, 593);
+		super(instance, 633);
 	}
 
 	@Override

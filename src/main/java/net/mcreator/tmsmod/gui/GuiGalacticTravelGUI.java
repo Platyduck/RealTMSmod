@@ -36,7 +36,7 @@ public class GuiGalacticTravelGUI extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 8;
 	public static HashMap guistate = new HashMap();
 	public GuiGalacticTravelGUI(ElementsTmsModMod instance) {
-		super(instance, 1558);
+		super(instance, 1588);
 	}
 
 	@Override
@@ -115,33 +115,33 @@ public class GuiGalacticTravelGUI extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-1.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 15, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 15, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-2.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 36, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 36, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-3.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 57, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 57, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-4.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 78, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 78, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-5.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 99, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 99, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-6.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 120, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 120, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-7.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 141, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 141, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-8.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 162, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 162, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-9.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 183, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 183, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-10.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 204, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 10, this.guiTop + 204, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-12.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 141, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 141, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-13.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 204, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 204, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-15.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 183, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 183, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/planets-14.png.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 162, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 151, this.guiTop + 162, 0, 0, -1, -1, -1, -1);
 		}
 
 		@Override

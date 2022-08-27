@@ -41,7 +41,7 @@ public class EntityTheLizzy extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 54;
 	public static final int ENTITYID_RANGED = 55;
 	public EntityTheLizzy(ElementsTmsModMod instance) {
-		super(instance, 630);
+		super(instance, 671);
 	}
 
 	@Override

@@ -82,7 +82,7 @@ public class WorldWorstDimension extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldWorstDimension(ElementsTmsModMod instance) {
-		super(instance, 217);
+		super(instance, 220);
 	}
 
 	@Override

@@ -47,7 +47,7 @@ public class ItemImpesserLauncher extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 53;
 	public ItemImpesserLauncher(ElementsTmsModMod instance) {
-		super(instance, 528);
+		super(instance, 555);
 	}
 
 	@Override

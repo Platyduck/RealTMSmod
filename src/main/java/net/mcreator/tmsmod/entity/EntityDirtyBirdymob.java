@@ -53,7 +53,7 @@ public class EntityDirtyBirdymob extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 21;
 	public static final int ENTITYID_RANGED = 22;
 	public EntityDirtyBirdymob(ElementsTmsModMod instance) {
-		super(instance, 610);
+		super(instance, 651);
 	}
 
 	@Override

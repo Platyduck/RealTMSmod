@@ -24,7 +24,7 @@ public class ItemPlasteelPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_pickaxe")
 	public static final Item block = null;
 	public ItemPlasteelPickaxe(ElementsTmsModMod instance) {
-		super(instance, 792);
+		super(instance, 832);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockJaconiumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconium_block")
 	public static final Block block = null;
 	public BlockJaconiumBlock(ElementsTmsModMod instance) {
-		super(instance, 188);
+		super(instance, 192);
 	}
 
 	@Override

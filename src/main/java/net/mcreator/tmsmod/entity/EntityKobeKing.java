@@ -42,7 +42,7 @@ public class EntityKobeKing extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 137;
 	public static final int ENTITYID_RANGED = 138;
 	public EntityKobeKing(ElementsTmsModMod instance) {
-		super(instance, 695);
+		super(instance, 734);
 	}
 
 	@Override

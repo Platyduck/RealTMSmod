@@ -27,7 +27,7 @@ public class ItemShinyAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_axe")
 	public static final Item block = null;
 	public ItemShinyAxe(ElementsTmsModMod instance) {
-		super(instance, 733);
+		super(instance, 775);
 	}
 
 	@Override

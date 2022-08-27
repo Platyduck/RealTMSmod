@@ -22,7 +22,7 @@ public class BlockPlasticDirt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_dirt")
 	public static final Block block = null;
 	public BlockPlasticDirt(ElementsTmsModMod instance) {
-		super(instance, 418);
+		super(instance, 445);
 	}
 
 	@Override

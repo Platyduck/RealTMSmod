@@ -24,7 +24,7 @@ public class ItemPowlAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:powl_animatronic")
 	public static final Item block = null;
 	public ItemPowlAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 141);
+		super(instance, 145);
 	}
 
 	@Override

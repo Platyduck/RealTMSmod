@@ -42,7 +42,7 @@ public class EntitySuncower extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 98;
 	public static final int ENTITYID_RANGED = 99;
 	public EntitySuncower(ElementsTmsModMod instance) {
-		super(instance, 662);
+		super(instance, 703);
 	}
 
 	@Override

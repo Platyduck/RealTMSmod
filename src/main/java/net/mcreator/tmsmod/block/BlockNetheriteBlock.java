@@ -22,7 +22,7 @@ public class BlockNetheriteBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_block")
 	public static final Block block = null;
 	public BlockNetheriteBlock(ElementsTmsModMod instance) {
-		super(instance, 295);
+		super(instance, 314);
 	}
 
 	@Override

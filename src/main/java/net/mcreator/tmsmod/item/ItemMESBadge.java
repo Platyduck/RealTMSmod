@@ -24,7 +24,7 @@ public class ItemMESBadge extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_badge")
 	public static final Item block = null;
 	public ItemMESBadge(ElementsTmsModMod instance) {
-		super(instance, 331);
+		super(instance, 351);
 	}
 
 	@Override

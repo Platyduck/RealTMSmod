@@ -21,7 +21,7 @@ public class ItemRainbowSherbet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rainbow_sherbet")
 	public static final Item block = null;
 	public ItemRainbowSherbet(ElementsTmsModMod instance) {
-		super(instance, 595);
+		super(instance, 635);
 	}
 
 	@Override

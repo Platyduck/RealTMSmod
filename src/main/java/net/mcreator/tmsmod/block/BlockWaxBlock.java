@@ -22,7 +22,7 @@ public class BlockWaxBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:wax_block")
 	public static final Block block = null;
 	public BlockWaxBlock(ElementsTmsModMod instance) {
-		super(instance, 314);
+		super(instance, 333);
 	}
 
 	@Override

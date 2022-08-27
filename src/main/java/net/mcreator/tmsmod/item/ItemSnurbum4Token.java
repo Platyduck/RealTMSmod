@@ -20,7 +20,7 @@ public class ItemSnurbum4Token extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_4_token")
 	public static final Item block = null;
 	public ItemSnurbum4Token(ElementsTmsModMod instance) {
-		super(instance, 1679);
+		super(instance, 276);
 	}
 
 	@Override

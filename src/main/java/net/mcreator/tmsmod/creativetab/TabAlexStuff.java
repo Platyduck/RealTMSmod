@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabAlexStuff extends ElementsTmsModMod.ModElement {
 	public TabAlexStuff(ElementsTmsModMod instance) {
-		super(instance, 1512);
+		super(instance, 1562);
 	}
 
 	@Override

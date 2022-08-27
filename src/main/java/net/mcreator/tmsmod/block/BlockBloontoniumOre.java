@@ -35,7 +35,7 @@ public class BlockBloontoniumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:bloontonium_ore")
 	public static final Block block = null;
 	public BlockBloontoniumOre(ElementsTmsModMod instance) {
-		super(instance, 269);
+		super(instance, 288);
 	}
 
 	@Override

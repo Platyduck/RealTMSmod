@@ -24,7 +24,7 @@ public class ItemLotion extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lotion")
 	public static final Item block = null;
 	public ItemLotion(ElementsTmsModMod instance) {
-		super(instance, 822);
+		super(instance, 851);
 	}
 
 	@Override

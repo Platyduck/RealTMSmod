@@ -22,7 +22,7 @@ public class BlockRotPlank extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rot_plank")
 	public static final Block block = null;
 	public BlockRotPlank(ElementsTmsModMod instance) {
-		super(instance, 714);
+		super(instance, 757);
 	}
 
 	@Override

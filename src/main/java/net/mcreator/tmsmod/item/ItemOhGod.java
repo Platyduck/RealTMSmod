@@ -23,7 +23,7 @@ public class ItemOhGod extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:oh_god")
 	public static final Item block = null;
 	public ItemOhGod(ElementsTmsModMod instance) {
-		super(instance, 1488);
+		super(instance, 1538);
 	}
 
 	@Override

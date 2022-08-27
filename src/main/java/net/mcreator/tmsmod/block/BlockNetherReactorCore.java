@@ -22,7 +22,7 @@ public class BlockNetherReactorCore extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nether_reactor_core")
 	public static final Block block = null;
 	public BlockNetherReactorCore(ElementsTmsModMod instance) {
-		super(instance, 316);
+		super(instance, 335);
 	}
 
 	@Override

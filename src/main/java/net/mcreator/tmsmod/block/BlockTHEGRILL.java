@@ -36,7 +36,7 @@ public class BlockTHEGRILL extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thegrill")
 	public static final Block block = null;
 	public BlockTHEGRILL(ElementsTmsModMod instance) {
-		super(instance, 1603);
+		super(instance, 764);
 	}
 
 	@Override

@@ -31,7 +31,7 @@ public class PotionBallAndChainAbility extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ball_and_chain_ability")
 	public static final PotionType potionType = null;
 	public PotionBallAndChainAbility(ElementsTmsModMod instance) {
-		super(instance, 1124);
+		super(instance, 1176);
 	}
 
 	@Override

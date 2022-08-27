@@ -22,7 +22,7 @@ public class BlockOzmireOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ozmire_ore")
 	public static final Block block = null;
 	public BlockOzmireOre(ElementsTmsModMod instance) {
-		super(instance, 1613);
+		super(instance, 267);
 	}
 
 	@Override

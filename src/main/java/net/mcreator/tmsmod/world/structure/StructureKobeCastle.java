@@ -24,7 +24,7 @@ import java.util.Random;
 @ElementsTmsModMod.ModElement.Tag
 public class StructureKobeCastle extends ElementsTmsModMod.ModElement {
 	public StructureKobeCastle(ElementsTmsModMod instance) {
-		super(instance, 1499);
+		super(instance, 1549);
 	}
 
 	@Override

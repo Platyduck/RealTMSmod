@@ -22,7 +22,7 @@ public class BlockJudgementWallpaper extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_wallpaper")
 	public static final Block block = null;
 	public BlockJudgementWallpaper(ElementsTmsModMod instance) {
-		super(instance, 826);
+		super(instance, 855);
 	}
 
 	@Override

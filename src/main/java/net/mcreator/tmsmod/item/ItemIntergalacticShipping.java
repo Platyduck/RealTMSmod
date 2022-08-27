@@ -20,7 +20,7 @@ public class ItemIntergalacticShipping extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:intergalactic_shipping")
 	public static final Item block = null;
 	public ItemIntergalacticShipping(ElementsTmsModMod instance) {
-		super(instance, 221);
+		super(instance, 224);
 	}
 
 	@Override

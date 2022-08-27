@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureKobePlanetLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureKobePlanetLaunch(ElementsTmsModMod instance) {
-		super(instance, 1573);
+		super(instance, 1599);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

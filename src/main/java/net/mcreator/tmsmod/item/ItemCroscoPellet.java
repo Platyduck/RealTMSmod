@@ -24,7 +24,7 @@ public class ItemCroscoPellet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crosco_pellet")
 	public static final Item block = null;
 	public ItemCroscoPellet(ElementsTmsModMod instance) {
-		super(instance, 627);
+		super(instance, 668);
 	}
 
 	@Override

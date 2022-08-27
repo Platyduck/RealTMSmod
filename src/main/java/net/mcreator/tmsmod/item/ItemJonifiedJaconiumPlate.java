@@ -24,7 +24,7 @@ public class ItemJonifiedJaconiumPlate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jonified_jaconium_plate")
 	public static final Item block = null;
 	public ItemJonifiedJaconiumPlate(ElementsTmsModMod instance) {
-		super(instance, 1610);
+		super(instance, 883);
 	}
 
 	@Override

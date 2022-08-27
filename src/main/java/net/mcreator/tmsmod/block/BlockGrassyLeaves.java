@@ -28,7 +28,7 @@ public class BlockGrassyLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grassy_leaves")
 	public static final Block block = null;
 	public BlockGrassyLeaves(ElementsTmsModMod instance) {
-		super(instance, 313);
+		super(instance, 332);
 	}
 
 	@Override

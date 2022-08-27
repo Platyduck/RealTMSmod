@@ -42,7 +42,7 @@ public class EntityHarley extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 78;
 	public static final int ENTITYID_RANGED = 79;
 	public EntityHarley(ElementsTmsModMod instance) {
-		super(instance, 652);
+		super(instance, 693);
 	}
 
 	@Override

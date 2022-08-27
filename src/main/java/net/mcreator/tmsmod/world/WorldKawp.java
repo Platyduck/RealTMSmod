@@ -83,7 +83,7 @@ public class WorldKawp extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldKawp(ElementsTmsModMod instance) {
-		super(instance, 262);
+		super(instance, 281);
 	}
 
 	@Override

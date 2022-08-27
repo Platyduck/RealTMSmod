@@ -45,7 +45,7 @@ public class EntityColton extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 123;
 	public static final int ENTITYID_RANGED = 124;
 	public EntityColton(ElementsTmsModMod instance) {
-		super(instance, 676);
+		super(instance, 717);
 	}
 
 	@Override

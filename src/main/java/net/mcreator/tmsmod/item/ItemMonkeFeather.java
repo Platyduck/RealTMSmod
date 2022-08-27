@@ -20,7 +20,7 @@ public class ItemMonkeFeather extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:monke_feather")
 	public static final Item block = null;
 	public ItemMonkeFeather(ElementsTmsModMod instance) {
-		super(instance, 375);
+		super(instance, 395);
 	}
 
 	@Override

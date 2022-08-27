@@ -16,7 +16,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureAutoSmelt extends ElementsTmsModMod.ModElement {
 	public ProcedureAutoSmelt(ElementsTmsModMod instance) {
-		super(instance, 1365);
+		super(instance, 1417);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

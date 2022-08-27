@@ -22,7 +22,7 @@ public class BlockPlasticSponge extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_sponge")
 	public static final Block block = null;
 	public BlockPlasticSponge(ElementsTmsModMod instance) {
-		super(instance, 451);
+		super(instance, 478);
 	}
 
 	@Override

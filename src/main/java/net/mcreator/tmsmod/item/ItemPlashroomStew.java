@@ -21,7 +21,7 @@ public class ItemPlashroomStew extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plashroom_stew")
 	public static final Item block = null;
 	public ItemPlashroomStew(ElementsTmsModMod instance) {
-		super(instance, 467);
+		super(instance, 494);
 	}
 
 	@Override

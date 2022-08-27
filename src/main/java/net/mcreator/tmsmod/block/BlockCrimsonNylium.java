@@ -22,7 +22,7 @@ public class BlockCrimsonNylium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crimson_nylium")
 	public static final Block block = null;
 	public BlockCrimsonNylium(ElementsTmsModMod instance) {
-		super(instance, 294);
+		super(instance, 313);
 	}
 
 	@Override

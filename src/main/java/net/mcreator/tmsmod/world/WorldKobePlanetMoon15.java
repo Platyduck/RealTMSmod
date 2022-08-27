@@ -82,7 +82,7 @@ public class WorldKobePlanetMoon15 extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldKobePlanetMoon15(ElementsTmsModMod instance) {
-		super(instance, 228);
+		super(instance, 231);
 	}
 
 	@Override

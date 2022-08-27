@@ -22,7 +22,7 @@ public class BlockChiseledCaveMazeBricks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:chiseled_cave_maze_bricks")
 	public static final Block block = null;
 	public BlockChiseledCaveMazeBricks(ElementsTmsModMod instance) {
-		super(instance, 403);
+		super(instance, 422);
 	}
 
 	@Override

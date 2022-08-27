@@ -81,7 +81,7 @@ public class WorldNatrea extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldNatrea(ElementsTmsModMod instance) {
-		super(instance, 351);
+		super(instance, 371);
 	}
 
 	@Override

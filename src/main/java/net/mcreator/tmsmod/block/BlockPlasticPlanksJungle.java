@@ -22,7 +22,7 @@ public class BlockPlasticPlanksJungle extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_planks_jungle")
 	public static final Block block = null;
 	public BlockPlasticPlanksJungle(ElementsTmsModMod instance) {
-		super(instance, 410);
+		super(instance, 437);
 	}
 
 	@Override

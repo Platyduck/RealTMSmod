@@ -31,7 +31,7 @@ public class BlockKrinkelLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:krinkel_leaves")
 	public static final Block block = null;
 	public BlockKrinkelLeaves(ElementsTmsModMod instance) {
-		super(instance, 907);
+		super(instance, 959);
 	}
 
 	@Override

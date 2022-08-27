@@ -26,7 +26,7 @@ public class BlockMangroveFence extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mangrove_fence")
 	public static final Block block = null;
 	public BlockMangroveFence(ElementsTmsModMod instance) {
-		super(instance, 312);
+		super(instance, 331);
 	}
 
 	@Override

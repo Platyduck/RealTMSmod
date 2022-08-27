@@ -35,7 +35,7 @@ public class BlockPawkiteOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_ore")
 	public static final Block block = null;
 	public BlockPawkiteOre(ElementsTmsModMod instance) {
-		super(instance, 263);
+		super(instance, 282);
 	}
 
 	@Override

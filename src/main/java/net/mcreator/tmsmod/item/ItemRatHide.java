@@ -20,7 +20,7 @@ public class ItemRatHide extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rat_hide")
 	public static final Item block = null;
 	public ItemRatHide(ElementsTmsModMod instance) {
-		super(instance, 693);
+		super(instance, 732);
 	}
 
 	@Override

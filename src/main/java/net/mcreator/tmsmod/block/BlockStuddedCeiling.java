@@ -22,7 +22,7 @@ public class BlockStuddedCeiling extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:studded_ceiling")
 	public static final Block block = null;
 	public BlockStuddedCeiling(ElementsTmsModMod instance) {
-		super(instance, 385);
+		super(instance, 404);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemNathansFamousSheckel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathans_famous_sheckel")
 	public static final Item block = null;
 	public ItemNathansFamousSheckel(ElementsTmsModMod instance) {
-		super(instance, 681);
+		super(instance, 722);
 	}
 
 	@Override

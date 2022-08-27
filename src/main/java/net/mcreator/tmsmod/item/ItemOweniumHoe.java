@@ -24,7 +24,7 @@ public class ItemOweniumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_hoe")
 	public static final Item block = null;
 	public ItemOweniumHoe(ElementsTmsModMod instance) {
-		super(instance, 743);
+		super(instance, 785);
 	}
 
 	@Override

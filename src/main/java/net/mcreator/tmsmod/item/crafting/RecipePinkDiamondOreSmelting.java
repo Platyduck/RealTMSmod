@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipePinkDiamondOreSmelting extends ElementsTmsModMod.ModElement {
 	public RecipePinkDiamondOreSmelting(ElementsTmsModMod instance) {
-		super(instance, 1145);
+		super(instance, 1197);
 	}
 
 	@Override

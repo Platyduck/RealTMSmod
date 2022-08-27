@@ -24,7 +24,7 @@ public class ItemUPPass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:up_pass")
 	public static final Item block = null;
 	public ItemUPPass(ElementsTmsModMod instance) {
-		super(instance, 195);
+		super(instance, 199);
 	}
 
 	@Override

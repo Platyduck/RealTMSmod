@@ -20,7 +20,7 @@ public class ItemStrangeComputerChip extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:strange_computer_chip")
 	public static final Item block = null;
 	public ItemStrangeComputerChip(ElementsTmsModMod instance) {
-		super(instance, 371);
+		super(instance, 391);
 	}
 
 	@Override

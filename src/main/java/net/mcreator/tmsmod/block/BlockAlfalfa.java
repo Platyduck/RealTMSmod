@@ -32,7 +32,7 @@ public class BlockAlfalfa extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alfalfa")
 	public static final Block block = null;
 	public BlockAlfalfa(ElementsTmsModMod instance) {
-		super(instance, 500);
+		super(instance, 527);
 	}
 
 	@Override

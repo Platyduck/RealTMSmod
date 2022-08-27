@@ -21,7 +21,7 @@ public class ItemSnurbMeat extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurb_meat")
 	public static final Item block = null;
 	public ItemSnurbMeat(ElementsTmsModMod instance) {
-		super(instance, 575);
+		super(instance, 615);
 	}
 
 	@Override

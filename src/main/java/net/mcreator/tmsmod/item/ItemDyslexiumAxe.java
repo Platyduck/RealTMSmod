@@ -27,7 +27,7 @@ public class ItemDyslexiumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_axe")
 	public static final Item block = null;
 	public ItemDyslexiumAxe(ElementsTmsModMod instance) {
-		super(instance, 761);
+		super(instance, 803);
 	}
 
 	@Override

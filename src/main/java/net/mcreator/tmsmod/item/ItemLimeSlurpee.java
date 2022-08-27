@@ -27,7 +27,7 @@ public class ItemLimeSlurpee extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lime_slurpee")
 	public static final Item block = null;
 	public ItemLimeSlurpee(ElementsTmsModMod instance) {
-		super(instance, 591);
+		super(instance, 631);
 	}
 
 	@Override

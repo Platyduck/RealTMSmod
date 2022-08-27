@@ -36,7 +36,7 @@ public class EntityBirb extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 41;
 	public static final int ENTITYID_RANGED = 42;
 	public EntityBirb(ElementsTmsModMod instance) {
-		super(instance, 621);
+		super(instance, 662);
 	}
 
 	@Override

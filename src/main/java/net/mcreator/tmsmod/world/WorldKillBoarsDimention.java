@@ -82,7 +82,7 @@ public class WorldKillBoarsDimention extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldKillBoarsDimention(ElementsTmsModMod instance) {
-		super(instance, 346);
+		super(instance, 366);
 	}
 
 	@Override

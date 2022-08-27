@@ -31,7 +31,7 @@ public class BlockRiftWoodLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rift_wood_leaves")
 	public static final Block block = null;
 	public BlockRiftWoodLeaves(ElementsTmsModMod instance) {
-		super(instance, 958);
+		super(instance, 1010);
 	}
 
 	@Override

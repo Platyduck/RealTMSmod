@@ -36,7 +36,7 @@ public class BlockShredder extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shredder")
 	public static final Block block = null;
 	public BlockShredder(ElementsTmsModMod instance) {
-		super(instance, 334);
+		super(instance, 354);
 	}
 
 	@Override

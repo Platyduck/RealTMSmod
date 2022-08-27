@@ -44,7 +44,7 @@ public class EntityOween extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 121;
 	public static final int ENTITYID_RANGED = 122;
 	public EntityOween(ElementsTmsModMod instance) {
-		super(instance, 675);
+		super(instance, 716);
 	}
 
 	@Override

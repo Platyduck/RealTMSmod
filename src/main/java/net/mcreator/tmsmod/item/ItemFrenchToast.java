@@ -21,7 +21,7 @@ public class ItemFrenchToast extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:french_toast")
 	public static final Item block = null;
 	public ItemFrenchToast(ElementsTmsModMod instance) {
-		super(instance, 554);
+		super(instance, 594);
 	}
 
 	@Override

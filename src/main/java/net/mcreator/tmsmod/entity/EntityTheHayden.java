@@ -46,7 +46,7 @@ public class EntityTheHayden extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 131;
 	public static final int ENTITYID_RANGED = 132;
 	public EntityTheHayden(ElementsTmsModMod instance) {
-		super(instance, 682);
+		super(instance, 723);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemSaxophone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:saxophone")
 	public static final Item block = null;
 	public ItemSaxophone(ElementsTmsModMod instance) {
-		super(instance, 698);
+		super(instance, 737);
 	}
 
 	@Override

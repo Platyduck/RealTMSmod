@@ -29,7 +29,7 @@ public class ItemRexiumSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_sword")
 	public static final Item block = null;
 	public ItemRexiumSword(ElementsTmsModMod instance) {
-		super(instance, 508);
+		super(instance, 535);
 	}
 
 	@Override

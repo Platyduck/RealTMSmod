@@ -27,7 +27,7 @@ public class ItemNetheriteAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_axe")
 	public static final Item block = null;
 	public ItemNetheriteAxe(ElementsTmsModMod instance) {
-		super(instance, 284);
+		super(instance, 303);
 	}
 
 	@Override

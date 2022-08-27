@@ -21,7 +21,7 @@ public class ItemRawBird extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_bird")
 	public static final Item block = null;
 	public ItemRawBird(ElementsTmsModMod instance) {
-		super(instance, 567);
+		super(instance, 607);
 	}
 
 	@Override

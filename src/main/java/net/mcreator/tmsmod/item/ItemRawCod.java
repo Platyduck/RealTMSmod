@@ -21,7 +21,7 @@ public class ItemRawCod extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_cod")
 	public static final Item block = null;
 	public ItemRawCod(ElementsTmsModMod instance) {
-		super(instance, 557);
+		super(instance, 597);
 	}
 
 	@Override

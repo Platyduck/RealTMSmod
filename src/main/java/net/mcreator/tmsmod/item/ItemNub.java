@@ -21,7 +21,7 @@ public class ItemNub extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nub")
 	public static final Item block = null;
 	public ItemNub(ElementsTmsModMod instance) {
-		super(instance, 720);
+		super(instance, 763);
 	}
 
 	@Override

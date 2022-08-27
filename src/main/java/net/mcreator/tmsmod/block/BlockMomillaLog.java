@@ -22,7 +22,7 @@ public class BlockMomillaLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:momilla_log")
 	public static final Block block = null;
 	public BlockMomillaLog(ElementsTmsModMod instance) {
-		super(instance, 479);
+		super(instance, 506);
 	}
 
 	@Override

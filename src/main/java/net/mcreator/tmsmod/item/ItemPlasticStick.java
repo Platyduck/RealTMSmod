@@ -20,7 +20,7 @@ public class ItemPlasticStick extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_stick")
 	public static final Item block = null;
 	public ItemPlasticStick(ElementsTmsModMod instance) {
-		super(instance, 643);
+		super(instance, 684);
 	}
 
 	@Override

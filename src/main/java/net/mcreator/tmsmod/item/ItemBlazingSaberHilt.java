@@ -20,7 +20,7 @@ public class ItemBlazingSaberHilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blazing_saber_hilt")
 	public static final Item block = null;
 	public ItemBlazingSaberHilt(ElementsTmsModMod instance) {
-		super(instance, 1646);
+		super(instance, 746);
 	}
 
 	@Override

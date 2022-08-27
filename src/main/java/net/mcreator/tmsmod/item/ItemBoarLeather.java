@@ -20,7 +20,7 @@ public class ItemBoarLeather extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:boar_leather")
 	public static final Item block = null;
 	public ItemBoarLeather(ElementsTmsModMod instance) {
-		super(instance, 486);
+		super(instance, 513);
 	}
 
 	@Override

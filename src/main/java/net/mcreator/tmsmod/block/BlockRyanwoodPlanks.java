@@ -25,7 +25,7 @@ public class BlockRyanwoodPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ryanwood_planks")
 	public static final Block block = null;
 	public BlockRyanwoodPlanks(ElementsTmsModMod instance) {
-		super(instance, 182);
+		super(instance, 186);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class BiomeSnurbLake extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurb_lake")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSnurbLake(ElementsTmsModMod instance) {
-		super(instance, 906);
+		super(instance, 958);
 	}
 
 	@Override

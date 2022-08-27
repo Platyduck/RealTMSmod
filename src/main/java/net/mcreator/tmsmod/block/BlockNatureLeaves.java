@@ -28,7 +28,7 @@ public class BlockNatureLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nature_leaves")
 	public static final Block block = null;
 	public BlockNatureLeaves(ElementsTmsModMod instance) {
-		super(instance, 206);
+		super(instance, 210);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemPlasticArrow extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_arrow")
 	public static final Item block = null;
 	public ItemPlasticArrow(ElementsTmsModMod instance) {
-		super(instance, 468);
+		super(instance, 495);
 	}
 
 	@Override

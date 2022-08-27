@@ -22,7 +22,7 @@ public class BlockDecrepitAnimatedMetalBlock extends ElementsTmsModMod.ModElemen
 	@GameRegistry.ObjectHolder("tms_mod:decrepit_animated_metal_block")
 	public static final Block block = null;
 	public BlockDecrepitAnimatedMetalBlock(ElementsTmsModMod instance) {
-		super(instance, 175);
+		super(instance, 179);
 	}
 
 	@Override

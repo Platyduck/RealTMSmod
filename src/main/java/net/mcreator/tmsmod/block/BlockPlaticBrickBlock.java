@@ -22,7 +22,7 @@ public class BlockPlaticBrickBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:platic_brick_block")
 	public static final Block block = null;
 	public BlockPlaticBrickBlock(ElementsTmsModMod instance) {
-		super(instance, 434);
+		super(instance, 461);
 	}
 
 	@Override

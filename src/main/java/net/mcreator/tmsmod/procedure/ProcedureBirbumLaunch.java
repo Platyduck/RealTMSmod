@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureBirbumLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureBirbumLaunch(ElementsTmsModMod instance) {
-		super(instance, 1576);
+		super(instance, 1602);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

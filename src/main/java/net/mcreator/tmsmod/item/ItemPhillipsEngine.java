@@ -24,7 +24,7 @@ public class ItemPhillipsEngine extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:phillips_engine")
 	public static final Item block = null;
 	public ItemPhillipsEngine(ElementsTmsModMod instance) {
-		super(instance, 1565);
+		super(instance, 266);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockPlasticSeaTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_sea_tiles")
 	public static final Block block = null;
 	public BlockPlasticSeaTiles(ElementsTmsModMod instance) {
-		super(instance, 439);
+		super(instance, 466);
 	}
 
 	@Override

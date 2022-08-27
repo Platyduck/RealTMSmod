@@ -29,7 +29,7 @@ public class BiomePlasticBirchForest extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_birch_forest")
 	public static final BiomeGenCustom biome = null;
 	public BiomePlasticBirchForest(ElementsTmsModMod instance) {
-		super(instance, 1247);
+		super(instance, 1299);
 	}
 
 	@Override

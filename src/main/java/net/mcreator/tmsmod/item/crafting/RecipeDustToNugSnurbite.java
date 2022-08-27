@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeDustToNugSnurbite extends ElementsTmsModMod.ModElement {
 	public RecipeDustToNugSnurbite(ElementsTmsModMod instance) {
-		super(instance, 1511);
+		super(instance, 1561);
 	}
 
 	@Override

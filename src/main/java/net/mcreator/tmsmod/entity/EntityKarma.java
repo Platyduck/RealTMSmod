@@ -38,7 +38,7 @@ public class EntityKarma extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 64;
 	public static final int ENTITYID_RANGED = 65;
 	public EntityKarma(ElementsTmsModMod instance) {
-		super(instance, 639);
+		super(instance, 680);
 	}
 
 	@Override

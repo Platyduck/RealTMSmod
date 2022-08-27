@@ -22,7 +22,7 @@ public class BlockUPWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:up_wool")
 	public static final Block block = null;
 	public BlockUPWool(ElementsTmsModMod instance) {
-		super(instance, 255);
+		super(instance, 256);
 	}
 
 	@Override

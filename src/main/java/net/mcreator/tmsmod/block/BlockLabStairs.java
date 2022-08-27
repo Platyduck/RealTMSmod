@@ -23,7 +23,7 @@ public class BlockLabStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lab_stairs")
 	public static final Block block = null;
 	public BlockLabStairs(ElementsTmsModMod instance) {
-		super(instance, 365);
+		super(instance, 385);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockRexiumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_block")
 	public static final Block block = null;
 	public BlockRexiumBlock(ElementsTmsModMod instance) {
-		super(instance, 190);
+		super(instance, 194);
 	}
 
 	@Override

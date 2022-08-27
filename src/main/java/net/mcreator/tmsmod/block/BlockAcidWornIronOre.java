@@ -31,7 +31,7 @@ public class BlockAcidWornIronOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:acid_worn_iron_ore")
 	public static final Block block = null;
 	public BlockAcidWornIronOre(ElementsTmsModMod instance) {
-		super(instance, 250);
+		super(instance, 251);
 	}
 
 	@Override

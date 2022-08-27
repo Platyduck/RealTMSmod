@@ -36,7 +36,7 @@ public class BlockButterflyGemOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_ore")
 	public static final Block block = null;
 	public BlockButterflyGemOre(ElementsTmsModMod instance) {
-		super(instance, 212);
+		super(instance, 216);
 	}
 
 	@Override

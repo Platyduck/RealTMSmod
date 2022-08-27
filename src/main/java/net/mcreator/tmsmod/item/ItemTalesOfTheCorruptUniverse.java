@@ -20,7 +20,7 @@ public class ItemTalesOfTheCorruptUniverse extends ElementsTmsModMod.ModElement 
 	@GameRegistry.ObjectHolder("tms_mod:tales_of_the_corrupt_universe")
 	public static final Item block = null;
 	public ItemTalesOfTheCorruptUniverse(ElementsTmsModMod instance) {
-		super(instance, 219);
+		super(instance, 222);
 	}
 
 	@Override

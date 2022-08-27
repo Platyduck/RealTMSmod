@@ -28,7 +28,7 @@ public class ItemRexiumArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_armorboots")
 	public static final Item boots = null;
 	public ItemRexiumArmor(ElementsTmsModMod instance) {
-		super(instance, 509);
+		super(instance, 536);
 	}
 
 	@Override

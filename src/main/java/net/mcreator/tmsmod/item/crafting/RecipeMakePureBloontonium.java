@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeMakePureBloontonium extends ElementsTmsModMod.ModElement {
 	public RecipeMakePureBloontonium(ElementsTmsModMod instance) {
-		super(instance, 1514);
+		super(instance, 1564);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemSnurbinianPhasesaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbinian_phasesaber")
 	public static final Item block = null;
 	public ItemSnurbinianPhasesaber(ElementsTmsModMod instance) {
-		super(instance, 1633);
+		super(instance, 583);
 	}
 
 	@Override

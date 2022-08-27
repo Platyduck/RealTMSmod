@@ -28,7 +28,7 @@ public class ItemLizardGoggles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lizard_gogglesboots")
 	public static final Item boots = null;
 	public ItemLizardGoggles(ElementsTmsModMod instance) {
-		super(instance, 549);
+		super(instance, 572);
 	}
 
 	@Override

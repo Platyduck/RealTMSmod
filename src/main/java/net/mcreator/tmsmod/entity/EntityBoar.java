@@ -46,7 +46,7 @@ public class EntityBoar extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 86;
 	public static final int ENTITYID_RANGED = 87;
 	public EntityBoar(ElementsTmsModMod instance) {
-		super(instance, 657);
+		super(instance, 698);
 	}
 
 	@Override

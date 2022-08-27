@@ -24,7 +24,7 @@ public class ItemRexiumPlate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_plate")
 	public static final Item block = null;
 	public ItemRexiumPlate(ElementsTmsModMod instance) {
-		super(instance, 848);
+		super(instance, 877);
 	}
 
 	@Override

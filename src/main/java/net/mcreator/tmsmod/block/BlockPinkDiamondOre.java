@@ -35,7 +35,7 @@ public class BlockPinkDiamondOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond_ore")
 	public static final Block block = null;
 	public BlockPinkDiamondOre(ElementsTmsModMod instance) {
-		super(instance, 355);
+		super(instance, 375);
 	}
 
 	@Override

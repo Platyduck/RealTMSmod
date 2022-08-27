@@ -16,7 +16,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSnurbumSwordEntitySwingsItem extends ElementsTmsModMod.ModElement {
 	public ProcedureSnurbumSwordEntitySwingsItem(ElementsTmsModMod instance) {
-		super(instance, 1042);
+		super(instance, 1094);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

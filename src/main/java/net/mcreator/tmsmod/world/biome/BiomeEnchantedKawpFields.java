@@ -29,7 +29,7 @@ public class BiomeEnchantedKawpFields extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:enchanted_kawp_fields")
 	public static final BiomeGenCustom biome = null;
 	public BiomeEnchantedKawpFields(ElementsTmsModMod instance) {
-		super(instance, 1513);
+		super(instance, 1563);
 	}
 
 	@Override

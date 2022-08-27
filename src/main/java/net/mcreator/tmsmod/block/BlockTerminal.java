@@ -36,7 +36,7 @@ public class BlockTerminal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:terminal")
 	public static final Block block = null;
 	public BlockTerminal(ElementsTmsModMod instance) {
-		super(instance, 470);
+		super(instance, 497);
 	}
 
 	@Override

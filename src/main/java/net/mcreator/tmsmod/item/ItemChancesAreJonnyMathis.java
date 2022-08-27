@@ -20,7 +20,7 @@ public class ItemChancesAreJonnyMathis extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:chances_are_jonny_mathis")
 	public static final Item block = null;
 	public ItemChancesAreJonnyMathis(ElementsTmsModMod instance) {
-		super(instance, 672);
+		super(instance, 713);
 	}
 
 	@Override

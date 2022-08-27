@@ -22,7 +22,7 @@ public class BlockMazeFloor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:maze_floor")
 	public static final Block block = null;
 	public BlockMazeFloor(ElementsTmsModMod instance) {
-		super(instance, 399);
+		super(instance, 418);
 	}
 
 	@Override

@@ -39,7 +39,7 @@ public class EntityWoodenSnurbGolem extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 143;
 	public static final int ENTITYID_RANGED = 144;
 	public EntityWoodenSnurbGolem(ElementsTmsModMod instance) {
-		super(instance, 699);
+		super(instance, 738);
 	}
 
 	@Override

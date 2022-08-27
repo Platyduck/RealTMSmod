@@ -14,7 +14,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSnurbiteToolsSwordRightClickedInAir extends ElementsTmsModMod.ModElement {
 	public ProcedureSnurbiteToolsSwordRightClickedInAir(ElementsTmsModMod instance) {
-		super(instance, 1041);
+		super(instance, 1093);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

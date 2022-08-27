@@ -22,7 +22,7 @@ public class BlockHoneyBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:honey_block")
 	public static final Block block = null;
 	public BlockHoneyBlock(ElementsTmsModMod instance) {
-		super(instance, 315);
+		super(instance, 334);
 	}
 
 	@Override

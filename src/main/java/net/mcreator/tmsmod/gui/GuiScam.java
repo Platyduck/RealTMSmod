@@ -37,7 +37,7 @@ public class GuiScam extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 3;
 	public static HashMap guistate = new HashMap();
 	public GuiScam(ElementsTmsModMod instance) {
-		super(instance, 1101);
+		super(instance, 1153);
 	}
 
 	@Override
@@ -116,7 +116,7 @@ public class GuiScam extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/laurenvenomicon.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 6, this.guiTop + 142, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 6, this.guiTop + 142, 0, 0, -1, -1, -1, -1);
 		}
 
 		@Override

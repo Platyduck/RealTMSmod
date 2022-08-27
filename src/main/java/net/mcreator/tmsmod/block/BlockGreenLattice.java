@@ -22,7 +22,7 @@ public class BlockGreenLattice extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:green_lattice")
 	public static final Block block = null;
 	public BlockGreenLattice(ElementsTmsModMod instance) {
-		super(instance, 166);
+		super(instance, 170);
 	}
 
 	@Override

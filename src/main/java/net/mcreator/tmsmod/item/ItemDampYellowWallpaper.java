@@ -24,7 +24,7 @@ public class ItemDampYellowWallpaper extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:damp_yellow_wallpaper")
 	public static final Item block = null;
 	public ItemDampYellowWallpaper(ElementsTmsModMod instance) {
-		super(instance, 502);
+		super(instance, 529);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemAmongDrip extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:among_drip")
 	public static final Item block = null;
 	public ItemAmongDrip(ElementsTmsModMod instance) {
-		super(instance, 636);
+		super(instance, 677);
 	}
 
 	@Override

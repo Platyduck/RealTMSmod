@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureKawpLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureKawpLaunch(ElementsTmsModMod instance) {
-		super(instance, 1574);
+		super(instance, 1600);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

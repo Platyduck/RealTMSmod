@@ -23,7 +23,7 @@ import java.util.Random;
 @ElementsTmsModMod.ModElement.Tag
 public class StructureSnurbunker extends ElementsTmsModMod.ModElement {
 	public StructureSnurbunker(ElementsTmsModMod instance) {
-		super(instance, 1501);
+		super(instance, 1551);
 	}
 
 	@Override

@@ -38,7 +38,7 @@ public class BlockBlueRose extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blue_rose")
 	public static final Block block = null;
 	public BlockBlueRose(ElementsTmsModMod instance) {
-		super(instance, 496);
+		super(instance, 523);
 	}
 
 	@Override

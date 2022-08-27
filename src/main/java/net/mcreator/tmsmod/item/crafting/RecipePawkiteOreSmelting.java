@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipePawkiteOreSmelting extends ElementsTmsModMod.ModElement {
 	public RecipePawkiteOreSmelting(ElementsTmsModMod instance) {
-		super(instance, 1014);
+		super(instance, 1066);
 	}
 
 	@Override

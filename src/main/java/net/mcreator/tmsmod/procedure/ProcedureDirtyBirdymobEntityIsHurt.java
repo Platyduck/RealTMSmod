@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureDirtyBirdymobEntityIsHurt extends ElementsTmsModMod.ModElement {
 	public ProcedureDirtyBirdymobEntityIsHurt(ElementsTmsModMod instance) {
-		super(instance, 1475);
+		super(instance, 1525);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

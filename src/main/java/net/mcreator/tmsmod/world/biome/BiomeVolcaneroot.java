@@ -22,7 +22,7 @@ public class BiomeVolcaneroot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:volcaneroot")
 	public static final BiomeGenCustom biome = null;
 	public BiomeVolcaneroot(ElementsTmsModMod instance) {
-		super(instance, 1507);
+		super(instance, 1557);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemPlasticFeather extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_feather")
 	public static final Item block = null;
 	public ItemPlasticFeather(ElementsTmsModMod instance) {
-		super(instance, 469);
+		super(instance, 496);
 	}
 
 	@Override

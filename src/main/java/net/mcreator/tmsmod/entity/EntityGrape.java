@@ -37,7 +37,7 @@ public class EntityGrape extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 29;
 	public static final int ENTITYID_RANGED = 30;
 	public EntityGrape(ElementsTmsModMod instance) {
-		super(instance, 614);
+		super(instance, 655);
 	}
 
 	@Override

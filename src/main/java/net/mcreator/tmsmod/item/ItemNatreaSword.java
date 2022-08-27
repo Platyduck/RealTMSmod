@@ -29,7 +29,7 @@ public class ItemNatreaSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_sword")
 	public static final Item block = null;
 	public ItemNatreaSword(ElementsTmsModMod instance) {
-		super(instance, 524);
+		super(instance, 551);
 	}
 
 	@Override

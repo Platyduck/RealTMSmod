@@ -27,7 +27,7 @@ public class BlockMESWallpaper extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_wallpaper")
 	public static final Block block = null;
 	public BlockMESWallpaper(ElementsTmsModMod instance) {
-		super(instance, 336);
+		super(instance, 356);
 	}
 
 	@Override

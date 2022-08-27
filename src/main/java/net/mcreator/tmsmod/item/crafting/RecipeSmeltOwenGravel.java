@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeSmeltOwenGravel extends ElementsTmsModMod.ModElement {
 	public RecipeSmeltOwenGravel(ElementsTmsModMod instance) {
-		super(instance, 1491);
+		super(instance, 1541);
 	}
 
 	@Override

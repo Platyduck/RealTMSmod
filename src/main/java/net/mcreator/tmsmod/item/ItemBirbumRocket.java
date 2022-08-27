@@ -24,7 +24,7 @@ public class ItemBirbumRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:birbum_rocket")
 	public static final Item block = null;
 	public ItemBirbumRocket(ElementsTmsModMod instance) {
-		super(instance, 1543);
+		super(instance, 915);
 	}
 
 	@Override

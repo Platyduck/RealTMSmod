@@ -24,7 +24,7 @@ public class ItemSansDogeiumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_shovel")
 	public static final Item block = null;
 	public ItemSansDogeiumShovel(ElementsTmsModMod instance) {
-		super(instance, 800);
+		super(instance, 839);
 	}
 
 	@Override

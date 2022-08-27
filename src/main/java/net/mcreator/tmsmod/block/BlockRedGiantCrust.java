@@ -22,7 +22,7 @@ public class BlockRedGiantCrust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:red_giant_crust")
 	public static final Block block = null;
 	public BlockRedGiantCrust(ElementsTmsModMod instance) {
-		super(instance, 223);
+		super(instance, 226);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class BlockColtiniumBlueslate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:coltinium_blueslate")
 	public static final Block block = null;
 	public BlockColtiniumBlueslate(ElementsTmsModMod instance) {
-		super(instance, 209);
+		super(instance, 213);
 	}
 
 	@Override

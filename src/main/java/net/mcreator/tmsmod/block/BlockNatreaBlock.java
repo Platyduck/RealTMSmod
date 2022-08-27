@@ -22,7 +22,7 @@ public class BlockNatreaBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_block")
 	public static final Block block = null;
 	public BlockNatreaBlock(ElementsTmsModMod instance) {
-		super(instance, 202);
+		super(instance, 206);
 	}
 
 	@Override

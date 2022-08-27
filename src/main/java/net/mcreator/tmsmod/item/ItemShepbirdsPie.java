@@ -21,7 +21,7 @@ public class ItemShepbirdsPie extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shepbirds_pie")
 	public static final Item block = null;
 	public ItemShepbirdsPie(ElementsTmsModMod instance) {
-		super(instance, 596);
+		super(instance, 636);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemUnitedSteelAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_axe")
 	public static final Item block = null;
 	public ItemUnitedSteelAxe(ElementsTmsModMod instance) {
-		super(instance, 781);
+		super(instance, 821);
 	}
 
 	@Override

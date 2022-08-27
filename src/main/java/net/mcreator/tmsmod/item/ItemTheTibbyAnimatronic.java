@@ -24,7 +24,7 @@ public class ItemTheTibbyAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_tibby_animatronic")
 	public static final Item block = null;
 	public ItemTheTibbyAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 142);
+		super(instance, 146);
 	}
 
 	@Override

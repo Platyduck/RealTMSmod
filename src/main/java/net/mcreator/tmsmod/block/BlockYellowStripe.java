@@ -22,7 +22,7 @@ public class BlockYellowStripe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:yellow_stripe")
 	public static final Block block = null;
 	public BlockYellowStripe(ElementsTmsModMod instance) {
-		super(instance, 381);
+		super(instance, 401);
 	}
 
 	@Override

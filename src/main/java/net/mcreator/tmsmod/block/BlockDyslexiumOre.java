@@ -36,7 +36,7 @@ public class BlockDyslexiumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_ore")
 	public static final Block block = null;
 	public BlockDyslexiumOre(ElementsTmsModMod instance) {
-		super(instance, 200);
+		super(instance, 204);
 	}
 
 	@Override

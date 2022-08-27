@@ -28,7 +28,7 @@ public class ItemHaydeniteSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:haydenite_sword")
 	public static final Item block = null;
 	public ItemHaydeniteSword(ElementsTmsModMod instance) {
-		super(instance, 547);
+		super(instance, 1437);
 	}
 
 	@Override

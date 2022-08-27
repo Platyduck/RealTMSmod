@@ -22,7 +22,7 @@ public class BlockCryingObsidian extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crying_obsidian")
 	public static final Block block = null;
 	public BlockCryingObsidian(ElementsTmsModMod instance) {
-		super(instance, 318);
+		super(instance, 337);
 	}
 
 	@Override

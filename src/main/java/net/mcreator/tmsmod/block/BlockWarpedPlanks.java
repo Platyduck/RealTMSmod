@@ -22,7 +22,7 @@ public class BlockWarpedPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:warped_planks")
 	public static final Block block = null;
 	public BlockWarpedPlanks(ElementsTmsModMod instance) {
-		super(instance, 300);
+		super(instance, 319);
 	}
 
 	@Override

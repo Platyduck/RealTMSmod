@@ -28,7 +28,7 @@ public class ItemGrahamunyArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_armorboots")
 	public static final Item boots = null;
 	public ItemGrahamunyArmor(ElementsTmsModMod instance) {
-		super(instance, 513);
+		super(instance, 540);
 	}
 
 	@Override

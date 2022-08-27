@@ -78,7 +78,7 @@ public class WorldAbbyCloud extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldAbbyCloud(ElementsTmsModMod instance) {
-		super(instance, 1671);
+		super(instance, 272);
 	}
 
 	@Override

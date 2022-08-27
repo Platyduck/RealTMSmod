@@ -22,7 +22,7 @@ public class BlockBloodCobble extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blood_cobble")
 	public static final Block block = null;
 	public BlockBloodCobble(ElementsTmsModMod instance) {
-		super(instance, 873);
+		super(instance, 901);
 	}
 
 	@Override

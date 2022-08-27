@@ -21,7 +21,7 @@ public class BiomeTitanMajorDesert extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:titan_major_desert")
 	public static final BiomeGenCustom biome = null;
 	public BiomeTitanMajorDesert(ElementsTmsModMod instance) {
-		super(instance, 1505);
+		super(instance, 1555);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class EntityUnderblankarianElder extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 114;
 	public static final int ENTITYID_RANGED = 115;
 	public EntityUnderblankarianElder(ElementsTmsModMod instance) {
-		super(instance, 670);
+		super(instance, 711);
 	}
 
 	@Override

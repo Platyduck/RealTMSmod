@@ -32,7 +32,7 @@ public class BlockBirbAnimatronicReal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:birb_animatronic_real")
 	public static final Block block = null;
 	public BlockBirbAnimatronicReal(ElementsTmsModMod instance) {
-		super(instance, 144);
+		super(instance, 148);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockSpectralMoss extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:spectral_moss")
 	public static final Block block = null;
 	public BlockSpectralMoss(ElementsTmsModMod instance) {
-		super(instance, 304);
+		super(instance, 323);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemShinyCrystal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_crystal")
 	public static final Item block = null;
 	public ItemShinyCrystal(ElementsTmsModMod instance) {
-		super(instance, 1643);
+		super(instance, 350);
 	}
 
 	@Override

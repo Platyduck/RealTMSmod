@@ -28,7 +28,7 @@ public class ItemOzmireDagger extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ozmire_dagger")
 	public static final Item block = null;
 	public ItemOzmireDagger(ElementsTmsModMod instance) {
-		super(instance, 1632);
+		super(instance, 582);
 	}
 
 	@Override

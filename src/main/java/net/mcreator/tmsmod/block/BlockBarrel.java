@@ -47,7 +47,7 @@ public class BlockBarrel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:barrel")
 	public static final Block block = null;
 	public BlockBarrel(ElementsTmsModMod instance) {
-		super(instance, 279);
+		super(instance, 298);
 	}
 
 	@Override

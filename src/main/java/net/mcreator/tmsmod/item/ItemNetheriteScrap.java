@@ -20,7 +20,7 @@ public class ItemNetheriteScrap extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_scrap")
 	public static final Item block = null;
 	public ItemNetheriteScrap(ElementsTmsModMod instance) {
-		super(instance, 281);
+		super(instance, 300);
 	}
 
 	@Override

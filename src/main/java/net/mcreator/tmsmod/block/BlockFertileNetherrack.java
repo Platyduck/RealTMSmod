@@ -22,7 +22,7 @@ public class BlockFertileNetherrack extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:fertile_netherrack")
 	public static final Block block = null;
 	public BlockFertileNetherrack(ElementsTmsModMod instance) {
-		super(instance, 298);
+		super(instance, 317);
 	}
 
 	@Override

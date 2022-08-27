@@ -27,7 +27,7 @@ public class ItemSnurbumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_axe")
 	public static final Item block = null;
 	public ItemSnurbumAxe(ElementsTmsModMod instance) {
-		super(instance, 737);
+		super(instance, 779);
 	}
 
 	@Override

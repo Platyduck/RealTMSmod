@@ -19,7 +19,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureTerminalRecipes extends ElementsTmsModMod.ModElement {
 	public ProcedureTerminalRecipes(ElementsTmsModMod instance) {
-		super(instance, 1525);
+		super(instance, 1574);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

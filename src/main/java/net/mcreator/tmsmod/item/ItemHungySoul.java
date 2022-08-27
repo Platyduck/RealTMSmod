@@ -20,7 +20,7 @@ public class ItemHungySoul extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hungy_soul")
 	public static final Item block = null;
 	public ItemHungySoul(ElementsTmsModMod instance) {
-		super(instance, 482);
+		super(instance, 509);
 	}
 
 	@Override

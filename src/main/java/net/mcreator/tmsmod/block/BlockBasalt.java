@@ -22,7 +22,7 @@ public class BlockBasalt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:basalt")
 	public static final Block block = null;
 	public BlockBasalt(ElementsTmsModMod instance) {
-		super(instance, 293);
+		super(instance, 312);
 	}
 
 	@Override

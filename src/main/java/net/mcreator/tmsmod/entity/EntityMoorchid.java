@@ -42,7 +42,7 @@ public class EntityMoorchid extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 92;
 	public static final int ENTITYID_RANGED = 93;
 	public EntityMoorchid(ElementsTmsModMod instance) {
-		super(instance, 659);
+		super(instance, 700);
 	}
 
 	@Override

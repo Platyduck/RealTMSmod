@@ -23,7 +23,7 @@ public class ItemTheSnurb extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_snurb")
 	public static final Item block = null;
 	public ItemTheSnurb(ElementsTmsModMod instance) {
-		super(instance, 1204);
+		super(instance, 1256);
 	}
 
 	@Override

@@ -45,7 +45,7 @@ public class EntityPuffShroom extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 37;
 	public static final int ENTITYID_RANGED = 38;
 	public EntityPuffShroom(ElementsTmsModMod instance) {
-		super(instance, 618);
+		super(instance, 659);
 	}
 
 	@Override

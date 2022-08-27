@@ -12,7 +12,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class OreDictIngotUranium extends ElementsTmsModMod.ModElement {
 	public OreDictIngotUranium(ElementsTmsModMod instance) {
-		super(instance, 1454);
+		super(instance, 1504);
 	}
 
 	@Override

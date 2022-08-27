@@ -20,7 +20,7 @@ public class ItemShinyDust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_dust")
 	public static final Item block = null;
 	public ItemShinyDust(ElementsTmsModMod instance) {
-		super(instance, 86);
+		super(instance, 87);
 	}
 
 	@Override

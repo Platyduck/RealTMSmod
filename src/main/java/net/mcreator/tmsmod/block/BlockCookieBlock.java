@@ -22,7 +22,7 @@ public class BlockCookieBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cookie_block")
 	public static final Block block = null;
 	public BlockCookieBlock(ElementsTmsModMod instance) {
-		super(instance, 222);
+		super(instance, 225);
 	}
 
 	@Override

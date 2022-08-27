@@ -22,7 +22,7 @@ public class BlockMESWallBottom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_wall_bottom")
 	public static final Block block = null;
 	public BlockMESWallBottom(ElementsTmsModMod instance) {
-		super(instance, 353);
+		super(instance, 373);
 	}
 
 	@Override

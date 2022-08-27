@@ -22,7 +22,7 @@ public class BlockMetalBookshelf extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:metal_bookshelf")
 	public static final Block block = null;
 	public BlockMetalBookshelf(ElementsTmsModMod instance) {
-		super(instance, 1607);
+		super(instance, 430);
 	}
 
 	@Override

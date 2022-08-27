@@ -22,7 +22,7 @@ public class BlockRubberBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rubber_block")
 	public static final Block block = null;
 	public BlockRubberBlock(ElementsTmsModMod instance) {
-		super(instance, 458);
+		super(instance, 485);
 	}
 
 	@Override

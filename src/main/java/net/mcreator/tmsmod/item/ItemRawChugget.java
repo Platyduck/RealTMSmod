@@ -21,7 +21,7 @@ public class ItemRawChugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_chugget")
 	public static final Item block = null;
 	public ItemRawChugget(ElementsTmsModMod instance) {
-		super(instance, 583);
+		super(instance, 623);
 	}
 
 	@Override

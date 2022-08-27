@@ -32,7 +32,7 @@ public class BlockPlasticPumpkin extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_pumpkin")
 	public static final Block block = null;
 	public BlockPlasticPumpkin(ElementsTmsModMod instance) {
-		super(instance, 449);
+		super(instance, 476);
 	}
 
 	@Override

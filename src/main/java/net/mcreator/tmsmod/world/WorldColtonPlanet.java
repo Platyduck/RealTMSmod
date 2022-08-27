@@ -82,7 +82,7 @@ public class WorldColtonPlanet extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldColtonPlanet(ElementsTmsModMod instance) {
-		super(instance, 208);
+		super(instance, 212);
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class ItemRawSnurb extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_snurb")
 	public static final Item block = null;
 	public ItemRawSnurb(ElementsTmsModMod instance) {
-		super(instance, 581);
+		super(instance, 621);
 	}
 
 	@Override

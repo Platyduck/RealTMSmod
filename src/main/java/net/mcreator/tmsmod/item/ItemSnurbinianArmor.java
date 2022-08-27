@@ -28,7 +28,7 @@ public class ItemSnurbinianArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbinian_armorboots")
 	public static final Item boots = null;
 	public ItemSnurbinianArmor(ElementsTmsModMod instance) {
-		super(instance, 531);
+		super(instance, 558);
 	}
 
 	@Override

@@ -26,7 +26,7 @@ public class BlockOvergrownWood extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_wood")
 	public static final Block block = null;
 	public BlockOvergrownWood(ElementsTmsModMod instance) {
-		super(instance, 203);
+		super(instance, 207);
 	}
 
 	@Override

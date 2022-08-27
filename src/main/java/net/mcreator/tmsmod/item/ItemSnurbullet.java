@@ -19,7 +19,7 @@ public class ItemSnurbullet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbullet")
 	public static final Item block = null;
 	public ItemSnurbullet(ElementsTmsModMod instance) {
-		super(instance, 1521);
+		super(instance, 1570);
 	}
 
 	@Override

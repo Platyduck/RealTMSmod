@@ -21,7 +21,7 @@ public class ItemGreasySlice extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:greasy_slice")
 	public static final Item block = null;
 	public ItemGreasySlice(ElementsTmsModMod instance) {
-		super(instance, 563);
+		super(instance, 603);
 	}
 
 	@Override

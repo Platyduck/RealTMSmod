@@ -26,7 +26,7 @@ public class BlockMoss extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moss")
 	public static final Block block = null;
 	public BlockMoss(ElementsTmsModMod instance) {
-		super(instance, 289);
+		super(instance, 308);
 	}
 
 	@Override

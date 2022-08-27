@@ -22,7 +22,7 @@ public class BlockAlexWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alex_wool")
 	public static final Block block = null;
 	public BlockAlexWool(ElementsTmsModMod instance) {
-		super(instance, 266);
+		super(instance, 285);
 	}
 
 	@Override

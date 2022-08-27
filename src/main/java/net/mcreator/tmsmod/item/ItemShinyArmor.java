@@ -28,7 +28,7 @@ public class ItemShinyArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_armorboots")
 	public static final Item boots = null;
 	public ItemShinyArmor(ElementsTmsModMod instance) {
-		super(instance, 545);
+		super(instance, 570);
 	}
 
 	@Override

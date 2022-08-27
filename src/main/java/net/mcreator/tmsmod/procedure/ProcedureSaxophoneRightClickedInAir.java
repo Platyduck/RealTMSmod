@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSaxophoneRightClickedInAir extends ElementsTmsModMod.ModElement {
 	public ProcedureSaxophoneRightClickedInAir(ElementsTmsModMod instance) {
-		super(instance, 1500);
+		super(instance, 1550);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

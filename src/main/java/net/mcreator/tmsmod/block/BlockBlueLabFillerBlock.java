@@ -22,7 +22,7 @@ public class BlockBlueLabFillerBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blue_lab_filler_block")
 	public static final Block block = null;
 	public BlockBlueLabFillerBlock(ElementsTmsModMod instance) {
-		super(instance, 1600);
+		super(instance, 427);
 	}
 
 	@Override

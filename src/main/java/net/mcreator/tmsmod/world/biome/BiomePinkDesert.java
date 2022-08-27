@@ -27,7 +27,7 @@ public class BiomePinkDesert extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_desert")
 	public static final BiomeGenCustom biome = null;
 	public BiomePinkDesert(ElementsTmsModMod instance) {
-		super(instance, 1483);
+		super(instance, 1533);
 	}
 
 	@Override

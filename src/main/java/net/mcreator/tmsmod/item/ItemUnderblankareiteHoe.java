@@ -24,7 +24,7 @@ public class ItemUnderblankareiteHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_hoe")
 	public static final Item block = null;
 	public ItemUnderblankareiteHoe(ElementsTmsModMod instance) {
-		super(instance, 759);
+		super(instance, 801);
 	}
 
 	@Override

@@ -29,7 +29,7 @@ public class BiomeLowerWorld extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_world")
 	public static final BiomeGenCustom biome = null;
 	public BiomeLowerWorld(ElementsTmsModMod instance) {
-		super(instance, 1453);
+		super(instance, 1503);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemSnazzDotAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snazz_dot_animatronic")
 	public static final Item block = null;
 	public ItemSnazzDotAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 140);
+		super(instance, 144);
 	}
 
 	@Override

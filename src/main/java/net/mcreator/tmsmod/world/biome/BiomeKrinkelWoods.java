@@ -29,7 +29,7 @@ public class BiomeKrinkelWoods extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:krinkel_woods")
 	public static final BiomeGenCustom biome = null;
 	public BiomeKrinkelWoods(ElementsTmsModMod instance) {
-		super(instance, 883);
+		super(instance, 935);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class ItemStangeObject extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:stange_object")
 	public static final Item block = null;
 	public ItemStangeObject(ElementsTmsModMod instance) {
-		super(instance, 1487);
+		super(instance, 1537);
 	}
 
 	@Override

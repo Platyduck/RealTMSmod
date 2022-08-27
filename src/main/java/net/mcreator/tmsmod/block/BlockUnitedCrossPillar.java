@@ -22,7 +22,7 @@ public class BlockUnitedCrossPillar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_cross_pillar")
 	public static final Block block = null;
 	public BlockUnitedCrossPillar(ElementsTmsModMod instance) {
-		super(instance, 258);
+		super(instance, 259);
 	}
 
 	@Override

@@ -46,7 +46,7 @@ public class EntityFrendlyCrosco extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 49;
 	public static final int ENTITYID_RANGED = 50;
 	public EntityFrendlyCrosco(ElementsTmsModMod instance) {
-		super(instance, 626);
+		super(instance, 667);
 	}
 
 	@Override

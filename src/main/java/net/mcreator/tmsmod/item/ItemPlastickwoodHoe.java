@@ -24,7 +24,7 @@ public class ItemPlastickwoodHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastickwood_hoe")
 	public static final Item block = null;
 	public ItemPlastickwoodHoe(ElementsTmsModMod instance) {
-		super(instance, 787);
+		super(instance, 827);
 	}
 
 	@Override

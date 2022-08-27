@@ -22,7 +22,7 @@ public class BlockPlasticBedrock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_bedrock")
 	public static final Block block = null;
 	public BlockPlasticBedrock(ElementsTmsModMod instance) {
-		super(instance, 465);
+		super(instance, 492);
 	}
 
 	@Override

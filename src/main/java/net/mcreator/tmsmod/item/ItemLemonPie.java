@@ -21,7 +21,7 @@ public class ItemLemonPie extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lemon_pie")
 	public static final Item block = null;
 	public ItemLemonPie(ElementsTmsModMod instance) {
-		super(instance, 592);
+		super(instance, 632);
 	}
 
 	@Override

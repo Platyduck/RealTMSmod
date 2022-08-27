@@ -21,7 +21,7 @@ public class ItemCheese extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cheese")
 	public static final Item block = null;
 	public ItemCheese(ElementsTmsModMod instance) {
-		super(instance, 562);
+		super(instance, 602);
 	}
 
 	@Override

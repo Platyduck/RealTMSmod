@@ -29,7 +29,7 @@ public class PotionLaurenVenom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lauren_venom")
 	public static final PotionType potionType = null;
 	public PotionLaurenVenom(ElementsTmsModMod instance) {
-		super(instance, 1104);
+		super(instance, 1156);
 	}
 
 	@Override

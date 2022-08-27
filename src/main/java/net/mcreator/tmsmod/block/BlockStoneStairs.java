@@ -23,7 +23,7 @@ public class BlockStoneStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:stone_stairs")
 	public static final Block block = null;
 	public BlockStoneStairs(ElementsTmsModMod instance) {
-		super(instance, 305);
+		super(instance, 324);
 	}
 
 	@Override

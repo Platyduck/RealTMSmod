@@ -35,7 +35,7 @@ public class BlockOweniumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_ore")
 	public static final Block block = null;
 	public BlockOweniumOre(ElementsTmsModMod instance) {
-		super(instance, 191);
+		super(instance, 195);
 	}
 
 	@Override

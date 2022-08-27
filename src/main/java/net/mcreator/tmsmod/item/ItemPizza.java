@@ -21,7 +21,7 @@ public class ItemPizza extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pizza")
 	public static final Item block = null;
 	public ItemPizza(ElementsTmsModMod instance) {
-		super(instance, 561);
+		super(instance, 601);
 	}
 
 	@Override

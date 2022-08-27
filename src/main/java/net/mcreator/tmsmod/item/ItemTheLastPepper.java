@@ -27,7 +27,7 @@ public class ItemTheLastPepper extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_last_pepper")
 	public static final Item block = null;
 	public ItemTheLastPepper(ElementsTmsModMod instance) {
-		super(instance, 555);
+		super(instance, 595);
 	}
 
 	@Override

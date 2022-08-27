@@ -20,7 +20,7 @@ public class ItemNathiniumNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_nugget")
 	public static final Item block = null;
 	public ItemNathiniumNugget(ElementsTmsModMod instance) {
-		super(instance, 100);
+		super(instance, 101);
 	}
 
 	@Override

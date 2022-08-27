@@ -24,7 +24,7 @@ public class ItemThiccPlanetTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thicc_planet_tuned_rocket")
 	public static final Item block = null;
 	public ItemThiccPlanetTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 1588);
+		super(instance, 920);
 	}
 
 	@Override

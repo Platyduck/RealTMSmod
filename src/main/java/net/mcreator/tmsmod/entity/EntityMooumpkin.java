@@ -41,7 +41,7 @@ public class EntityMooumpkin extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 102;
 	public static final int ENTITYID_RANGED = 103;
 	public EntityMooumpkin(ElementsTmsModMod instance) {
-		super(instance, 664);
+		super(instance, 705);
 	}
 
 	@Override

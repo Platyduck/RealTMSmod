@@ -21,7 +21,7 @@ public class ItemRawMorsel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_morsel")
 	public static final Item block = null;
 	public ItemRawMorsel(ElementsTmsModMod instance) {
-		super(instance, 558);
+		super(instance, 598);
 	}
 
 	@Override

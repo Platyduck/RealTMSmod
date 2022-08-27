@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureThiccPlanetLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureThiccPlanetLaunch(ElementsTmsModMod instance) {
-		super(instance, 1570);
+		super(instance, 1596);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

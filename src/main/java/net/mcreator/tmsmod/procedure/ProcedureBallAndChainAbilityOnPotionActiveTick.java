@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureBallAndChainAbilityOnPotionActiveTick extends ElementsTmsModMod.ModElement {
 	public ProcedureBallAndChainAbilityOnPotionActiveTick(ElementsTmsModMod instance) {
-		super(instance, 1122);
+		super(instance, 1174);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

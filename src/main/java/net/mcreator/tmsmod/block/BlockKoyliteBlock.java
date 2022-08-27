@@ -21,7 +21,7 @@ public class BlockKoyliteBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:koylite_block")
 	public static final Block block = null;
 	public BlockKoyliteBlock(ElementsTmsModMod instance) {
-		super(instance, 215);
+		super(instance, 1477);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemNeptuneToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:neptune_token")
 	public static final Item block = null;
 	public ItemNeptuneToken(ElementsTmsModMod instance) {
-		super(instance, 1676);
+		super(instance, 273);
 	}
 
 	@Override

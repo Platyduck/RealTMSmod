@@ -33,7 +33,7 @@ public class ItemDyslexiumSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_sword")
 	public static final Item block = null;
 	public ItemDyslexiumSword(ElementsTmsModMod instance) {
-		super(instance, 522);
+		super(instance, 549);
 	}
 
 	@Override

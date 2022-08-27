@@ -34,7 +34,7 @@ public class ItemSummonorsScythe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:summonors_scythe")
 	public static final Item block = null;
 	public ItemSummonorsScythe(ElementsTmsModMod instance) {
-		super(instance, 537);
+		super(instance, 575);
 	}
 
 	@Override

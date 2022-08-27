@@ -35,7 +35,7 @@ public class BlockPlasticDiamond extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_diamond")
 	public static final Block block = null;
 	public BlockPlasticDiamond(ElementsTmsModMod instance) {
-		super(instance, 423);
+		super(instance, 450);
 	}
 
 	@Override

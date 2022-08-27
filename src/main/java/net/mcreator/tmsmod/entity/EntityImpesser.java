@@ -39,7 +39,7 @@ public class EntityImpesser extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 35;
 	public static final int ENTITYID_RANGED = 36;
 	public EntityImpesser(ElementsTmsModMod instance) {
-		super(instance, 617);
+		super(instance, 658);
 	}
 
 	@Override

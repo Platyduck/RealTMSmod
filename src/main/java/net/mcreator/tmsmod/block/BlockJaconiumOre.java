@@ -36,7 +36,7 @@ public class BlockJaconiumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconium_ore")
 	public static final Block block = null;
 	public BlockJaconiumOre(ElementsTmsModMod instance) {
-		super(instance, 187);
+		super(instance, 191);
 	}
 
 	@Override

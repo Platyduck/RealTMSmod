@@ -24,7 +24,7 @@ public class ItemPawkiteHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_hoe")
 	public static final Item block = null;
 	public ItemPawkiteHoe(ElementsTmsModMod instance) {
-		super(instance, 755);
+		super(instance, 797);
 	}
 
 	@Override

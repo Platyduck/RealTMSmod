@@ -22,7 +22,7 @@ public class BlockLobbyBottom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lobby_bottom")
 	public static final Block block = null;
 	public BlockLobbyBottom(ElementsTmsModMod instance) {
-		super(instance, 360);
+		super(instance, 380);
 	}
 
 	@Override

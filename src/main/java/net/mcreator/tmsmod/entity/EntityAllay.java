@@ -42,7 +42,7 @@ public class EntityAllay extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 82;
 	public static final int ENTITYID_RANGED = 83;
 	public EntityAllay(ElementsTmsModMod instance) {
-		super(instance, 655);
+		super(instance, 696);
 	}
 
 	@Override

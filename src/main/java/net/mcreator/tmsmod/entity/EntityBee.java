@@ -46,7 +46,7 @@ public class EntityBee extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 66;
 	public static final int ENTITYID_RANGED = 67;
 	public EntityBee(ElementsTmsModMod instance) {
-		super(instance, 290);
+		super(instance, 309);
 	}
 
 	@Override

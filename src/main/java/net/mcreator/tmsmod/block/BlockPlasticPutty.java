@@ -32,7 +32,7 @@ public class BlockPlasticPutty extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_putty")
 	public static final Block block = null;
 	public BlockPlasticPutty(ElementsTmsModMod instance) {
-		super(instance, 431);
+		super(instance, 458);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemBlueprints extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blueprints")
 	public static final Item block = null;
 	public ItemBlueprints(ElementsTmsModMod instance) {
-		super(instance, 357);
+		super(instance, 377);
 	}
 
 	@Override

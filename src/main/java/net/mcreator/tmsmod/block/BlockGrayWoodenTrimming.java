@@ -22,7 +22,7 @@ public class BlockGrayWoodenTrimming extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:gray_wooden_trimming")
 	public static final Block block = null;
 	public BlockGrayWoodenTrimming(ElementsTmsModMod instance) {
-		super(instance, 376);
+		super(instance, 396);
 	}
 
 	@Override

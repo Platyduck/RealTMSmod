@@ -20,7 +20,7 @@ public class ItemPlasticToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_token")
 	public static final Item block = null;
 	public ItemPlasticToken(ElementsTmsModMod instance) {
-		super(instance, 1680);
+		super(instance, 277);
 	}
 
 	@Override

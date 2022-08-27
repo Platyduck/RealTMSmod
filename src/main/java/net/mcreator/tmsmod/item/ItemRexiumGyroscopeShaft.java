@@ -20,7 +20,7 @@ public class ItemRexiumGyroscopeShaft extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_gyroscope_shaft")
 	public static final Item block = null;
 	public ItemRexiumGyroscopeShaft(ElementsTmsModMod instance) {
-		super(instance, 847);
+		super(instance, 876);
 	}
 
 	@Override

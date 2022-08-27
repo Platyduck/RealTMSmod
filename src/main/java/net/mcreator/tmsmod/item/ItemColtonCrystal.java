@@ -20,7 +20,7 @@ public class ItemColtonCrystal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:colton_crystal")
 	public static final Item block = null;
 	public ItemColtonCrystal(ElementsTmsModMod instance) {
-		super(instance, 1659);
+		super(instance, 130);
 	}
 
 	@Override

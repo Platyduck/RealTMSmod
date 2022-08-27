@@ -24,7 +24,7 @@ public class ItemSkeletonKey extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:skeleton_key")
 	public static final Item block = null;
 	public ItemSkeletonKey(ElementsTmsModMod instance) {
-		super(instance, 404);
+		super(instance, 423);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class EntityFrog extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 127;
 	public static final int ENTITYID_RANGED = 128;
 	public EntityFrog(ElementsTmsModMod instance) {
-		super(instance, 678);
+		super(instance, 719);
 	}
 
 	@Override

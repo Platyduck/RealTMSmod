@@ -35,7 +35,7 @@ public class BlockPlasticUnderblankareiteOre extends ElementsTmsModMod.ModElemen
 	@GameRegistry.ObjectHolder("tms_mod:plastic_underblankareite_ore")
 	public static final Block block = null;
 	public BlockPlasticUnderblankareiteOre(ElementsTmsModMod instance) {
-		super(instance, 422);
+		super(instance, 449);
 	}
 
 	@Override

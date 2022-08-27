@@ -29,7 +29,7 @@ public class ItemKrockscaleRapier extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:krockscale_rapier")
 	public static final Item block = null;
 	public ItemKrockscaleRapier(ElementsTmsModMod instance) {
-		super(instance, 721);
+		super(instance, 576);
 	}
 
 	@Override

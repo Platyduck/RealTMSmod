@@ -21,7 +21,7 @@ public class ItemCookedSnurb extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_snurb")
 	public static final Item block = null;
 	public ItemCookedSnurb(ElementsTmsModMod instance) {
-		super(instance, 582);
+		super(instance, 622);
 	}
 
 	@Override

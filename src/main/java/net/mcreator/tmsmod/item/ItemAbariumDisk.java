@@ -24,7 +24,7 @@ public class ItemAbariumDisk extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:abarium_disk")
 	public static final Item block = null;
 	public ItemAbariumDisk(ElementsTmsModMod instance) {
-		super(instance, 1630);
+		super(instance, 886);
 	}
 
 	@Override

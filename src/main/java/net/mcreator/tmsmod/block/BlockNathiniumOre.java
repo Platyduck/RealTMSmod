@@ -35,7 +35,7 @@ public class BlockNathiniumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_ore")
 	public static final Block block = null;
 	public BlockNathiniumOre(ElementsTmsModMod instance) {
-		super(instance, 193);
+		super(instance, 197);
 	}
 
 	@Override

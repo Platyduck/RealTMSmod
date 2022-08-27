@@ -20,7 +20,7 @@ public class ItemMoonToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moon_token")
 	public static final Item block = null;
 	public ItemMoonToken(ElementsTmsModMod instance) {
-		super(instance, 1683);
+		super(instance, 280);
 	}
 
 	@Override

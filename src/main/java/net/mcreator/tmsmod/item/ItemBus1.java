@@ -20,7 +20,7 @@ public class ItemBus1 extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:bus_1")
 	public static final Item block = null;
 	public ItemBus1(ElementsTmsModMod instance) {
-		super(instance, 490);
+		super(instance, 517);
 	}
 
 	@Override

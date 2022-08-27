@@ -35,7 +35,7 @@ public class BlockRot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rot")
 	public static final Block block = null;
 	public BlockRot(ElementsTmsModMod instance) {
-		super(instance, 707);
+		super(instance, 750);
 	}
 
 	@Override

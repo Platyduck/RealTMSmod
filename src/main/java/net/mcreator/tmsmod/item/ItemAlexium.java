@@ -20,7 +20,7 @@ public class ItemAlexium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alexium")
 	public static final Item block = null;
 	public ItemAlexium(ElementsTmsModMod instance) {
-		super(instance, 91);
+		super(instance, 92);
 	}
 
 	@Override

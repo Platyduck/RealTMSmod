@@ -27,7 +27,7 @@ public class ItemTheGrapeSlurpee extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_grape_slurpee")
 	public static final Item block = null;
 	public ItemTheGrapeSlurpee(ElementsTmsModMod instance) {
-		super(instance, 589);
+		super(instance, 629);
 	}
 
 	@Override

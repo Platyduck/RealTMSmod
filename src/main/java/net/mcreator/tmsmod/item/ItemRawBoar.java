@@ -21,7 +21,7 @@ public class ItemRawBoar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_boar")
 	public static final Item block = null;
 	public ItemRawBoar(ElementsTmsModMod instance) {
-		super(instance, 569);
+		super(instance, 609);
 	}
 
 	@Override

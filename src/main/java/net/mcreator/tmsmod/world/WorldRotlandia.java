@@ -86,7 +86,7 @@ public class WorldRotlandia extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldRotlandia(ElementsTmsModMod instance) {
-		super(instance, 332);
+		super(instance, 352);
 	}
 
 	@Override

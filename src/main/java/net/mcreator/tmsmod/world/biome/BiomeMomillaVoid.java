@@ -30,7 +30,7 @@ public class BiomeMomillaVoid extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:momilla_void")
 	public static final BiomeGenCustom biome = null;
 	public BiomeMomillaVoid(ElementsTmsModMod instance) {
-		super(instance, 1262);
+		super(instance, 1314);
 	}
 
 	@Override

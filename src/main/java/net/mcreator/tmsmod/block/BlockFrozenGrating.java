@@ -22,7 +22,7 @@ public class BlockFrozenGrating extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:frozen_grating")
 	public static final Block block = null;
 	public BlockFrozenGrating(ElementsTmsModMod instance) {
-		super(instance, 386);
+		super(instance, 405);
 	}
 
 	@Override

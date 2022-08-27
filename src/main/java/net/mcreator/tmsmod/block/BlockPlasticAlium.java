@@ -41,7 +41,7 @@ public class BlockPlasticAlium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_alium")
 	public static final Block block = null;
 	public BlockPlasticAlium(ElementsTmsModMod instance) {
-		super(instance, 442);
+		super(instance, 469);
 	}
 
 	@Override

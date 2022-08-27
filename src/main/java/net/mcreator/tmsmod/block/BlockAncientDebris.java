@@ -31,7 +31,7 @@ public class BlockAncientDebris extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ancient_debris")
 	public static final Block block = null;
 	public BlockAncientDebris(ElementsTmsModMod instance) {
-		super(instance, 280);
+		super(instance, 299);
 	}
 
 	@Override

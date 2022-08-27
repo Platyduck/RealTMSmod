@@ -29,7 +29,7 @@ public class BlockRyanwoodLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ryanwood_leaves")
 	public static final Block block = null;
 	public BlockRyanwoodLeaves(ElementsTmsModMod instance) {
-		super(instance, 183);
+		super(instance, 187);
 	}
 
 	@Override

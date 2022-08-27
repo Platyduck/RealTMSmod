@@ -41,7 +41,7 @@ public class EntitySharold extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 72;
 	public static final int ENTITYID_RANGED = 73;
 	public EntitySharold(ElementsTmsModMod instance) {
-		super(instance, 641);
+		super(instance, 682);
 	}
 
 	@Override

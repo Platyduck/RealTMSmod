@@ -21,7 +21,7 @@ public class ItemThePeanutButter extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_peanut_butter")
 	public static final Item block = null;
 	public ItemThePeanutButter(ElementsTmsModMod instance) {
-		super(instance, 601);
+		super(instance, 641);
 	}
 
 	@Override

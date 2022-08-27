@@ -13,7 +13,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureTheLastSnurbaderbEntityIsHurt extends ElementsTmsModMod.ModElement {
 	public ProcedureTheLastSnurbaderbEntityIsHurt(ElementsTmsModMod instance) {
-		super(instance, 1522);
+		super(instance, 1571);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -33,7 +33,7 @@ public class ItemNathiniumHammer extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_hammer")
 	public static final Item block = null;
 	public ItemNathiniumHammer(ElementsTmsModMod instance) {
-		super(instance, 779);
+		super(instance, 578);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemBlankMusicDisc extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blank_music_disc")
 	public static final Item block = null;
 	public ItemBlankMusicDisc(ElementsTmsModMod instance) {
-		super(instance, 648);
+		super(instance, 689);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemTall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:tall")
 	public static final Item block = null;
 	public ItemTall(ElementsTmsModMod instance) {
-		super(instance, 686);
+		super(instance, 727);
 	}
 
 	@Override

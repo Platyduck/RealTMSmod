@@ -35,7 +35,7 @@ public class BlockPlasticoalOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasticoal_ore")
 	public static final Block block = null;
 	public BlockPlasticoalOre(ElementsTmsModMod instance) {
-		super(instance, 420);
+		super(instance, 447);
 	}
 
 	@Override

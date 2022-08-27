@@ -20,7 +20,7 @@ public class ItemIronSaberHilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:iron_saber_hilt")
 	public static final Item block = null;
 	public ItemIronSaberHilt(ElementsTmsModMod instance) {
-		super(instance, 1645);
+		super(instance, 745);
 	}
 
 	@Override

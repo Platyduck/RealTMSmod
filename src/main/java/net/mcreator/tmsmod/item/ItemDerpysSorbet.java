@@ -21,7 +21,7 @@ public class ItemDerpysSorbet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:derpys_sorbet")
 	public static final Item block = null;
 	public ItemDerpysSorbet(ElementsTmsModMod instance) {
-		super(instance, 176);
+		super(instance, 180);
 	}
 
 	@Override

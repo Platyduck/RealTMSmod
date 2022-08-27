@@ -28,7 +28,7 @@ public class ItemDerpBlade extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:derp_blade")
 	public static final Item block = null;
 	public ItemDerpBlade(ElementsTmsModMod instance) {
-		super(instance, 1519);
+		super(instance, 573);
 	}
 
 	@Override

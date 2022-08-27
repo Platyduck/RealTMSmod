@@ -28,7 +28,7 @@ public class ItemPenglockSafelockSuit extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:penglock_safelock_suitboots")
 	public static final Item boots = null;
 	public ItemPenglockSafelockSuit(ElementsTmsModMod instance) {
-		super(instance, 154);
+		super(instance, 158);
 	}
 
 	@Override

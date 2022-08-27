@@ -20,7 +20,7 @@ public class ItemLeaderSoul extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:leader_soul")
 	public static final Item block = null;
 	public ItemLeaderSoul(ElementsTmsModMod instance) {
-		super(instance, 484);
+		super(instance, 511);
 	}
 
 	@Override

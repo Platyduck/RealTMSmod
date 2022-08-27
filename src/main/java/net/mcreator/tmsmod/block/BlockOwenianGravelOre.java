@@ -33,7 +33,7 @@ public class BlockOwenianGravelOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenian_gravel_ore")
 	public static final Block block = null;
 	public BlockOwenianGravelOre(ElementsTmsModMod instance) {
-		super(instance, 253);
+		super(instance, 254);
 	}
 
 	@Override

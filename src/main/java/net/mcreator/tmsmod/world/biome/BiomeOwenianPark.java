@@ -23,7 +23,7 @@ public class BiomeOwenianPark extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenian_park")
 	public static final BiomeGenCustom biome = null;
 	public BiomeOwenianPark(ElementsTmsModMod instance) {
-		super(instance, 1486);
+		super(instance, 1536);
 	}
 
 	@Override

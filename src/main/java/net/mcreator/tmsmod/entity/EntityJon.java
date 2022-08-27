@@ -45,7 +45,7 @@ public class EntityJon extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 125;
 	public static final int ENTITYID_RANGED = 126;
 	public EntityJon(ElementsTmsModMod instance) {
-		super(instance, 677);
+		super(instance, 718);
 	}
 
 	@Override

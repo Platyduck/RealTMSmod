@@ -37,7 +37,7 @@ public class BlockMangroveSlab extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mangrove_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockMangroveSlab(ElementsTmsModMod instance) {
-		super(instance, 311);
+		super(instance, 330);
 	}
 
 	@Override

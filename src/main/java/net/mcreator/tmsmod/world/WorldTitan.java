@@ -82,7 +82,7 @@ public class WorldTitan extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldTitan(ElementsTmsModMod instance) {
-		super(instance, 248);
+		super(instance, 249);
 	}
 
 	@Override

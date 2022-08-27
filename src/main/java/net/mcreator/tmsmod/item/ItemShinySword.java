@@ -29,7 +29,7 @@ public class ItemShinySword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_sword")
 	public static final Item block = null;
 	public ItemShinySword(ElementsTmsModMod instance) {
-		super(instance, 506);
+		super(instance, 533);
 	}
 
 	@Override

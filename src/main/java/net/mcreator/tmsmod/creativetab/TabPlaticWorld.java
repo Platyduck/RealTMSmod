@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabPlaticWorld extends ElementsTmsModMod.ModElement {
 	public TabPlaticWorld(ElementsTmsModMod instance) {
-		super(instance, 1174);
+		super(instance, 1226);
 	}
 
 	@Override

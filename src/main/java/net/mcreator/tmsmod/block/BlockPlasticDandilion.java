@@ -41,7 +41,7 @@ public class BlockPlasticDandilion extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_dandilion")
 	public static final Block block = null;
 	public BlockPlasticDandilion(ElementsTmsModMod instance) {
-		super(instance, 441);
+		super(instance, 468);
 	}
 
 	@Override

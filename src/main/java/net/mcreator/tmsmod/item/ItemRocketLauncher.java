@@ -45,7 +45,7 @@ public class ItemRocketLauncher extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 4;
 	public ItemRocketLauncher(ElementsTmsModMod instance) {
-		super(instance, 504);
+		super(instance, 531);
 	}
 
 	@Override

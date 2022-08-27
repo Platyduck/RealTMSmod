@@ -14,7 +14,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class OreDictPlankWood extends ElementsTmsModMod.ModElement {
 	public OreDictPlankWood(ElementsTmsModMod instance) {
-		super(instance, 1455);
+		super(instance, 1505);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ import java.util.ArrayList;
 @ElementsTmsModMod.ModElement.Tag
 public class CommandNightvision extends ElementsTmsModMod.ModElement {
 	public CommandNightvision(ElementsTmsModMod instance) {
-		super(instance, 1173);
+		super(instance, 1225);
 	}
 
 	@Override

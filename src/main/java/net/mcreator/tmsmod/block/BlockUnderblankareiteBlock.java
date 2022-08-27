@@ -22,7 +22,7 @@ public class BlockUnderblankareiteBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_block")
 	public static final Block block = null;
 	public BlockUnderblankareiteBlock(ElementsTmsModMod instance) {
-		super(instance, 199);
+		super(instance, 203);
 	}
 
 	@Override

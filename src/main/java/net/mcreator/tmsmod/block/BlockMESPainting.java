@@ -32,7 +32,7 @@ public class BlockMESPainting extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_painting")
 	public static final Block block = null;
 	public BlockMESPainting(ElementsTmsModMod instance) {
-		super(instance, 378);
+		super(instance, 398);
 	}
 
 	@Override

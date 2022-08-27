@@ -32,7 +32,7 @@ public class BlockStove extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:stove")
 	public static final Block block = null;
 	public BlockStove(ElementsTmsModMod instance) {
-		super(instance, 148);
+		super(instance, 152);
 	}
 
 	@Override

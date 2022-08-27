@@ -31,7 +31,7 @@ public class BlockThiccWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thicc_wool")
 	public static final Block block = null;
 	public BlockThiccWool(ElementsTmsModMod instance) {
-		super(instance, 475);
+		super(instance, 502);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemCherrySlurpee extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cherry_slurpee")
 	public static final Item block = null;
 	public ItemCherrySlurpee(ElementsTmsModMod instance) {
-		super(instance, 588);
+		super(instance, 628);
 	}
 
 	@Override

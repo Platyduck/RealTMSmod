@@ -20,7 +20,7 @@ public class ItemShinyNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_nugget")
 	public static final Item block = null;
 	public ItemShinyNugget(ElementsTmsModMod instance) {
-		super(instance, 85);
+		super(instance, 86);
 	}
 
 	@Override

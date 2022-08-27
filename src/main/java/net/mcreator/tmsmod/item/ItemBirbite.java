@@ -24,7 +24,7 @@ public class ItemBirbite extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:birbite")
 	public static final Item block = null;
 	public ItemBirbite(ElementsTmsModMod instance) {
-		super(instance, 82);
+		super(instance, 83);
 	}
 
 	@Override

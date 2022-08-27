@@ -22,7 +22,7 @@ public class BlockHotelCarpet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hotel_carpet")
 	public static final Block block = null;
 	public BlockHotelCarpet(ElementsTmsModMod instance) {
-		super(instance, 129);
+		super(instance, 133);
 	}
 
 	@Override

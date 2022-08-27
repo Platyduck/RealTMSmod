@@ -33,7 +33,7 @@ public class ItemOweniumSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_sword")
 	public static final Item block = null;
 	public ItemOweniumSword(ElementsTmsModMod instance) {
-		super(instance, 510);
+		super(instance, 537);
 	}
 
 	@Override

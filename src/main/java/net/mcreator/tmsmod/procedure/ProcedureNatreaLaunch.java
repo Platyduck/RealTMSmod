@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureNatreaLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureNatreaLaunch(ElementsTmsModMod instance) {
-		super(instance, 1577);
+		super(instance, 1603);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

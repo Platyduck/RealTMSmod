@@ -20,7 +20,7 @@ public class ItemKobite extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobite")
 	public static final Item block = null;
 	public ItemKobite(ElementsTmsModMod instance) {
-		super(instance, 87);
+		super(instance, 88);
 	}
 
 	@Override

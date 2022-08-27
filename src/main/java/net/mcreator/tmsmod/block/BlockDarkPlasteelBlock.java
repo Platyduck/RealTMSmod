@@ -22,7 +22,7 @@ public class BlockDarkPlasteelBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dark_plasteel_block")
 	public static final Block block = null;
 	public BlockDarkPlasteelBlock(ElementsTmsModMod instance) {
-		super(instance, 459);
+		super(instance, 486);
 	}
 
 	@Override

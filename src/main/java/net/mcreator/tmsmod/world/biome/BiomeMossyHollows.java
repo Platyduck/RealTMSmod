@@ -28,7 +28,7 @@ public class BiomeMossyHollows extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mossy_hollows")
 	public static final BiomeGenCustom biome = null;
 	public BiomeMossyHollows(ElementsTmsModMod instance) {
-		super(instance, 1277);
+		super(instance, 1329);
 	}
 
 	@Override

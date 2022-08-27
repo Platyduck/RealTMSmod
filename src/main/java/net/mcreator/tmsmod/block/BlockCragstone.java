@@ -22,7 +22,7 @@ public class BlockCragstone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cragstone")
 	public static final Block block = null;
 	public BlockCragstone(ElementsTmsModMod instance) {
-		super(instance, 344);
+		super(instance, 364);
 	}
 
 	@Override

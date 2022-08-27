@@ -28,7 +28,7 @@ public class ItemWilsonSuit extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:wilson_suitboots")
 	public static final Item boots = null;
 	public ItemWilsonSuit(ElementsTmsModMod instance) {
-		super(instance, 156);
+		super(instance, 160);
 	}
 
 	@Override

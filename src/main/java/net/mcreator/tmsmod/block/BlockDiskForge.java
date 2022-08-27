@@ -36,7 +36,7 @@ public class BlockDiskForge extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:disk_forge")
 	public static final Block block = null;
 	public BlockDiskForge(ElementsTmsModMod instance) {
-		super(instance, 1626);
+		super(instance, 432);
 	}
 
 	@Override

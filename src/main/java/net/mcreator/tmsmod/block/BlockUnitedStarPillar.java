@@ -31,7 +31,7 @@ public class BlockUnitedStarPillar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_star_pillar")
 	public static final Block block = null;
 	public BlockUnitedStarPillar(ElementsTmsModMod instance) {
-		super(instance, 257);
+		super(instance, 258);
 	}
 
 	@Override

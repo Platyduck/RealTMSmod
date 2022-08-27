@@ -22,7 +22,7 @@ public class BlockLavenderWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lavender_wool")
 	public static final Block block = null;
 	public BlockLavenderWool(ElementsTmsModMod instance) {
-		super(instance, 1528);
+		super(instance, 264);
 	}
 
 	@Override

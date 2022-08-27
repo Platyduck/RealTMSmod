@@ -20,7 +20,7 @@ public class ItemDerpiniumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:derpinium_ingot")
 	public static final Item block = null;
 	public ItemDerpiniumIngot(ElementsTmsModMod instance) {
-		super(instance, 93);
+		super(instance, 94);
 	}
 
 	@Override

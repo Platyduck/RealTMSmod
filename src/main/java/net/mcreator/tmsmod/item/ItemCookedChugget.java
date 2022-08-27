@@ -21,7 +21,7 @@ public class ItemCookedChugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_chugget")
 	public static final Item block = null;
 	public ItemCookedChugget(ElementsTmsModMod instance) {
-		super(instance, 584);
+		super(instance, 624);
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class ItemAbhorrentFlesh extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:abhorrent_flesh")
 	public static final Item block = null;
 	public ItemAbhorrentFlesh(ElementsTmsModMod instance) {
-		super(instance, 571);
+		super(instance, 611);
 	}
 
 	@Override

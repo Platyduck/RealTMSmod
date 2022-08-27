@@ -24,7 +24,7 @@ public class ItemNetheriteIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_ingot")
 	public static final Item block = null;
 	public ItemNetheriteIngot(ElementsTmsModMod instance) {
-		super(instance, 282);
+		super(instance, 301);
 	}
 
 	@Override

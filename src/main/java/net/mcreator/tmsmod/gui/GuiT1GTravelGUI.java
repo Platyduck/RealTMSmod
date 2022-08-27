@@ -37,7 +37,7 @@ public class GuiT1GTravelGUI extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 12;
 	public static HashMap guistate = new HashMap();
 	public GuiT1GTravelGUI(ElementsTmsModMod instance) {
-		super(instance, 1690);
+		super(instance, 1648);
 	}
 
 	@Override

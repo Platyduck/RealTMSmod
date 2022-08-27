@@ -20,7 +20,7 @@ public class ItemBeetlejuiceGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:beetlejuice_globe")
 	public static final Item block = null;
 	public ItemBeetlejuiceGlobe(ElementsTmsModMod instance) {
-		super(instance, 1677);
+		super(instance, 274);
 	}
 
 	@Override

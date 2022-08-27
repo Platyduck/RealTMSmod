@@ -20,7 +20,7 @@ public class ItemRawSnurbumPutty extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_snurbum_putty")
 	public static final Item block = null;
 	public ItemRawSnurbumPutty(ElementsTmsModMod instance) {
-		super(instance, 78);
+		super(instance, 79);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockColtiniumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:coltinium_block")
 	public static final Block block = null;
 	public BlockColtiniumBlock(ElementsTmsModMod instance) {
-		super(instance, 197);
+		super(instance, 201);
 	}
 
 	@Override

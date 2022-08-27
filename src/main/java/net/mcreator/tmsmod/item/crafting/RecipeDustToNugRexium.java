@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeDustToNugRexium extends ElementsTmsModMod.ModElement {
 	public RecipeDustToNugRexium(ElementsTmsModMod instance) {
-		super(instance, 1656);
+		super(instance, 1633);
 	}
 
 	@Override

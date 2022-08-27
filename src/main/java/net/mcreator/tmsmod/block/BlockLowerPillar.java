@@ -22,7 +22,7 @@ public class BlockLowerPillar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_pillar")
 	public static final Block block = null;
 	public BlockLowerPillar(ElementsTmsModMod instance) {
-		super(instance, 870);
+		super(instance, 898);
 	}
 
 	@Override

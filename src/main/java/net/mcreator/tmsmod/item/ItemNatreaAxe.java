@@ -27,7 +27,7 @@ public class ItemNatreaAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_axe")
 	public static final Item block = null;
 	public ItemNatreaAxe(ElementsTmsModMod instance) {
-		super(instance, 765);
+		super(instance, 807);
 	}
 
 	@Override

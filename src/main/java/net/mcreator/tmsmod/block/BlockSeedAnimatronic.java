@@ -32,7 +32,7 @@ public class BlockSeedAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:seed_animatronic")
 	public static final Block block = null;
 	public BlockSeedAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 138);
+		super(instance, 142);
 	}
 
 	@Override

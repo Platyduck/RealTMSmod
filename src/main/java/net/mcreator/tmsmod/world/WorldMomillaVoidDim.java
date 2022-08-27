@@ -84,7 +84,7 @@ public class WorldMomillaVoidDim extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldMomillaVoidDim(ElementsTmsModMod instance) {
-		super(instance, 480);
+		super(instance, 507);
 	}
 
 	@Override

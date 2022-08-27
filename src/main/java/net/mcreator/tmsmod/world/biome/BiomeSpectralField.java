@@ -18,7 +18,7 @@ public class BiomeSpectralField extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:spectral_field")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSpectralField(ElementsTmsModMod instance) {
-		super(instance, 1269);
+		super(instance, 1321);
 	}
 
 	@Override

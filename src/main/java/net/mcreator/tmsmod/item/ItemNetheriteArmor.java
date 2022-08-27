@@ -28,7 +28,7 @@ public class ItemNetheriteArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_armorboots")
 	public static final Item boots = null;
 	public ItemNetheriteArmor(ElementsTmsModMod instance) {
-		super(instance, 288);
+		super(instance, 307);
 	}
 
 	@Override

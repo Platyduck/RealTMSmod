@@ -28,7 +28,7 @@ public class ItemOliversKnife extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:olivers_knife")
 	public static final Item block = null;
 	public ItemOliversKnife(ElementsTmsModMod instance) {
-		super(instance, 147);
+		super(instance, 151);
 	}
 
 	@Override

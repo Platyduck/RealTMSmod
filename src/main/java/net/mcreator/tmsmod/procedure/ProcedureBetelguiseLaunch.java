@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureBetelguiseLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureBetelguiseLaunch(ElementsTmsModMod instance) {
-		super(instance, 1569);
+		super(instance, 1595);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

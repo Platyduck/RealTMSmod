@@ -23,7 +23,7 @@ import java.util.Random;
 @ElementsTmsModMod.ModElement.Tag
 public class StructureOutpost extends ElementsTmsModMod.ModElement {
 	public StructureOutpost(ElementsTmsModMod instance) {
-		super(instance, 1140);
+		super(instance, 1192);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockKawpdirt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kawpdirt")
 	public static final Block block = null;
 	public BlockKawpdirt(ElementsTmsModMod instance) {
-		super(instance, 273);
+		super(instance, 292);
 	}
 
 	@Override

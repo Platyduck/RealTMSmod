@@ -41,7 +41,7 @@ public class BlockSinkSoup extends ElementsTmsModMod.ModElement {
 	public static final Item item = null;
 	private Fluid fluid;
 	public BlockSinkSoup(ElementsTmsModMod instance) {
-		super(instance, 689);
+		super(instance, 1474);
 		fluid = new Fluid("sink_soup", new ResourceLocation("tms_mod:blocks/soupymixture"), new ResourceLocation("tms_mod:blocks/soupymixture"))
 				.setLuminosity(0).setDensity(1000).setViscosity(1000).setGaseous(false);
 	}

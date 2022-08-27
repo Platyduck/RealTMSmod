@@ -27,7 +27,7 @@ public class BlockKawpGrass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kawp_grass")
 	public static final Block block = null;
 	public BlockKawpGrass(ElementsTmsModMod instance) {
-		super(instance, 272);
+		super(instance, 291);
 	}
 
 	@Override

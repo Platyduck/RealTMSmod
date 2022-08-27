@@ -22,7 +22,7 @@ public class BlockSmoothPlasticQuartz extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:smooth_plastic_quartz")
 	public static final Block block = null;
 	public BlockSmoothPlasticQuartz(ElementsTmsModMod instance) {
-		super(instance, 464);
+		super(instance, 491);
 	}
 
 	@Override

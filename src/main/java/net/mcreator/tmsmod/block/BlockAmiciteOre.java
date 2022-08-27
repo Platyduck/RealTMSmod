@@ -31,7 +31,7 @@ public class BlockAmiciteOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:amicite_ore")
 	public static final Block block = null;
 	public BlockAmiciteOre(ElementsTmsModMod instance) {
-		super(instance, 259);
+		super(instance, 260);
 	}
 
 	@Override

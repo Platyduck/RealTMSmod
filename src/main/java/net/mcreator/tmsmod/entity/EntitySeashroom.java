@@ -48,7 +48,7 @@ public class EntitySeashroom extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 39;
 	public static final int ENTITYID_RANGED = 40;
 	public EntitySeashroom(ElementsTmsModMod instance) {
-		super(instance, 619);
+		super(instance, 660);
 	}
 
 	@Override

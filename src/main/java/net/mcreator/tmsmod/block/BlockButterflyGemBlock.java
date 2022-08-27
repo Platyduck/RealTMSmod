@@ -22,7 +22,7 @@ public class BlockButterflyGemBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_block")
 	public static final Block block = null;
 	public BlockButterflyGemBlock(ElementsTmsModMod instance) {
-		super(instance, 213);
+		super(instance, 217);
 	}
 
 	@Override

@@ -26,7 +26,7 @@ public class BlockOvergrownStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_stairs")
 	public static final Block block = null;
 	public BlockOvergrownStairs(ElementsTmsModMod instance) {
-		super(instance, 348);
+		super(instance, 368);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BiomeSquirrelIslands extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:squirrel_islands")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSquirrelIslands(ElementsTmsModMod instance) {
-		super(instance, 1125);
+		super(instance, 1177);
 	}
 
 	@Override

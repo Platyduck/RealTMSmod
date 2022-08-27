@@ -22,7 +22,7 @@ public class BlockGrayStripe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:gray_stripe")
 	public static final Block block = null;
 	public BlockGrayStripe(ElementsTmsModMod instance) {
-		super(instance, 389);
+		super(instance, 408);
 	}
 
 	@Override

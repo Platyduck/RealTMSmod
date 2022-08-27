@@ -44,7 +44,7 @@ public class EntitySnurby extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 27;
 	public static final int ENTITYID_RANGED = 28;
 	public EntitySnurby(ElementsTmsModMod instance) {
-		super(instance, 613);
+		super(instance, 654);
 	}
 
 	@Override

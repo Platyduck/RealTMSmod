@@ -22,7 +22,7 @@ public class BlockBackroomsLevel1Wallpaper extends ElementsTmsModMod.ModElement 
 	@GameRegistry.ObjectHolder("tms_mod:backrooms_level_1_wallpaper")
 	public static final Block block = null;
 	public BlockBackroomsLevel1Wallpaper(ElementsTmsModMod instance) {
-		super(instance, 495);
+		super(instance, 522);
 	}
 
 	@Override

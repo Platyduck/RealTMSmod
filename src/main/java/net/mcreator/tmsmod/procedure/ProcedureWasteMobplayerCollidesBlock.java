@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureWasteMobplayerCollidesBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureWasteMobplayerCollidesBlock(ElementsTmsModMod instance) {
-		super(instance, 1479);
+		super(instance, 1529);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

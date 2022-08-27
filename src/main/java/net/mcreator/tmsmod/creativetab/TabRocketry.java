@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabRocketry extends ElementsTmsModMod.ModElement {
 	public TabRocketry(ElementsTmsModMod instance) {
-		super(instance, 1532);
+		super(instance, 1576);
 	}
 
 	@Override

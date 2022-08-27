@@ -24,7 +24,7 @@ public class ItemNetheriteShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_shovel")
 	public static final Item block = null;
 	public ItemNetheriteShovel(ElementsTmsModMod instance) {
-		super(instance, 286);
+		super(instance, 305);
 	}
 
 	@Override

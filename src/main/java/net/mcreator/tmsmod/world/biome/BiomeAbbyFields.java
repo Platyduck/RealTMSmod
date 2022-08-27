@@ -26,7 +26,7 @@ public class BiomeAbbyFields extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:abby_fields")
 	public static final BiomeGenCustom biome = null;
 	public BiomeAbbyFields(ElementsTmsModMod instance) {
-		super(instance, 1671);
+		super(instance, 1639);
 	}
 
 	@Override

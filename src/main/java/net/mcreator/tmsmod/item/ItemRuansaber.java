@@ -28,7 +28,7 @@ public class ItemRuansaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ruansaber")
 	public static final Item block = null;
 	public ItemRuansaber(ElementsTmsModMod instance) {
-		super(instance, 1663);
+		super(instance, 591);
 	}
 
 	@Override

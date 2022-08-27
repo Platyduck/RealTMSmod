@@ -28,7 +28,7 @@ public class BiomeRiftBiome extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rift_biome")
 	public static final BiomeGenCustom biome = null;
 	public BiomeRiftBiome(ElementsTmsModMod instance) {
-		super(instance, 966);
+		super(instance, 1018);
 	}
 
 	@Override

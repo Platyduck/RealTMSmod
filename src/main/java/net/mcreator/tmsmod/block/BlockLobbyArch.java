@@ -23,7 +23,7 @@ public class BlockLobbyArch extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lobby_arch")
 	public static final Block block = null;
 	public BlockLobbyArch(ElementsTmsModMod instance) {
-		super(instance, 366);
+		super(instance, 386);
 	}
 
 	@Override

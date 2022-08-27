@@ -27,7 +27,7 @@ public class BlockHappyHellstone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:happy_hellstone")
 	public static final Block block = null;
 	public BlockHappyHellstone(ElementsTmsModMod instance) {
-		super(instance, 853);
+		super(instance, 1452);
 	}
 
 	@Override

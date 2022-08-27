@@ -28,7 +28,7 @@ public class BlockRedInfest extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:red_infest")
 	public static final Block block = null;
 	public BlockRedInfest(ElementsTmsModMod instance) {
-		super(instance, 352);
+		super(instance, 372);
 	}
 
 	@Override

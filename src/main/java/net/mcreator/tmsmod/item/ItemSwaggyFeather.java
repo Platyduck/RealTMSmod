@@ -20,7 +20,7 @@ public class ItemSwaggyFeather extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:swaggy_feather")
 	public static final Item block = null;
 	public ItemSwaggyFeather(ElementsTmsModMod instance) {
-		super(instance, 488);
+		super(instance, 515);
 	}
 
 	@Override

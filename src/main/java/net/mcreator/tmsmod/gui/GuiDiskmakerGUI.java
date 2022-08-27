@@ -39,7 +39,7 @@ public class GuiDiskmakerGUI extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 11;
 	public static HashMap guistate = new HashMap();
 	public GuiDiskmakerGUI(ElementsTmsModMod instance) {
-		super(instance, 1625);
+		super(instance, 1618);
 	}
 
 	@Override
@@ -251,11 +251,11 @@ public class GuiDiskmakerGUI extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/arrowgui.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 34, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 34, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/disk.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 106, this.guiTop + 25, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 106, this.guiTop + 25, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/dyslexiumdisk.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 16, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 16, 0, 0, -1, -1, -1, -1);
 		}
 
 		@Override

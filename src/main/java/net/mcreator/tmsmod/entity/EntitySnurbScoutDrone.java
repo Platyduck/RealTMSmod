@@ -53,7 +53,7 @@ public class EntitySnurbScoutDrone extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 147;
 	public static final int ENTITYID_RANGED = 148;
 	public EntitySnurbScoutDrone(ElementsTmsModMod instance) {
-		super(instance, 701);
+		super(instance, 740);
 	}
 
 	@Override

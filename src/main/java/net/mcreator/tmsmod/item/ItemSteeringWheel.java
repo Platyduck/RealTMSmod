@@ -24,7 +24,7 @@ public class ItemSteeringWheel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:steering_wheel")
 	public static final Item block = null;
 	public ItemSteeringWheel(ElementsTmsModMod instance) {
-		super(instance, 604);
+		super(instance, 645);
 	}
 
 	@Override

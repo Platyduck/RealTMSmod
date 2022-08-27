@@ -22,7 +22,7 @@ public class BlockPlasticMoonGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_moon_globe")
 	public static final Block block = null;
 	public BlockPlasticMoonGlobe(ElementsTmsModMod instance) {
-		super(instance, 233);
+		super(instance, 236);
 	}
 
 	@Override

@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabDerpysAndSnurbs extends ElementsTmsModMod.ModElement {
 	public TabDerpysAndSnurbs(ElementsTmsModMod instance) {
-		super(instance, 1261);
+		super(instance, 1313);
 	}
 
 	@Override

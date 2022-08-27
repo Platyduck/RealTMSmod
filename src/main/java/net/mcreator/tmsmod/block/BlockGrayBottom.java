@@ -22,7 +22,7 @@ public class BlockGrayBottom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:gray_bottom")
 	public static final Block block = null;
 	public BlockGrayBottom(ElementsTmsModMod instance) {
-		super(instance, 387);
+		super(instance, 406);
 	}
 
 	@Override

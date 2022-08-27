@@ -20,7 +20,7 @@ public class ItemAmethystCrystal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:amethyst_crystal")
 	public static final Item block = null;
 	public ItemAmethystCrystal(ElementsTmsModMod instance) {
-		super(instance, 303);
+		super(instance, 322);
 	}
 
 	@Override

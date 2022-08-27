@@ -37,7 +37,7 @@ public class BlockRyanwoodSlab extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ryanwood_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockRyanwoodSlab(ElementsTmsModMod instance) {
-		super(instance, 185);
+		super(instance, 189);
 	}
 
 	@Override

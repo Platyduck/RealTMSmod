@@ -24,7 +24,7 @@ public class ItemSansDogeiumPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_pickaxe")
 	public static final Item block = null;
 	public ItemSansDogeiumPickaxe(ElementsTmsModMod instance) {
-		super(instance, 798);
+		super(instance, 837);
 	}
 
 	@Override

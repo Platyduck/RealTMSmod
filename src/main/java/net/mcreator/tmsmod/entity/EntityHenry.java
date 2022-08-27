@@ -42,7 +42,7 @@ public class EntityHenry extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 76;
 	public static final int ENTITYID_RANGED = 77;
 	public EntityHenry(ElementsTmsModMod instance) {
-		super(instance, 651);
+		super(instance, 692);
 	}
 
 	@Override

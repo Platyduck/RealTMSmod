@@ -20,7 +20,7 @@ public class ItemRedGiant extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:red_giant")
 	public static final Item block = null;
 	public ItemRedGiant(ElementsTmsModMod instance) {
-		super(instance, 220);
+		super(instance, 223);
 	}
 
 	@Override

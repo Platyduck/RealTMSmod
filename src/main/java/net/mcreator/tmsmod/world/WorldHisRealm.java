@@ -83,7 +83,7 @@ public class WorldHisRealm extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldHisRealm(ElementsTmsModMod instance) {
-		super(instance, 829);
+		super(instance, 858);
 	}
 
 	@Override

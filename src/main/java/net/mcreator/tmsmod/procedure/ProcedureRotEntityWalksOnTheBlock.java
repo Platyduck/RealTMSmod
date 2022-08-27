@@ -18,7 +18,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRotEntityWalksOnTheBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureRotEntityWalksOnTheBlock(ElementsTmsModMod instance) {
-		super(instance, 1599);
+		super(instance, 1608);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

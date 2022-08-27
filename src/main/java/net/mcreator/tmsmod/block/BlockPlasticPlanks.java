@@ -22,7 +22,7 @@ public class BlockPlasticPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_planks")
 	public static final Block block = null;
 	public BlockPlasticPlanks(ElementsTmsModMod instance) {
-		super(instance, 407);
+		super(instance, 434);
 	}
 
 	@Override

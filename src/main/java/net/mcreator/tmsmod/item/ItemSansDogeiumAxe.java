@@ -27,7 +27,7 @@ public class ItemSansDogeiumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_axe")
 	public static final Item block = null;
 	public ItemSansDogeiumAxe(ElementsTmsModMod instance) {
-		super(instance, 799);
+		super(instance, 838);
 	}
 
 	@Override

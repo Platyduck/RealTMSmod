@@ -22,7 +22,7 @@ public class BlockGreenWall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:green_wall")
 	public static final Block block = null;
 	public BlockGreenWall(ElementsTmsModMod instance) {
-		super(instance, 127);
+		super(instance, 131);
 	}
 
 	@Override

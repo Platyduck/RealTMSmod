@@ -24,7 +24,7 @@ public class ItemTheLetter extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_letter")
 	public static final Item block = null;
 	public ItemTheLetter(ElementsTmsModMod instance) {
-		super(instance, 227);
+		super(instance, 230);
 	}
 
 	@Override

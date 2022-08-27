@@ -37,7 +37,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureInfuserUpdateTick extends ElementsTmsModMod.ModElement {
 	public ProcedureInfuserUpdateTick(ElementsTmsModMod instance) {
-		super(instance, 1497);
+		super(instance, 1547);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

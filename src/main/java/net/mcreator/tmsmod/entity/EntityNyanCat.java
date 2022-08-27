@@ -38,7 +38,7 @@ public class EntityNyanCat extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 135;
 	public static final int ENTITYID_RANGED = 136;
 	public EntityNyanCat(ElementsTmsModMod instance) {
-		super(instance, 692);
+		super(instance, 731);
 	}
 
 	@Override

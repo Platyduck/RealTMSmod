@@ -29,7 +29,7 @@ public class ItemUnitedSteelSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_sword")
 	public static final Item block = null;
 	public ItemUnitedSteelSword(ElementsTmsModMod instance) {
-		super(instance, 533);
+		super(instance, 559);
 	}
 
 	@Override

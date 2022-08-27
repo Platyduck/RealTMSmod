@@ -26,7 +26,7 @@ public class BlockOvergrownFence extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_fence")
 	public static final Block block = null;
 	public BlockOvergrownFence(ElementsTmsModMod instance) {
-		super(instance, 350);
+		super(instance, 370);
 	}
 
 	@Override

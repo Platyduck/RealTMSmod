@@ -27,7 +27,7 @@ public class BlockAcidWornRock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:acid_worn_rock")
 	public static final Block block = null;
 	public BlockAcidWornRock(ElementsTmsModMod instance) {
-		super(instance, 247);
+		super(instance, 248);
 	}
 
 	@Override

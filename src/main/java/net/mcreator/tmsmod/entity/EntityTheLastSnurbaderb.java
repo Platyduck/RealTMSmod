@@ -61,7 +61,7 @@ public class EntityTheLastSnurbaderb extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 145;
 	public static final int ENTITYID_RANGED = 146;
 	public EntityTheLastSnurbaderb(ElementsTmsModMod instance) {
-		super(instance, 700);
+		super(instance, 739);
 	}
 
 	@Override

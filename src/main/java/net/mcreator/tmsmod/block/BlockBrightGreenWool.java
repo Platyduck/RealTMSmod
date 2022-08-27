@@ -22,7 +22,7 @@ public class BlockBrightGreenWool extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:bright_green_wool")
 	public static final Block block = null;
 	public BlockBrightGreenWool(ElementsTmsModMod instance) {
-		super(instance, 1529);
+		super(instance, 265);
 	}
 
 	@Override

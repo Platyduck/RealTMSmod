@@ -24,7 +24,7 @@ public class ItemSansDogeiumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_hoe")
 	public static final Item block = null;
 	public ItemSansDogeiumHoe(ElementsTmsModMod instance) {
-		super(instance, 801);
+		super(instance, 840);
 	}
 
 	@Override

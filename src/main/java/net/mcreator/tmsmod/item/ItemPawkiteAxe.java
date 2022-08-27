@@ -32,7 +32,7 @@ public class ItemPawkiteAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_axe")
 	public static final Item block = null;
 	public ItemPawkiteAxe(ElementsTmsModMod instance) {
-		super(instance, 753);
+		super(instance, 795);
 	}
 
 	@Override

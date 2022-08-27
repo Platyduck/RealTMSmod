@@ -21,7 +21,7 @@ public class ItemLemonade extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lemonade")
 	public static final Item block = null;
 	public ItemLemonade(ElementsTmsModMod instance) {
-		super(instance, 578);
+		super(instance, 618);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockMainframe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mainframe")
 	public static final Block block = null;
 	public BlockMainframe(ElementsTmsModMod instance) {
-		super(instance, 471);
+		super(instance, 498);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemDirtyBirdyFossil extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dirty_birdy_fossil")
 	public static final Item block = null;
 	public ItemDirtyBirdyFossil(ElementsTmsModMod instance) {
-		super(instance, 717);
+		super(instance, 760);
 	}
 
 	@Override

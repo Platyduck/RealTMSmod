@@ -24,7 +24,7 @@ public class ItemNetheriteHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_hoe")
 	public static final Item block = null;
 	public ItemNetheriteHoe(ElementsTmsModMod instance) {
-		super(instance, 287);
+		super(instance, 306);
 	}
 
 	@Override

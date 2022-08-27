@@ -24,7 +24,7 @@ public class ItemRexiumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_shovel")
 	public static final Item block = null;
 	public ItemRexiumShovel(ElementsTmsModMod instance) {
-		super(instance, 726);
+		super(instance, 768);
 	}
 
 	@Override

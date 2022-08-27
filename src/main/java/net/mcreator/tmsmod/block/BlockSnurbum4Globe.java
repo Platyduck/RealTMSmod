@@ -22,7 +22,7 @@ public class BlockSnurbum4Globe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_4_globe")
 	public static final Block block = null;
 	public BlockSnurbum4Globe(ElementsTmsModMod instance) {
-		super(instance, 229);
+		super(instance, 232);
 	}
 
 	@Override

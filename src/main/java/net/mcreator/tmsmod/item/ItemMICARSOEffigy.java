@@ -24,7 +24,7 @@ public class ItemMICARSOEffigy extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:micarso_effigy")
 	public static final Item block = null;
 	public ItemMICARSOEffigy(ElementsTmsModMod instance) {
-		super(instance, 1598);
+		super(instance, 426);
 	}
 
 	@Override

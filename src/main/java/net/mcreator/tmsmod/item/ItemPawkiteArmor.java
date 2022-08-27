@@ -35,7 +35,7 @@ public class ItemPawkiteArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_armorboots")
 	public static final Item boots = null;
 	public ItemPawkiteArmor(ElementsTmsModMod instance) {
-		super(instance, 518);
+		super(instance, 545);
 	}
 
 	@Override

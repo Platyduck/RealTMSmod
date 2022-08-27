@@ -9,7 +9,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureBallAndChainAbilityPotionExpires extends ElementsTmsModMod.ModElement {
 	public ProcedureBallAndChainAbilityPotionExpires(ElementsTmsModMod instance) {
-		super(instance, 1123);
+		super(instance, 1175);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

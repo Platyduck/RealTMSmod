@@ -22,7 +22,7 @@ public class BlockBlueslateBrick extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blueslate_brick")
 	public static final Block block = null;
 	public BlockBlueslateBrick(ElementsTmsModMod instance) {
-		super(instance, 326);
+		super(instance, 345);
 	}
 
 	@Override

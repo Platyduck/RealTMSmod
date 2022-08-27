@@ -21,7 +21,7 @@ public class ItemWildCarrots extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:wild_carrots")
 	public static final Item block = null;
 	public ItemWildCarrots(ElementsTmsModMod instance) {
-		super(instance, 560);
+		super(instance, 600);
 	}
 
 	@Override

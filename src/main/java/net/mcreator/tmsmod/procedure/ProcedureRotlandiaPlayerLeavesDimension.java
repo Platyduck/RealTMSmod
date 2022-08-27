@@ -10,7 +10,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRotlandiaPlayerLeavesDimension extends ElementsTmsModMod.ModElement {
 	public ProcedureRotlandiaPlayerLeavesDimension(ElementsTmsModMod instance) {
-		super(instance, 1121);
+		super(instance, 1173);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

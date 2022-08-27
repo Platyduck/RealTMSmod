@@ -10,7 +10,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureOweniumSwordLivingEntityIsHitWithTool extends ElementsTmsModMod.ModElement {
 	public ProcedureOweniumSwordLivingEntityIsHitWithTool(ElementsTmsModMod instance) {
-		super(instance, 954);
+		super(instance, 1006);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

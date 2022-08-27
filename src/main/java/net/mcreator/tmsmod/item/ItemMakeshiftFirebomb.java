@@ -42,7 +42,7 @@ public class ItemMakeshiftFirebomb extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 8;
 	public ItemMakeshiftFirebomb(ElementsTmsModMod instance) {
-		super(instance, 521);
+		super(instance, 548);
 	}
 
 	@Override

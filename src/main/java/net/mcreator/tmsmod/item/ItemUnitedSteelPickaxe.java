@@ -24,7 +24,7 @@ public class ItemUnitedSteelPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_pickaxe")
 	public static final Item block = null;
 	public ItemUnitedSteelPickaxe(ElementsTmsModMod instance) {
-		super(instance, 780);
+		super(instance, 820);
 	}
 
 	@Override

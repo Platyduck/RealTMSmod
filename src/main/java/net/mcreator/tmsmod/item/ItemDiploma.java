@@ -20,7 +20,7 @@ public class ItemDiploma extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:diploma")
 	public static final Item block = null;
 	public ItemDiploma(ElementsTmsModMod instance) {
-		super(instance, 492);
+		super(instance, 519);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockVolcanash extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:volcanash")
 	public static final Block block = null;
 	public BlockVolcanash(ElementsTmsModMod instance) {
-		super(instance, 260);
+		super(instance, 261);
 	}
 
 	@Override

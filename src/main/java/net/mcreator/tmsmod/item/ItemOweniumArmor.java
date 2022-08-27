@@ -28,7 +28,7 @@ public class ItemOweniumArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_armorboots")
 	public static final Item boots = null;
 	public ItemOweniumArmor(ElementsTmsModMod instance) {
-		super(instance, 511);
+		super(instance, 538);
 	}
 
 	@Override

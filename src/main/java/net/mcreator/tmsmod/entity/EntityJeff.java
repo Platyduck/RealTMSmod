@@ -36,7 +36,7 @@ public class EntityJeff extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 70;
 	public static final int ENTITYID_RANGED = 71;
 	public EntityJeff(ElementsTmsModMod instance) {
-		super(instance, 640);
+		super(instance, 681);
 	}
 
 	@Override

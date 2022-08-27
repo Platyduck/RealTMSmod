@@ -35,7 +35,7 @@ public class ItemPepeCrummsHammer extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pepe_crumms_hammer")
 	public static final Item block = null;
 	public ItemPepeCrummsHammer(ElementsTmsModMod instance) {
-		super(instance, 532);
+		super(instance, 574);
 	}
 
 	@Override

@@ -58,7 +58,7 @@ public class EntityBlooderfly extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 56;
 	public static final int ENTITYID_RANGED = 57;
 	public EntityBlooderfly(ElementsTmsModMod instance) {
-		super(instance, 631);
+		super(instance, 672);
 	}
 
 	@Override

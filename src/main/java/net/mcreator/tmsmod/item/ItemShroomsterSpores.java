@@ -24,7 +24,7 @@ public class ItemShroomsterSpores extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shroomster_spores")
 	public static final Item block = null;
 	public ItemShroomsterSpores(ElementsTmsModMod instance) {
-		super(instance, 625);
+		super(instance, 666);
 	}
 
 	@Override

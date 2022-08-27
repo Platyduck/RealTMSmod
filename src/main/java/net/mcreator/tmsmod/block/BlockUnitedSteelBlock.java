@@ -22,7 +22,7 @@ public class BlockUnitedSteelBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_block")
 	public static final Block block = null;
 	public BlockUnitedSteelBlock(ElementsTmsModMod instance) {
-		super(instance, 226);
+		super(instance, 229);
 	}
 
 	@Override

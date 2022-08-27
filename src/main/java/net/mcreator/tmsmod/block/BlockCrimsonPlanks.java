@@ -22,7 +22,7 @@ public class BlockCrimsonPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crimson_planks")
 	public static final Block block = null;
 	public BlockCrimsonPlanks(ElementsTmsModMod instance) {
-		super(instance, 301);
+		super(instance, 320);
 	}
 
 	@Override

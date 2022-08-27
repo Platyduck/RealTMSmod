@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabBackportFeatures extends ElementsTmsModMod.ModElement {
 	public TabBackportFeatures(ElementsTmsModMod instance) {
-		super(instance, 1166);
+		super(instance, 1218);
 	}
 
 	@Override

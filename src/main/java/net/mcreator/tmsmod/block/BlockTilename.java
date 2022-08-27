@@ -22,7 +22,7 @@ public class BlockTilename extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:tilename")
 	public static final Block block = null;
 	public BlockTilename(ElementsTmsModMod instance) {
-		super(instance, 476);
+		super(instance, 503);
 	}
 
 	@Override

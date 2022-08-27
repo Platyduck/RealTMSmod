@@ -22,7 +22,7 @@ public class BlockPlaticStone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:platic_stone")
 	public static final Block block = null;
 	public BlockPlaticStone(ElementsTmsModMod instance) {
-		super(instance, 425);
+		super(instance, 452);
 	}
 
 	@Override

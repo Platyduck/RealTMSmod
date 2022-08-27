@@ -77,7 +77,7 @@ public class WorldUnderblankarianZone extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldUnderblankarianZone(ElementsTmsModMod instance) {
-		super(instance, 722);
+		super(instance, 263);
 	}
 
 	@Override

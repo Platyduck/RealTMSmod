@@ -27,7 +27,7 @@ public class ItemJaconiteAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconite_axe")
 	public static final Item block = null;
 	public ItemJaconiteAxe(ElementsTmsModMod instance) {
-		super(instance, 805);
+		super(instance, 842);
 	}
 
 	@Override

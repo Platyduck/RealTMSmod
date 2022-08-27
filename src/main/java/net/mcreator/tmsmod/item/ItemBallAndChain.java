@@ -24,7 +24,7 @@ public class ItemBallAndChain extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ball_and_chain")
 	public static final Item block = null;
 	public ItemBallAndChain(ElementsTmsModMod instance) {
-		super(instance, 778);
+		super(instance, 577);
 	}
 
 	@Override

@@ -21,7 +21,7 @@ public class BiomeHappyHell extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:happy_hell")
 	public static final BiomeGenCustom biome = null;
 	public BiomeHappyHell(ElementsTmsModMod instance) {
-		super(instance, 1403);
+		super(instance, 1454);
 	}
 
 	@Override

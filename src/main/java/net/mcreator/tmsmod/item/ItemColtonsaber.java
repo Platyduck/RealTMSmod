@@ -28,7 +28,7 @@ public class ItemColtonsaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:coltonsaber")
 	public static final Item block = null;
 	public ItemColtonsaber(ElementsTmsModMod instance) {
-		super(instance, 1660);
+		super(instance, 590);
 	}
 
 	@Override

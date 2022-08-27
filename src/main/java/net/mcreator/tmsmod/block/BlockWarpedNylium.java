@@ -22,7 +22,7 @@ public class BlockWarpedNylium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:warped_nylium")
 	public static final Block block = null;
 	public BlockWarpedNylium(ElementsTmsModMod instance) {
-		super(instance, 297);
+		super(instance, 316);
 	}
 
 	@Override

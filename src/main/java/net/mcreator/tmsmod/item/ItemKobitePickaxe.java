@@ -24,7 +24,7 @@ public class ItemKobitePickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobite_pickaxe")
 	public static final Item block = null;
 	public ItemKobitePickaxe(ElementsTmsModMod instance) {
-		super(instance, 1688);
+		super(instance, 849);
 	}
 
 	@Override

@@ -25,7 +25,7 @@ public class ItemPeopleII2StillPeoplin extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:people_ii_2_still_peoplin")
 	public static final Item block = null;
 	public ItemPeopleII2StillPeoplin(ElementsTmsModMod instance) {
-		super(instance, 637);
+		super(instance, 678);
 	}
 
 	@Override

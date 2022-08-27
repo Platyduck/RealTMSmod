@@ -27,7 +27,7 @@ public class ItemPlasteelAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_axe")
 	public static final Item block = null;
 	public ItemPlasteelAxe(ElementsTmsModMod instance) {
-		super(instance, 793);
+		super(instance, 833);
 	}
 
 	@Override

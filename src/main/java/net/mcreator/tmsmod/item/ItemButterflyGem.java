@@ -20,7 +20,7 @@ public class ItemButterflyGem extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem")
 	public static final Item block = null;
 	public ItemButterflyGem(ElementsTmsModMod instance) {
-		super(instance, 113);
+		super(instance, 110);
 	}
 
 	@Override

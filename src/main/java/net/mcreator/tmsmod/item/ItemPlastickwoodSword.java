@@ -29,7 +29,7 @@ public class ItemPlastickwoodSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastickwood_sword")
 	public static final Item block = null;
 	public ItemPlastickwoodSword(ElementsTmsModMod instance) {
-		super(instance, 535);
+		super(instance, 561);
 	}
 
 	@Override

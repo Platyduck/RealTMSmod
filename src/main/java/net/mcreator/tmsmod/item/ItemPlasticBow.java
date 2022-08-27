@@ -40,7 +40,7 @@ public class ItemPlasticBow extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 118;
 	public ItemPlasticBow(ElementsTmsModMod instance) {
-		super(instance, 542);
+		super(instance, 567);
 	}
 
 	@Override

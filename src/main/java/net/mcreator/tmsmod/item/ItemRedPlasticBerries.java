@@ -27,7 +27,7 @@ public class ItemRedPlasticBerries extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:red_plastic_berries")
 	public static final Item block = null;
 	public ItemRedPlasticBerries(ElementsTmsModMod instance) {
-		super(instance, 466);
+		super(instance, 493);
 	}
 
 	@Override

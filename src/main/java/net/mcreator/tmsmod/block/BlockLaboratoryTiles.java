@@ -27,7 +27,7 @@ public class BlockLaboratoryTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:laboratory_tiles")
 	public static final Block block = null;
 	public BlockLaboratoryTiles(ElementsTmsModMod instance) {
-		super(instance, 358);
+		super(instance, 378);
 	}
 
 	@Override

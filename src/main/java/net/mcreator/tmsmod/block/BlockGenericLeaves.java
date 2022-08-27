@@ -28,7 +28,7 @@ public class BlockGenericLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:generic_leaves")
 	public static final Block block = null;
 	public BlockGenericLeaves(ElementsTmsModMod instance) {
-		super(instance, 254);
+		super(instance, 255);
 	}
 
 	@Override

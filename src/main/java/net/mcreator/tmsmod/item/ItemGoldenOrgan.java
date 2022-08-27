@@ -20,7 +20,7 @@ public class ItemGoldenOrgan extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:golden_organ")
 	public static final Item block = null;
 	public ItemGoldenOrgan(ElementsTmsModMod instance) {
-		super(instance, 1564);
+		super(instance, 744);
 	}
 
 	@Override

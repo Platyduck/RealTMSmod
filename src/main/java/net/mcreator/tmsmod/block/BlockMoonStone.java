@@ -27,7 +27,7 @@ public class BlockMoonStone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moon_stone")
 	public static final Block block = null;
 	public BlockMoonStone(ElementsTmsModMod instance) {
-		super(instance, 210);
+		super(instance, 214);
 	}
 
 	@Override

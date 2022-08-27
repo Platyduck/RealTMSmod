@@ -24,7 +24,7 @@ public class ItemPawkiteShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_shovel")
 	public static final Item block = null;
 	public ItemPawkiteShovel(ElementsTmsModMod instance) {
-		super(instance, 754);
+		super(instance, 796);
 	}
 
 	@Override

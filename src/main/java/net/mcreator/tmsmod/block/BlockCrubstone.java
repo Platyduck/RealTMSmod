@@ -22,7 +22,7 @@ public class BlockCrubstone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crubstone")
 	public static final Block block = null;
 	public BlockCrubstone(ElementsTmsModMod instance) {
-		super(instance, 1668);
+		super(instance, 270);
 	}
 
 	@Override

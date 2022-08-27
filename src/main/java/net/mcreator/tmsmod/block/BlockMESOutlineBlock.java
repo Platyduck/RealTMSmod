@@ -22,7 +22,7 @@ public class BlockMESOutlineBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_outline_block")
 	public static final Block block = null;
 	public BlockMESOutlineBlock(ElementsTmsModMod instance) {
-		super(instance, 362);
+		super(instance, 382);
 	}
 
 	@Override

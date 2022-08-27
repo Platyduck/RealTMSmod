@@ -20,7 +20,7 @@ public class ItemKawpToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kawp_token")
 	public static final Item block = null;
 	public ItemKawpToken(ElementsTmsModMod instance) {
-		super(instance, 1682);
+		super(instance, 279);
 	}
 
 	@Override

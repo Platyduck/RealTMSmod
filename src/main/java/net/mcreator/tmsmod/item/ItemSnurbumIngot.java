@@ -24,7 +24,7 @@ public class ItemSnurbumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_ingot")
 	public static final Item block = null;
 	public ItemSnurbumIngot(ElementsTmsModMod instance) {
-		super(instance, 77);
+		super(instance, 78);
 	}
 
 	@Override

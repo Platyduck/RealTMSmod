@@ -21,7 +21,7 @@ public class ItemPeptoBismol extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pepto_bismol")
 	public static final Item block = null;
 	public ItemPeptoBismol(ElementsTmsModMod instance) {
-		super(instance, 556);
+		super(instance, 596);
 	}
 
 	@Override

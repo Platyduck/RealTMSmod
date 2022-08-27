@@ -22,7 +22,7 @@ public class BlockRoofTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:roof_tiles")
 	public static final Block block = null;
 	public BlockRoofTiles(ElementsTmsModMod instance) {
-		super(instance, 398);
+		super(instance, 417);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockCheapCarpet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cheap_carpet")
 	public static final Block block = null;
 	public BlockCheapCarpet(ElementsTmsModMod instance) {
-		super(instance, 347);
+		super(instance, 367);
 	}
 
 	@Override

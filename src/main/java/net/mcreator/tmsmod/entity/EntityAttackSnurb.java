@@ -44,7 +44,7 @@ public class EntityAttackSnurb extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 51;
 	public static final int ENTITYID_RANGED = 52;
 	public EntityAttackSnurb(ElementsTmsModMod instance) {
-		super(instance, 628);
+		super(instance, 669);
 	}
 
 	@Override

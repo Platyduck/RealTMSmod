@@ -24,7 +24,7 @@ public class ItemShinyIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_ingot")
 	public static final Item block = null;
 	public ItemShinyIngot(ElementsTmsModMod instance) {
-		super(instance, 84);
+		super(instance, 85);
 	}
 
 	@Override

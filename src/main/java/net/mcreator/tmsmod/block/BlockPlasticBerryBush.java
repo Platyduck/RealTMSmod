@@ -42,7 +42,7 @@ public class BlockPlasticBerryBush extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_berry_bush")
 	public static final Block block = null;
 	public BlockPlasticBerryBush(ElementsTmsModMod instance) {
-		super(instance, 447);
+		super(instance, 474);
 	}
 
 	@Override

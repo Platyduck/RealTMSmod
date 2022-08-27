@@ -22,7 +22,7 @@ public class BlockPlasticAlloy extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_alloy")
 	public static final Block block = null;
 	public BlockPlasticAlloy(ElementsTmsModMod instance) {
-		super(instance, 453);
+		super(instance, 480);
 	}
 
 	@Override

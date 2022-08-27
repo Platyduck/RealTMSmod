@@ -35,7 +35,7 @@ public class BlockBlueslateShinyOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blueslate_shiny_ore")
 	public static final Block block = null;
 	public BlockBlueslateShinyOre(ElementsTmsModMod instance) {
-		super(instance, 322);
+		super(instance, 341);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockDyslexiumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_block")
 	public static final Block block = null;
 	public BlockDyslexiumBlock(ElementsTmsModMod instance) {
-		super(instance, 201);
+		super(instance, 205);
 	}
 
 	@Override

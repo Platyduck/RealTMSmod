@@ -24,7 +24,7 @@ public class ItemShinyPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_pickaxe")
 	public static final Item block = null;
 	public ItemShinyPickaxe(ElementsTmsModMod instance) {
-		super(instance, 732);
+		super(instance, 774);
 	}
 
 	@Override

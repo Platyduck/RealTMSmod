@@ -24,7 +24,7 @@ public class ItemBloontoniumDisk extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:bloontonium_disk")
 	public static final Item block = null;
 	public ItemBloontoniumDisk(ElementsTmsModMod instance) {
-		super(instance, 1623);
+		super(instance, 884);
 	}
 
 	@Override

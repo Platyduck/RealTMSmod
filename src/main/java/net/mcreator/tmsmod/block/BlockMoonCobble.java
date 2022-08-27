@@ -22,7 +22,7 @@ public class BlockMoonCobble extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moon_cobble")
 	public static final Block block = null;
 	public BlockMoonCobble(ElementsTmsModMod instance) {
-		super(instance, 211);
+		super(instance, 215);
 	}
 
 	@Override

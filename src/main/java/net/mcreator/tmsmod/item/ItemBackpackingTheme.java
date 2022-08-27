@@ -20,7 +20,7 @@ public class ItemBackpackingTheme extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:backpacking_theme")
 	public static final Item block = null;
 	public ItemBackpackingTheme(ElementsTmsModMod instance) {
-		super(instance, 691);
+		super(instance, 730);
 	}
 
 	@Override

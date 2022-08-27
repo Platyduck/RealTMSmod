@@ -22,7 +22,7 @@ public class BlockSegmentedQuartz extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:segmented_quartz")
 	public static final Block block = null;
 	public BlockSegmentedQuartz(ElementsTmsModMod instance) {
-		super(instance, 296);
+		super(instance, 315);
 	}
 
 	@Override

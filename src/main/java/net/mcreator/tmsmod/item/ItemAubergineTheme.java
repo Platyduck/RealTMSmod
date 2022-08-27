@@ -20,7 +20,7 @@ public class ItemAubergineTheme extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:aubergine_theme")
 	public static final Item block = null;
 	public ItemAubergineTheme(ElementsTmsModMod instance) {
-		super(instance, 687);
+		super(instance, 728);
 	}
 
 	@Override

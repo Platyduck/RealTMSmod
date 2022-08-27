@@ -35,7 +35,7 @@ public class BlockSansDogeiumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_ore")
 	public static final Block block = null;
 	public BlockSansDogeiumOre(ElementsTmsModMod instance) {
-		super(instance, 838);
+		super(instance, 867);
 	}
 
 	@Override

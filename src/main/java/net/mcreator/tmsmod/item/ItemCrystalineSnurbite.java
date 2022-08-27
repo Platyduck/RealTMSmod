@@ -20,7 +20,7 @@ public class ItemCrystalineSnurbite extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crystaline_snurbite")
 	public static final Item block = null;
 	public ItemCrystalineSnurbite(ElementsTmsModMod instance) {
-		super(instance, 1641);
+		super(instance, 76);
 	}
 
 	@Override

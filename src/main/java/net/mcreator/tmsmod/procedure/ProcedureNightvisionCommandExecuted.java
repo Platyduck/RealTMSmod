@@ -14,7 +14,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureNightvisionCommandExecuted extends ElementsTmsModMod.ModElement {
 	public ProcedureNightvisionCommandExecuted(ElementsTmsModMod instance) {
-		super(instance, 1172);
+		super(instance, 1224);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

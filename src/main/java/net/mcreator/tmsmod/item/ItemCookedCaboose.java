@@ -21,7 +21,7 @@ public class ItemCookedCaboose extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_caboose")
 	public static final Item block = null;
 	public ItemCookedCaboose(ElementsTmsModMod instance) {
-		super(instance, 600);
+		super(instance, 640);
 	}
 
 	@Override

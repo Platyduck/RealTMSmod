@@ -28,7 +28,7 @@ public class BlockRiftLeaf extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rift_leaf")
 	public static final Block block = null;
 	public BlockRiftLeaf(ElementsTmsModMod instance) {
-		super(instance, 343);
+		super(instance, 363);
 	}
 
 	@Override

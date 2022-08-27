@@ -21,7 +21,7 @@ public class ItemHotChocolate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hot_chocolate")
 	public static final Item block = null;
 	public ItemHotChocolate(ElementsTmsModMod instance) {
-		super(instance, 586);
+		super(instance, 626);
 	}
 
 	@Override

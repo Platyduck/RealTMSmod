@@ -20,7 +20,7 @@ public class ItemPawukiteShard extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawukite_shard")
 	public static final Item block = null;
 	public ItemPawukiteShard(ElementsTmsModMod instance) {
-		super(instance, 90);
+		super(instance, 91);
 	}
 
 	@Override

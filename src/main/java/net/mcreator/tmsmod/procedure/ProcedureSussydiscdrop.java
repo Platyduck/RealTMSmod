@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSussydiscdrop extends ElementsTmsModMod.ModElement {
 	public ProcedureSussydiscdrop(ElementsTmsModMod instance) {
-		super(instance, 1434);
+		super(instance, 1484);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

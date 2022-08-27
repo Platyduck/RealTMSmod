@@ -22,7 +22,7 @@ public class BlockPlayroomFloor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:playroom_floor")
 	public static final Block block = null;
 	public BlockPlayroomFloor(ElementsTmsModMod instance) {
-		super(instance, 151);
+		super(instance, 155);
 	}
 
 	@Override

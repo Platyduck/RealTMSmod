@@ -21,7 +21,7 @@ public class ItemCookedBird extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cooked_bird")
 	public static final Item block = null;
 	public ItemCookedBird(ElementsTmsModMod instance) {
-		super(instance, 568);
+		super(instance, 608);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockSaturn extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:saturn")
 	public static final Block block = null;
 	public BlockSaturn(ElementsTmsModMod instance) {
-		super(instance, 238);
+		super(instance, 241);
 	}
 
 	@Override

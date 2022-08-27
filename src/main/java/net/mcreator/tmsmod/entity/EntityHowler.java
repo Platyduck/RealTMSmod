@@ -38,7 +38,7 @@ public class EntityHowler extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 149;
 	public static final int ENTITYID_RANGED = 150;
 	public EntityHowler(ElementsTmsModMod instance) {
-		super(instance, 702);
+		super(instance, 741);
 	}
 
 	@Override

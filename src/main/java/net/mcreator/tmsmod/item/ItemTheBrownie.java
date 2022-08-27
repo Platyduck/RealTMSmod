@@ -27,7 +27,7 @@ public class ItemTheBrownie extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_brownie")
 	public static final Item block = null;
 	public ItemTheBrownie(ElementsTmsModMod instance) {
-		super(instance, 585);
+		super(instance, 625);
 	}
 
 	@Override

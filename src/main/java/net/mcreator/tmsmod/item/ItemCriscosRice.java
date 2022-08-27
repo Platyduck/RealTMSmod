@@ -21,7 +21,7 @@ public class ItemCriscosRice extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:criscos_rice")
 	public static final Item block = null;
 	public ItemCriscosRice(ElementsTmsModMod instance) {
-		super(instance, 566);
+		super(instance, 606);
 	}
 
 	@Override

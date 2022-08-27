@@ -24,7 +24,7 @@ public class ItemRexiumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_hoe")
 	public static final Item block = null;
 	public ItemRexiumHoe(ElementsTmsModMod instance) {
-		super(instance, 727);
+		super(instance, 769);
 	}
 
 	@Override

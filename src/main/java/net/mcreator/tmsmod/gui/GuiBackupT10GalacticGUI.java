@@ -47,7 +47,7 @@ public class GuiBackupT10GalacticGUI extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 9;
 	public static HashMap guistate = new HashMap();
 	public GuiBackupT10GalacticGUI(ElementsTmsModMod instance) {
-		super(instance, 1560);
+		super(instance, 1590);
 	}
 
 	@Override

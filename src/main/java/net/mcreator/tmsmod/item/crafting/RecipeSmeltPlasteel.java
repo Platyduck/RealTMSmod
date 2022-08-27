@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeSmeltPlasteel extends ElementsTmsModMod.ModElement {
 	public RecipeSmeltPlasteel(ElementsTmsModMod instance) {
-		super(instance, 1240);
+		super(instance, 1292);
 	}
 
 	@Override

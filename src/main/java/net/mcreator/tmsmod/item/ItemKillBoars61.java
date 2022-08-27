@@ -30,7 +30,7 @@ public class ItemKillBoars61 extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kill_boars_61")
 	public static final Item block = null;
 	public ItemKillBoars61(ElementsTmsModMod instance) {
-		super(instance, 333);
+		super(instance, 353);
 	}
 
 	@Override

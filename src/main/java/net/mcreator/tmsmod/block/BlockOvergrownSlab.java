@@ -37,7 +37,7 @@ public class BlockOvergrownSlab extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockOvergrownSlab(ElementsTmsModMod instance) {
-		super(instance, 349);
+		super(instance, 369);
 	}
 
 	@Override

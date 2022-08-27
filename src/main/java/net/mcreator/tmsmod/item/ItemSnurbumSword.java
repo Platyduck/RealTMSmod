@@ -29,7 +29,7 @@ public class ItemSnurbumSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_sword")
 	public static final Item block = null;
 	public ItemSnurbumSword(ElementsTmsModMod instance) {
-		super(instance, 507);
+		super(instance, 534);
 	}
 
 	@Override

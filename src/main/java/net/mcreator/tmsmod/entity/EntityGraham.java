@@ -44,7 +44,7 @@ public class EntityGraham extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 153;
 	public static final int ENTITYID_RANGED = 154;
 	public EntityGraham(ElementsTmsModMod instance) {
-		super(instance, 1665);
+		super(instance, 747);
 	}
 
 	@Override

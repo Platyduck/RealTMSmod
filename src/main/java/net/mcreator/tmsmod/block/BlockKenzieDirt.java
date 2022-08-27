@@ -25,7 +25,7 @@ public class BlockKenzieDirt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kenzie_dirt")
 	public static final Block block = null;
 	public BlockKenzieDirt(ElementsTmsModMod instance) {
-		super(instance, 855);
+		super(instance, 1464);
 	}
 
 	@Override

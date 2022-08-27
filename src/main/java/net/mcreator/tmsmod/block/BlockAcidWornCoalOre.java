@@ -35,7 +35,7 @@ public class BlockAcidWornCoalOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:acid_worn_coal_ore")
 	public static final Block block = null;
 	public BlockAcidWornCoalOre(ElementsTmsModMod instance) {
-		super(instance, 251);
+		super(instance, 252);
 	}
 
 	@Override

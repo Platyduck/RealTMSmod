@@ -22,7 +22,7 @@ public class BlockBetelgeuseGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:betelgeuse_globe")
 	public static final Block block = null;
 	public BlockBetelgeuseGlobe(ElementsTmsModMod instance) {
-		super(instance, 232);
+		super(instance, 235);
 	}
 
 	@Override

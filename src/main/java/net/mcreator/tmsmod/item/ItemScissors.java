@@ -21,7 +21,7 @@ public class ItemScissors extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:scissors")
 	public static final Item block = null;
 	public ItemScissors(ElementsTmsModMod instance) {
-		super(instance, 820);
+		super(instance, 845);
 	}
 
 	@Override

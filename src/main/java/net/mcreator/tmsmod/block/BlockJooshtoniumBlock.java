@@ -22,7 +22,7 @@ public class BlockJooshtoniumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jooshtonium_block")
 	public static final Block block = null;
 	public BlockJooshtoniumBlock(ElementsTmsModMod instance) {
-		super(instance, 179);
+		super(instance, 183);
 	}
 
 	@Override

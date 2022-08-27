@@ -20,7 +20,7 @@ public class BiomeTitanMinorWastes extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:titan_minor_wastes")
 	public static final BiomeGenCustom biome = null;
 	public BiomeTitanMinorWastes(ElementsTmsModMod instance) {
-		super(instance, 1506);
+		super(instance, 1556);
 	}
 
 	@Override

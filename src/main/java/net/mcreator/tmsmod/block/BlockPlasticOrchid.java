@@ -39,7 +39,7 @@ public class BlockPlasticOrchid extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_orchid")
 	public static final Block block = null;
 	public BlockPlasticOrchid(ElementsTmsModMod instance) {
-		super(instance, 443);
+		super(instance, 470);
 	}
 
 	@Override

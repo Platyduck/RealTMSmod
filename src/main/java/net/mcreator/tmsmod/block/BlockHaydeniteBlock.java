@@ -30,7 +30,7 @@ public class BlockHaydeniteBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:haydenite_block")
 	public static final Block block = null;
 	public BlockHaydeniteBlock(ElementsTmsModMod instance) {
-		super(instance, 245);
+		super(instance, 1433);
 	}
 
 	@Override

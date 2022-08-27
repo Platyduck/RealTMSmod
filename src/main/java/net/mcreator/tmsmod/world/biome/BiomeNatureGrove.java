@@ -27,7 +27,7 @@ public class BiomeNatureGrove extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nature_grove")
 	public static final BiomeGenCustom biome = null;
 	public BiomeNatureGrove(ElementsTmsModMod instance) {
-		super(instance, 1091);
+		super(instance, 1143);
 	}
 
 	@Override

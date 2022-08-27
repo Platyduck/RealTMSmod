@@ -28,7 +28,7 @@ public class ItemGrahamPhaseblade extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:graham_phaseblade")
 	public static final Item block = null;
 	public ItemGrahamPhaseblade(ElementsTmsModMod instance) {
-		super(instance, 1637);
+		super(instance, 585);
 	}
 
 	@Override

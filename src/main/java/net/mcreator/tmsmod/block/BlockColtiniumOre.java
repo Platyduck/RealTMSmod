@@ -35,7 +35,7 @@ public class BlockColtiniumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:coltinium_ore")
 	public static final Block block = null;
 	public BlockColtiniumOre(ElementsTmsModMod instance) {
-		super(instance, 196);
+		super(instance, 200);
 	}
 
 	@Override

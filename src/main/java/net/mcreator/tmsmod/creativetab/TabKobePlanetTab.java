@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabKobePlanetTab extends ElementsTmsModMod.ModElement {
 	public TabKobePlanetTab(ElementsTmsModMod instance) {
-		super(instance, 905);
+		super(instance, 957);
 	}
 
 	@Override

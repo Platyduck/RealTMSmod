@@ -28,7 +28,7 @@ public class ItemSansDogeiumArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_armorboots")
 	public static final Item boots = null;
 	public ItemSansDogeiumArmor(ElementsTmsModMod instance) {
-		super(instance, 544);
+		super(instance, 569);
 	}
 
 	@Override

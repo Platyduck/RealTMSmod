@@ -28,7 +28,7 @@ public class ItemPuresaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:puresaber")
 	public static final Item block = null;
 	public ItemPuresaber(ElementsTmsModMod instance) {
-		super(instance, 1666);
+		super(instance, 593);
 	}
 
 	@Override

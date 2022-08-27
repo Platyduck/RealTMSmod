@@ -27,7 +27,7 @@ public class ItemRexiumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_axe")
 	public static final Item block = null;
 	public ItemRexiumAxe(ElementsTmsModMod instance) {
-		super(instance, 725);
+		super(instance, 767);
 	}
 
 	@Override

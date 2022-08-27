@@ -22,7 +22,7 @@ public class BlockWhitePlasticBricks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:white_plastic_bricks")
 	public static final Block block = null;
 	public BlockWhitePlasticBricks(ElementsTmsModMod instance) {
-		super(instance, 437);
+		super(instance, 464);
 	}
 
 	@Override

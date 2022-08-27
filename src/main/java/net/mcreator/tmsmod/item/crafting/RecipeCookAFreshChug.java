@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeCookAFreshChug extends ElementsTmsModMod.ModElement {
 	public RecipeCookAFreshChug(ElementsTmsModMod instance) {
-		super(instance, 1417);
+		super(instance, 1470);
 	}
 
 	@Override

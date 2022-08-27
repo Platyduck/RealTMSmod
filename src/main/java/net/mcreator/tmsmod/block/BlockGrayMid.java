@@ -22,7 +22,7 @@ public class BlockGrayMid extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:gray_mid")
 	public static final Block block = null;
 	public BlockGrayMid(ElementsTmsModMod instance) {
-		super(instance, 388);
+		super(instance, 407);
 	}
 
 	@Override

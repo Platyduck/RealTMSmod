@@ -24,7 +24,7 @@ public class ItemOweniumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_shovel")
 	public static final Item block = null;
 	public ItemOweniumShovel(ElementsTmsModMod instance) {
-		super(instance, 742);
+		super(instance, 784);
 	}
 
 	@Override

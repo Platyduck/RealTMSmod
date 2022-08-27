@@ -47,7 +47,7 @@ public class ItemNyanGun extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 1;
 	public ItemNyanGun(ElementsTmsModMod instance) {
-		super(instance, 503);
+		super(instance, 530);
 	}
 
 	@Override

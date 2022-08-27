@@ -38,7 +38,7 @@ public class EntityPinkDiamondShelly extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 58;
 	public static final int ENTITYID_RANGED = 59;
 	public EntityPinkDiamondShelly(ElementsTmsModMod instance) {
-		super(instance, 632);
+		super(instance, 673);
 	}
 
 	@Override

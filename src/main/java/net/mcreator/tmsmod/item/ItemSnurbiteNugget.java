@@ -20,7 +20,7 @@ public class ItemSnurbiteNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbite_nugget")
 	public static final Item block = null;
 	public ItemSnurbiteNugget(ElementsTmsModMod instance) {
-		super(instance, 80);
+		super(instance, 81);
 	}
 
 	@Override

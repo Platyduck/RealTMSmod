@@ -44,7 +44,7 @@ public class EntityRatMob extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 33;
 	public static final int ENTITYID_RANGED = 34;
 	public EntityRatMob(ElementsTmsModMod instance) {
-		super(instance, 616);
+		super(instance, 657);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemAlexsSlice extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alexs_slice")
 	public static final Item block = null;
 	public ItemAlexsSlice(ElementsTmsModMod instance) {
-		super(instance, 564);
+		super(instance, 604);
 	}
 
 	@Override

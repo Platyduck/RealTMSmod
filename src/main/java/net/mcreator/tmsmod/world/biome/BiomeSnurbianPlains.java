@@ -21,7 +21,7 @@ public class BiomeSnurbianPlains extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbian_plains")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSnurbianPlains(ElementsTmsModMod instance) {
-		super(instance, 1368);
+		super(instance, 1420);
 	}
 
 	@Override

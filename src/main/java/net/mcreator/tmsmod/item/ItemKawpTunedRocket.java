@@ -24,7 +24,7 @@ public class ItemKawpTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kawp_tuned_rocket")
 	public static final Item block = null;
 	public ItemKawpTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 1592);
+		super(instance, 924);
 	}
 
 	@Override

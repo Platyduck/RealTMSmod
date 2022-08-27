@@ -27,7 +27,7 @@ public class BlockSpecialWood extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:special_wood")
 	public static final Block block = null;
 	public BlockSpecialWood(ElementsTmsModMod instance) {
-		super(instance, 377);
+		super(instance, 397);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemButterflyGemArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_armorboots")
 	public static final Item boots = null;
 	public ItemButterflyGemArmor(ElementsTmsModMod instance) {
-		super(instance, 526);
+		super(instance, 553);
 	}
 
 	@Override

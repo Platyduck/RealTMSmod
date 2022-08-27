@@ -24,7 +24,7 @@ public class ItemNathiniumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_shovel")
 	public static final Item block = null;
 	public ItemNathiniumShovel(ElementsTmsModMod instance) {
-		super(instance, 750);
+		super(instance, 792);
 	}
 
 	@Override

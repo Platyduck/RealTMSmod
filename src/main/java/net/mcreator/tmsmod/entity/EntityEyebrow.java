@@ -32,7 +32,7 @@ public class EntityEyebrow extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 62;
 	public static final int ENTITYID_RANGED = 63;
 	public EntityEyebrow(ElementsTmsModMod instance) {
-		super(instance, 635);
+		super(instance, 676);
 	}
 
 	@Override

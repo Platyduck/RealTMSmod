@@ -29,7 +29,7 @@ public class ItemUnderblankareiteSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_sword")
 	public static final Item block = null;
 	public ItemUnderblankareiteSword(ElementsTmsModMod instance) {
-		super(instance, 519);
+		super(instance, 546);
 	}
 
 	@Override

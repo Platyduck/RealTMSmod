@@ -27,7 +27,7 @@ public class ItemAbhorrentEye extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:abhorrent_eye")
 	public static final Item block = null;
 	public ItemAbhorrentEye(ElementsTmsModMod instance) {
-		super(instance, 572);
+		super(instance, 612);
 	}
 
 	@Override

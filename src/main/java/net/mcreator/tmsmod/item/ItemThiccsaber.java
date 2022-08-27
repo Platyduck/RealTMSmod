@@ -28,7 +28,7 @@ public class ItemThiccsaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thiccsaber")
 	public static final Item block = null;
 	public ItemThiccsaber(ElementsTmsModMod instance) {
-		super(instance, 1649);
+		super(instance, 587);
 	}
 
 	@Override

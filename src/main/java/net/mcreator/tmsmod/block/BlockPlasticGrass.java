@@ -28,7 +28,7 @@ public class BlockPlasticGrass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_grass")
 	public static final Block block = null;
 	public BlockPlasticGrass(ElementsTmsModMod instance) {
-		super(instance, 416);
+		super(instance, 443);
 	}
 
 	@Override

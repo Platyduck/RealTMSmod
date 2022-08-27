@@ -22,7 +22,7 @@ public class BlockPlasticNeedles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_needles")
 	public static final Block block = null;
 	public BlockPlasticNeedles(ElementsTmsModMod instance) {
-		super(instance, 415);
+		super(instance, 442);
 	}
 
 	@Override

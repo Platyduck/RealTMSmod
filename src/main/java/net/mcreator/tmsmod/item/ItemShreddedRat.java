@@ -24,7 +24,7 @@ public class ItemShreddedRat extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shredded_rat")
 	public static final Item block = null;
 	public ItemShreddedRat(ElementsTmsModMod instance) {
-		super(instance, 629);
+		super(instance, 670);
 	}
 
 	@Override

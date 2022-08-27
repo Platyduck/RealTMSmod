@@ -20,7 +20,7 @@ public class ItemThiccToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thicc_token")
 	public static final Item block = null;
 	public ItemThiccToken(ElementsTmsModMod instance) {
-		super(instance, 1678);
+		super(instance, 275);
 	}
 
 	@Override

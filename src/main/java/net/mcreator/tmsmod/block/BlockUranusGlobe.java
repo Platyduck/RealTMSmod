@@ -22,7 +22,7 @@ public class BlockUranusGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:uranus_globe")
 	public static final Block block = null;
 	public BlockUranusGlobe(ElementsTmsModMod instance) {
-		super(instance, 237);
+		super(instance, 240);
 	}
 
 	@Override

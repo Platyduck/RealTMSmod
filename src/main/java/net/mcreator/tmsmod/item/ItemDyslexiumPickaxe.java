@@ -24,7 +24,7 @@ public class ItemDyslexiumPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_pickaxe")
 	public static final Item block = null;
 	public ItemDyslexiumPickaxe(ElementsTmsModMod instance) {
-		super(instance, 760);
+		super(instance, 802);
 	}
 
 	@Override

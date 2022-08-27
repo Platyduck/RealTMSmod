@@ -28,7 +28,7 @@ public class ItemBirdyBoneArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:birdy_bone_armorboots")
 	public static final Item boots = null;
 	public ItemBirdyBoneArmor(ElementsTmsModMod instance) {
-		super(instance, 539);
+		super(instance, 564);
 	}
 
 	@Override

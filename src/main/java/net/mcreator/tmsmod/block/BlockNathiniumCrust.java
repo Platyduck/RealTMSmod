@@ -32,7 +32,7 @@ public class BlockNathiniumCrust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_crust")
 	public static final Block block = null;
 	public BlockNathiniumCrust(ElementsTmsModMod instance) {
-		super(instance, 224);
+		super(instance, 227);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureGrillRecipes extends ElementsTmsModMod.ModElement {
 	public ProcedureGrillRecipes(ElementsTmsModMod instance) {
-		super(instance, 1605);
+		super(instance, 1610);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

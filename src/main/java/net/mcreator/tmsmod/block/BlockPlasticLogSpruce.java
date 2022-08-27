@@ -31,7 +31,7 @@ public class BlockPlasticLogSpruce extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_log_spruce")
 	public static final Block block = null;
 	public BlockPlasticLogSpruce(ElementsTmsModMod instance) {
-		super(instance, 411);
+		super(instance, 438);
 	}
 
 	@Override

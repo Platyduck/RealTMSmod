@@ -24,7 +24,7 @@ public class ItemSnurbiteToolsPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbite_tools_pickaxe")
 	public static final Item block = null;
 	public ItemSnurbiteToolsPickaxe(ElementsTmsModMod instance) {
-		super(instance, 728);
+		super(instance, 770);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockCraggrass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:craggrass")
 	public static final Block block = null;
 	public BlockCraggrass(ElementsTmsModMod instance) {
-		super(instance, 345);
+		super(instance, 365);
 	}
 
 	@Override

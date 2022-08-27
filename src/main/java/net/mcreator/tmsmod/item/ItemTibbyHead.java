@@ -24,7 +24,7 @@ public class ItemTibbyHead extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:tibby_head")
 	public static final Item block = null;
 	public ItemTibbyHead(ElementsTmsModMod instance) {
-		super(instance, 152);
+		super(instance, 156);
 	}
 
 	@Override

@@ -37,7 +37,7 @@ public class BlockJudgementWoodSlab extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_wood_slab_double")
 	public static final Block block_slab_double = null;
 	public BlockJudgementWoodSlab(ElementsTmsModMod instance) {
-		super(instance, 834);
+		super(instance, 863);
 	}
 
 	@Override

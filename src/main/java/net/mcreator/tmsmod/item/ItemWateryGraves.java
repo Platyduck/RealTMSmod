@@ -20,7 +20,7 @@ public class ItemWateryGraves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:watery_graves")
 	public static final Item block = null;
 	public ItemWateryGraves(ElementsTmsModMod instance) {
-		super(instance, 654);
+		super(instance, 695);
 	}
 
 	@Override

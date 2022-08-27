@@ -32,7 +32,7 @@ public class ItemWarcutter extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:warcutter")
 	public static final Item block = null;
 	public ItemWarcutter(ElementsTmsModMod instance) {
-		super(instance, 1664);
+		super(instance, 592);
 	}
 
 	@Override

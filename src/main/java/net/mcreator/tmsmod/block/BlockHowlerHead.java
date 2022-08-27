@@ -32,7 +32,7 @@ public class BlockHowlerHead extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:howler_head")
 	public static final Block block = null;
 	public BlockHowlerHead(ElementsTmsModMod instance) {
-		super(instance, 405);
+		super(instance, 424);
 	}
 
 	@Override

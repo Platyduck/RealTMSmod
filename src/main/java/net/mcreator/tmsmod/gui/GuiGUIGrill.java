@@ -39,7 +39,7 @@ public class GuiGUIGrill extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 10;
 	public static HashMap guistate = new HashMap();
 	public GuiGUIGrill(ElementsTmsModMod instance) {
-		super(instance, 1604);
+		super(instance, 1609);
 	}
 
 	@Override
@@ -251,9 +251,9 @@ public class GuiGUIGrill extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/symbol_troll_face.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 43, this.guiTop + 25, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 43, this.guiTop + 25, 0, 0, -1, -1, -1, -1);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/arrowgui.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 25, 0, 0, 16, 16, 16, 16);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 78, this.guiTop + 25, 0, 0, -1, -1, -1, -1);
 		}
 
 		@Override

@@ -38,7 +38,7 @@ public class EntityExpendable extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 2;
 	public static final int ENTITYID_RANGED = 3;
 	public EntityExpendable(ElementsTmsModMod instance) {
-		super(instance, 602);
+		super(instance, 643);
 	}
 
 	@Override

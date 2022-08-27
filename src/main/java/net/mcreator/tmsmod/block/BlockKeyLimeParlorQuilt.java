@@ -32,7 +32,7 @@ public class BlockKeyLimeParlorQuilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:key_lime_parlor_quilt")
 	public static final Block block = null;
 	public BlockKeyLimeParlorQuilt(ElementsTmsModMod instance) {
-		super(instance, 164);
+		super(instance, 168);
 	}
 
 	@Override

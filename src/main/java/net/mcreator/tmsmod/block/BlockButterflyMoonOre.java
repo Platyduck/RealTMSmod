@@ -35,7 +35,7 @@ public class BlockButterflyMoonOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_moon_ore")
 	public static final Block block = null;
 	public BlockButterflyMoonOre(ElementsTmsModMod instance) {
-		super(instance, 214);
+		super(instance, 218);
 	}
 
 	@Override

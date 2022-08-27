@@ -41,7 +41,7 @@ public class BlockPlasticRose extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_rose")
 	public static final Block block = null;
 	public BlockPlasticRose(ElementsTmsModMod instance) {
-		super(instance, 440);
+		super(instance, 467);
 	}
 
 	@Override

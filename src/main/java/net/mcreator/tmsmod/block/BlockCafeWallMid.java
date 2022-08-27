@@ -22,7 +22,7 @@ public class BlockCafeWallMid extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cafe_wall_mid")
 	public static final Block block = null;
 	public BlockCafeWallMid(ElementsTmsModMod instance) {
-		super(instance, 134);
+		super(instance, 138);
 	}
 
 	@Override

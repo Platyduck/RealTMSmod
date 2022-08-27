@@ -24,7 +24,7 @@ public class ItemResetClock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:reset_clock")
 	public static final Item block = null;
 	public ItemResetClock(ElementsTmsModMod instance) {
-		super(instance, 837);
+		super(instance, 866);
 	}
 
 	@Override

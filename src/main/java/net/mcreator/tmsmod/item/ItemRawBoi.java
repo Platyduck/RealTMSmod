@@ -21,7 +21,7 @@ public class ItemRawBoi extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_boi")
 	public static final Item block = null;
 	public ItemRawBoi(ElementsTmsModMod instance) {
-		super(instance, 573);
+		super(instance, 613);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockMoonTop extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moon_top")
 	public static final Block block = null;
 	public BlockMoonTop(ElementsTmsModMod instance) {
-		super(instance, 216);
+		super(instance, 219);
 	}
 
 	@Override

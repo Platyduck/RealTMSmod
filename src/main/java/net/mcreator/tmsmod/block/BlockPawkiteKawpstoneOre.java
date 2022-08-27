@@ -35,7 +35,7 @@ public class BlockPawkiteKawpstoneOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite_kawpstone_ore")
 	public static final Block block = null;
 	public BlockPawkiteKawpstoneOre(ElementsTmsModMod instance) {
-		super(instance, 268);
+		super(instance, 287);
 	}
 
 	@Override

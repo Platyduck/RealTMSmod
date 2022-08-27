@@ -20,7 +20,7 @@ public class ItemPlankPlasticRecord extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plank_plastic_record")
 	public static final Item block = null;
 	public ItemPlankPlasticRecord(ElementsTmsModMod instance) {
-		super(instance, 649);
+		super(instance, 690);
 	}
 
 	@Override

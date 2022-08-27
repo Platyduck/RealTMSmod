@@ -26,7 +26,7 @@ public class BlockMangroveLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mangrove_log")
 	public static final Block block = null;
 	public BlockMangroveLog(ElementsTmsModMod instance) {
-		super(instance, 308);
+		super(instance, 327);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockPlatificator extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:platificator")
 	public static final Block block = null;
 	public BlockPlatificator(ElementsTmsModMod instance) {
-		super(instance, 406);
+		super(instance, 433);
 	}
 
 	@Override

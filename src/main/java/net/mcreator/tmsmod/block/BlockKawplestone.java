@@ -22,7 +22,7 @@ public class BlockKawplestone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kawplestone")
 	public static final Block block = null;
 	public BlockKawplestone(ElementsTmsModMod instance) {
-		super(instance, 270);
+		super(instance, 289);
 	}
 
 	@Override

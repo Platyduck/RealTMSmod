@@ -45,7 +45,7 @@ public class EntityJoosh extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 119;
 	public static final int ENTITYID_RANGED = 120;
 	public EntityJoosh(ElementsTmsModMod instance) {
-		super(instance, 674);
+		super(instance, 715);
 	}
 
 	@Override

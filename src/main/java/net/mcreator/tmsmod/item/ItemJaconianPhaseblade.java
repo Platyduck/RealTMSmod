@@ -28,7 +28,7 @@ public class ItemJaconianPhaseblade extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconian_phaseblade")
 	public static final Item block = null;
 	public ItemJaconianPhaseblade(ElementsTmsModMod instance) {
-		super(instance, 1635);
+		super(instance, 584);
 	}
 
 	@Override

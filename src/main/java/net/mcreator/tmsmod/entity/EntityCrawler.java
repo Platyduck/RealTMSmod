@@ -39,7 +39,7 @@ public class EntityCrawler extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 129;
 	public static final int ENTITYID_RANGED = 130;
 	public EntityCrawler(ElementsTmsModMod instance) {
-		super(instance, 679);
+		super(instance, 720);
 	}
 
 	@Override

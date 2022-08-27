@@ -37,7 +37,7 @@ public class ItemTheBirdyTwizzler extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_birdy_twizzler")
 	public static final Item block = null;
 	public ItemTheBirdyTwizzler(ElementsTmsModMod instance) {
-		super(instance, 803);
+		super(instance, 581);
 	}
 
 	@Override

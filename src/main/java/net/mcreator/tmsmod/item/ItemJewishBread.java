@@ -21,7 +21,7 @@ public class ItemJewishBread extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jewish_bread")
 	public static final Item block = null;
 	public ItemJewishBread(ElementsTmsModMod instance) {
-		super(instance, 1615);
+		super(instance, 642);
 	}
 
 	@Override

@@ -43,7 +43,7 @@ public class EntityBoaritorTheHorrid extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 112;
 	public static final int ENTITYID_RANGED = 113;
 	public EntityBoaritorTheHorrid(ElementsTmsModMod instance) {
-		super(instance, 669);
+		super(instance, 710);
 	}
 
 	@Override

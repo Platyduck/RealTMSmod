@@ -33,7 +33,7 @@ public class BlockHoneyFluid extends ElementsTmsModMod.ModElement {
 	public static final Item item = null;
 	private Fluid fluid;
 	public BlockHoneyFluid(ElementsTmsModMod instance) {
-		super(instance, 634);
+		super(instance, 675);
 		fluid = new Fluid("honey_fluid", new ResourceLocation("tms_mod:blocks/honey_block_old"),
 				new ResourceLocation("tms_mod:blocks/honey_block_old")).setLuminosity(0).setDensity(1000).setViscosity(5000).setGaseous(false);
 	}

@@ -43,7 +43,7 @@ public class EntityStrider extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 90;
 	public static final int ENTITYID_RANGED = 91;
 	public EntityStrider(ElementsTmsModMod instance) {
-		super(instance, 658);
+		super(instance, 699);
 	}
 
 	@Override

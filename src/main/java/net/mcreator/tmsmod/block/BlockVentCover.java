@@ -24,7 +24,7 @@ public class BlockVentCover extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:vent_cover")
 	public static final Block block = null;
 	public BlockVentCover(ElementsTmsModMod instance) {
-		super(instance, 364);
+		super(instance, 384);
 	}
 
 	@Override

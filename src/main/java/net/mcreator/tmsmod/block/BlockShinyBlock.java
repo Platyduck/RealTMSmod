@@ -22,7 +22,7 @@ public class BlockShinyBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_block")
 	public static final Block block = null;
 	public BlockShinyBlock(ElementsTmsModMod instance) {
-		super(instance, 320);
+		super(instance, 339);
 	}
 
 	@Override

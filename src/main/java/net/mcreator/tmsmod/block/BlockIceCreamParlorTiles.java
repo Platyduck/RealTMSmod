@@ -22,7 +22,7 @@ public class BlockIceCreamParlorTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ice_cream_parlor_tiles")
 	public static final Block block = null;
 	public BlockIceCreamParlorTiles(ElementsTmsModMod instance) {
-		super(instance, 159);
+		super(instance, 163);
 	}
 
 	@Override

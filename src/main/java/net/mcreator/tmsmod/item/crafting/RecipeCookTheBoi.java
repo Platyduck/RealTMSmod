@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeCookTheBoi extends ElementsTmsModMod.ModElement {
 	public RecipeCookTheBoi(ElementsTmsModMod instance) {
-		super(instance, 1350);
+		super(instance, 1402);
 	}
 
 	@Override

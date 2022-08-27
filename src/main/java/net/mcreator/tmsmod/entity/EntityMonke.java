@@ -42,7 +42,7 @@ public class EntityMonke extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 94;
 	public static final int ENTITYID_RANGED = 95;
 	public EntityMonke(ElementsTmsModMod instance) {
-		super(instance, 660);
+		super(instance, 701);
 	}
 
 	@Override

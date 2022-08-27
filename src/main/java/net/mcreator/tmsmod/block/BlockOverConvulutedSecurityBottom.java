@@ -22,7 +22,7 @@ public class BlockOverConvulutedSecurityBottom extends ElementsTmsModMod.ModElem
 	@GameRegistry.ObjectHolder("tms_mod:over_convuluted_security_bottom")
 	public static final Block block = null;
 	public BlockOverConvulutedSecurityBottom(ElementsTmsModMod instance) {
-		super(instance, 384);
+		super(instance, 403);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemBlueRazzSlurpee extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blue_razz_slurpee")
 	public static final Item block = null;
 	public ItemBlueRazzSlurpee(ElementsTmsModMod instance) {
-		super(instance, 587);
+		super(instance, 627);
 	}
 
 	@Override

@@ -42,7 +42,7 @@ public class EntityBanto extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 23;
 	public static final int ENTITYID_RANGED = 24;
 	public EntityBanto(ElementsTmsModMod instance) {
-		super(instance, 611);
+		super(instance, 652);
 	}
 
 	@Override

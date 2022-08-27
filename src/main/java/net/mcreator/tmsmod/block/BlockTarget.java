@@ -22,7 +22,7 @@ public class BlockTarget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:target")
 	public static final Block block = null;
 	public BlockTarget(ElementsTmsModMod instance) {
-		super(instance, 299);
+		super(instance, 318);
 	}
 
 	@Override

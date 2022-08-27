@@ -24,7 +24,7 @@ public class ItemLauren5BlueEffigy extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lauren_5_blue_effigy")
 	public static final Item block = null;
 	public ItemLauren5BlueEffigy(ElementsTmsModMod instance) {
-		super(instance, 1597);
+		super(instance, 425);
 	}
 
 	@Override

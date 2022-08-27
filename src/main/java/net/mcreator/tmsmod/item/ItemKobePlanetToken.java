@@ -20,7 +20,7 @@ public class ItemKobePlanetToken extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobe_planet_token")
 	public static final Item block = null;
 	public ItemKobePlanetToken(ElementsTmsModMod instance) {
-		super(instance, 1681);
+		super(instance, 278);
 	}
 
 	@Override

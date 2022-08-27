@@ -32,7 +32,7 @@ public class ItemSacrifice extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sacrifice")
 	public static final Item block = null;
 	public ItemSacrifice(ElementsTmsModMod instance) {
-		super(instance, 620);
+		super(instance, 661);
 	}
 
 	@Override

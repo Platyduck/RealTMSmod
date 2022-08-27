@@ -20,7 +20,7 @@ public class ItemAcursedTune extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:acursed_tune")
 	public static final Item block = null;
 	public ItemAcursedTune(ElementsTmsModMod instance) {
-		super(instance, 684);
+		super(instance, 725);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class BlockGoldenLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:golden_leaves")
 	public static final Block block = null;
 	public BlockGoldenLeaves(ElementsTmsModMod instance) {
-		super(instance, 271);
+		super(instance, 290);
 	}
 
 	@Override

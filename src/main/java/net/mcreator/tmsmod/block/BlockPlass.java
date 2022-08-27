@@ -39,7 +39,7 @@ public class BlockPlass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plass")
 	public static final Block block = null;
 	public BlockPlass(ElementsTmsModMod instance) {
-		super(instance, 444);
+		super(instance, 471);
 	}
 
 	@Override

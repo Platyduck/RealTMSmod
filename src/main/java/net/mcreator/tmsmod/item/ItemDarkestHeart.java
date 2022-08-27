@@ -29,7 +29,7 @@ public class ItemDarkestHeart extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:darkest_heart")
 	public static final Item block = null;
 	public ItemDarkestHeart(ElementsTmsModMod instance) {
-		super(instance, 218);
+		super(instance, 221);
 	}
 
 	@Override

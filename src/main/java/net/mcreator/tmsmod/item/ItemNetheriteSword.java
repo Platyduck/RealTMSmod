@@ -29,7 +29,7 @@ public class ItemNetheriteSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_sword")
 	public static final Item block = null;
 	public ItemNetheriteSword(ElementsTmsModMod instance) {
-		super(instance, 285);
+		super(instance, 304);
 	}
 
 	@Override

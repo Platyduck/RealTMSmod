@@ -20,7 +20,7 @@ public class ItemDerpiniumNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:derpinium_nugget")
 	public static final Item block = null;
 	public ItemDerpiniumNugget(ElementsTmsModMod instance) {
-		super(instance, 94);
+		super(instance, 95);
 	}
 
 	@Override

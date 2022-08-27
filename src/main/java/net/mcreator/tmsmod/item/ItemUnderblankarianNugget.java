@@ -20,7 +20,7 @@ public class ItemUnderblankarianNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankarian_nugget")
 	public static final Item block = null;
 	public ItemUnderblankarianNugget(ElementsTmsModMod instance) {
-		super(instance, 103);
+		super(instance, 104);
 	}
 
 	@Override

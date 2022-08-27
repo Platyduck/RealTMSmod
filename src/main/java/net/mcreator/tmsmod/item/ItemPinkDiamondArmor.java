@@ -28,7 +28,7 @@ public class ItemPinkDiamondArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond_armorboots")
 	public static final Item boots = null;
 	public ItemPinkDiamondArmor(ElementsTmsModMod instance) {
-		super(instance, 530);
+		super(instance, 557);
 	}
 
 	@Override

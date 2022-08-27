@@ -27,7 +27,7 @@ public class ItemLemonLimeAid extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lemon_lime_aid")
 	public static final Item block = null;
 	public ItemLemonLimeAid(ElementsTmsModMod instance) {
-		super(instance, 580);
+		super(instance, 620);
 	}
 
 	@Override

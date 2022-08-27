@@ -20,7 +20,7 @@ public class ItemItsBeenSoLong extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:its_been_so_long")
 	public static final Item block = null;
 	public ItemItsBeenSoLong(ElementsTmsModMod instance) {
-		super(instance, 638);
+		super(instance, 679);
 	}
 
 	@Override

@@ -32,7 +32,7 @@ public class BlockCheckeredParlorQuilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:checkered_parlor_quilt")
 	public static final Block block = null;
 	public BlockCheckeredParlorQuilt(ElementsTmsModMod instance) {
-		super(instance, 161);
+		super(instance, 165);
 	}
 
 	@Override

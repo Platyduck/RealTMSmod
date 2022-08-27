@@ -35,7 +35,7 @@ public class BlockGrahamunyOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_ore")
 	public static final Block block = null;
 	public BlockGrahamunyOre(ElementsTmsModMod instance) {
-		super(instance, 705);
+		super(instance, 748);
 	}
 
 	@Override

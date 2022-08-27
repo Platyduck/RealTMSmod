@@ -28,7 +28,7 @@ public class ItemNathiniumArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_armorboots")
 	public static final Item boots = null;
 	public ItemNathiniumArmor(ElementsTmsModMod instance) {
-		super(instance, 515);
+		super(instance, 542);
 	}
 
 	@Override

@@ -23,7 +23,7 @@ public class ItemHaydeniteIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:haydenite_ingot")
 	public static final Item block = null;
 	public ItemHaydeniteIngot(ElementsTmsModMod instance) {
-		super(instance, 106);
+		super(instance, 1431);
 	}
 
 	@Override

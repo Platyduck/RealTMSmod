@@ -24,7 +24,7 @@ public class ItemRexiumPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_pickaxe")
 	public static final Item block = null;
 	public ItemRexiumPickaxe(ElementsTmsModMod instance) {
-		super(instance, 724);
+		super(instance, 766);
 	}
 
 	@Override

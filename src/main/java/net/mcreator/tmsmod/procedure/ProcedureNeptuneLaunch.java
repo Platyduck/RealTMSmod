@@ -15,7 +15,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureNeptuneLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureNeptuneLaunch(ElementsTmsModMod instance) {
-		super(instance, 1568);
+		super(instance, 1594);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

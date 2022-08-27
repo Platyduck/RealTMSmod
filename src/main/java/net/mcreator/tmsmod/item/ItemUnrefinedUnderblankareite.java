@@ -24,7 +24,7 @@ public class ItemUnrefinedUnderblankareite extends ElementsTmsModMod.ModElement 
 	@GameRegistry.ObjectHolder("tms_mod:unrefined_underblankareite")
 	public static final Item block = null;
 	public ItemUnrefinedUnderblankareite(ElementsTmsModMod instance) {
-		super(instance, 644);
+		super(instance, 685);
 	}
 
 	@Override

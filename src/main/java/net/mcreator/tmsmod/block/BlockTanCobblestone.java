@@ -22,7 +22,7 @@ public class BlockTanCobblestone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:tan_cobblestone")
 	public static final Block block = null;
 	public BlockTanCobblestone(ElementsTmsModMod instance) {
-		super(instance, 157);
+		super(instance, 161);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockBrownPlastone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:brown_plastone")
 	public static final Block block = null;
 	public BlockBrownPlastone(ElementsTmsModMod instance) {
-		super(instance, 429);
+		super(instance, 456);
 	}
 
 	@Override

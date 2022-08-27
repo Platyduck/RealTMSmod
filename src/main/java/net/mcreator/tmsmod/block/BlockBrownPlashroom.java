@@ -33,7 +33,7 @@ public class BlockBrownPlashroom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:brown_plashroom")
 	public static final Block block = null;
 	public BlockBrownPlashroom(ElementsTmsModMod instance) {
-		super(instance, 446);
+		super(instance, 473);
 	}
 
 	@Override

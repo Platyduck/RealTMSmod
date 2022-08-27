@@ -24,7 +24,7 @@ public class ItemTheGrapeAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:the_grape_animatronic")
 	public static final Item block = null;
 	public ItemTheGrapeAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 137);
+		super(instance, 141);
 	}
 
 	@Override

@@ -38,7 +38,7 @@ public class EntityCrisco extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 74;
 	public static final int ENTITYID_RANGED = 75;
 	public EntityCrisco(ElementsTmsModMod instance) {
-		super(instance, 650);
+		super(instance, 691);
 	}
 
 	@Override

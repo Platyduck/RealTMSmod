@@ -42,7 +42,7 @@ public class EntityRoseshroom extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 104;
 	public static final int ENTITYID_RANGED = 105;
 	public EntityRoseshroom(ElementsTmsModMod instance) {
-		super(instance, 665);
+		super(instance, 706);
 	}
 
 	@Override

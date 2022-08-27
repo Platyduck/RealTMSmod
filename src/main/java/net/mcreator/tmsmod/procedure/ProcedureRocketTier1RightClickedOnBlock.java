@@ -13,7 +13,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRocketTier1RightClickedOnBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureRocketTier1RightClickedOnBlock(ElementsTmsModMod instance) {
-		super(instance, 1691);
+		super(instance, 1649);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

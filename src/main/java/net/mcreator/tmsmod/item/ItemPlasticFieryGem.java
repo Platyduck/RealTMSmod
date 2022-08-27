@@ -20,7 +20,7 @@ public class ItemPlasticFieryGem extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_fiery_gem")
 	public static final Item block = null;
 	public ItemPlasticFieryGem(ElementsTmsModMod instance) {
-		super(instance, 125);
+		super(instance, 122);
 	}
 
 	@Override

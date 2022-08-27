@@ -21,7 +21,7 @@ public class ItemSweetBerries extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sweet_berries")
 	public static final Item block = null;
 	public ItemSweetBerries(ElementsTmsModMod instance) {
-		super(instance, 278);
+		super(instance, 297);
 	}
 
 	@Override

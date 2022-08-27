@@ -25,7 +25,7 @@ public class BlockOvergrownPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:overgrown_planks")
 	public static final Block block = null;
 	public BlockOvergrownPlanks(ElementsTmsModMod instance) {
-		super(instance, 205);
+		super(instance, 209);
 	}
 
 	@Override

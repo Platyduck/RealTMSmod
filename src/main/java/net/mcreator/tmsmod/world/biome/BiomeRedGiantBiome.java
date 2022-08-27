@@ -20,7 +20,7 @@ public class BiomeRedGiantBiome extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:red_giant_biome")
 	public static final BiomeGenCustom biome = null;
 	public BiomeRedGiantBiome(ElementsTmsModMod instance) {
-		super(instance, 1183);
+		super(instance, 1235);
 	}
 
 	@Override

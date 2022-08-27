@@ -37,7 +37,7 @@ public class EntityNathan extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 151;
 	public static final int ENTITYID_RANGED = 152;
 	public EntityNathan(ElementsTmsModMod instance) {
-		super(instance, 703);
+		super(instance, 742);
 	}
 
 	@Override

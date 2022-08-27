@@ -21,7 +21,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureDiskRecipes extends ElementsTmsModMod.ModElement {
 	public ProcedureDiskRecipes(ElementsTmsModMod instance) {
-		super(instance, 1627);
+		super(instance, 1619);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

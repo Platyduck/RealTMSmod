@@ -39,7 +39,7 @@ public class EntityTimbo extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 43;
 	public static final int ENTITYID_RANGED = 44;
 	public EntityTimbo(ElementsTmsModMod instance) {
-		super(instance, 622);
+		super(instance, 663);
 	}
 
 	@Override

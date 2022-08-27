@@ -23,7 +23,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureDistantMoonLaunch extends ElementsTmsModMod.ModElement {
 	public ProcedureDistantMoonLaunch(ElementsTmsModMod instance) {
-		super(instance, 1575);
+		super(instance, 1601);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -19,7 +19,7 @@ public class ItemKoyliteIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:koylite_ingot")
 	public static final Item block = null;
 	public ItemKoyliteIngot(ElementsTmsModMod instance) {
-		super(instance, 109);
+		super(instance, 1475);
 	}
 
 	@Override

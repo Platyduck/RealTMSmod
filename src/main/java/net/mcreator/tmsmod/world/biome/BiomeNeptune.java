@@ -21,7 +21,7 @@ public class BiomeNeptune extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:neptune")
 	public static final BiomeGenCustom biome = null;
 	public BiomeNeptune(ElementsTmsModMod instance) {
-		super(instance, 1076);
+		super(instance, 1128);
 	}
 
 	@Override

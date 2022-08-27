@@ -32,7 +32,7 @@ public class BlockMESComputer extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mes_computer")
 	public static final Block block = null;
 	public BlockMESComputer(ElementsTmsModMod instance) {
-		super(instance, 373);
+		super(instance, 393);
 	}
 
 	@Override

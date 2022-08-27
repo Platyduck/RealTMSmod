@@ -21,7 +21,7 @@ public class ItemPizzaCutter extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pizza_cutter")
 	public static final Item block = null;
 	public ItemPizzaCutter(ElementsTmsModMod instance) {
-		super(instance, 821);
+		super(instance, 846);
 	}
 
 	@Override

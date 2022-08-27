@@ -24,7 +24,7 @@ public class ItemDislexTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dislex_tuned_rocket")
 	public static final Item block = null;
 	public ItemDislexTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 1595);
+		super(instance, 927);
 	}
 
 	@Override

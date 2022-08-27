@@ -35,7 +35,7 @@ public class BlockLapisBlueslate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lapis_blueslate")
 	public static final Block block = null;
 	public BlockLapisBlueslate(ElementsTmsModMod instance) {
-		super(instance, 325);
+		super(instance, 344);
 	}
 
 	@Override

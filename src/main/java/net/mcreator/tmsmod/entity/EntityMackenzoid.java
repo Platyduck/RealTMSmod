@@ -46,7 +46,7 @@ public class EntityMackenzoid extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 133;
 	public static final int ENTITYID_RANGED = 134;
 	public EntityMackenzoid(ElementsTmsModMod instance) {
-		super(instance, 683);
+		super(instance, 724);
 	}
 
 	@Override

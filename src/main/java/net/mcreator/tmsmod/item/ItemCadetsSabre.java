@@ -29,7 +29,7 @@ public class ItemCadetsSabre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:cadets_sabre")
 	public static final Item block = null;
 	public ItemCadetsSabre(ElementsTmsModMod instance) {
-		super(instance, 493);
+		super(instance, 520);
 	}
 
 	@Override

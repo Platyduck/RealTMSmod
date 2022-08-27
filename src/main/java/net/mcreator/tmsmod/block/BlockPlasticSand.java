@@ -32,7 +32,7 @@ public class BlockPlasticSand extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_sand")
 	public static final Block block = null;
 	public BlockPlasticSand(ElementsTmsModMod instance) {
-		super(instance, 432);
+		super(instance, 459);
 	}
 
 	@Override

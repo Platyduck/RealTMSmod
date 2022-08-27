@@ -21,7 +21,7 @@ public class ItemMoonPomegranate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:moon_pomegranate")
 	public static final Item block = null;
 	public ItemMoonPomegranate(ElementsTmsModMod instance) {
-		super(instance, 577);
+		super(instance, 617);
 	}
 
 	@Override

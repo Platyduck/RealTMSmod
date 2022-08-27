@@ -39,7 +39,7 @@ public class BlockWildCarrotPlant extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:wild_carrot_plant")
 	public static final Block block = null;
 	public BlockWildCarrotPlant(ElementsTmsModMod instance) {
-		super(instance, 501);
+		super(instance, 528);
 	}
 
 	@Override

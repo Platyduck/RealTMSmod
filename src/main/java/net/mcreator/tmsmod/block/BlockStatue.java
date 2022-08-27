@@ -36,7 +36,7 @@ public class BlockStatue extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:statue")
 	public static final Block block = null;
 	public BlockStatue(ElementsTmsModMod instance) {
-		super(instance, 372);
+		super(instance, 392);
 	}
 
 	@Override

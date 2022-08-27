@@ -27,7 +27,7 @@ public class ItemUnderblankareiteAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_axe")
 	public static final Item block = null;
 	public ItemUnderblankareiteAxe(ElementsTmsModMod instance) {
-		super(instance, 757);
+		super(instance, 799);
 	}
 
 	@Override

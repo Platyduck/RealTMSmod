@@ -22,7 +22,7 @@ public class BlockContainmentStripe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:containment_stripe")
 	public static final Block block = null;
 	public BlockContainmentStripe(ElementsTmsModMod instance) {
-		super(instance, 369);
+		super(instance, 389);
 	}
 
 	@Override

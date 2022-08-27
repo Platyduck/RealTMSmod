@@ -22,7 +22,7 @@ public class BlockGoldstic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:goldstic")
 	public static final Block block = null;
 	public BlockGoldstic(ElementsTmsModMod instance) {
-		super(instance, 455);
+		super(instance, 482);
 	}
 
 	@Override

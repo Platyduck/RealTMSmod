@@ -22,7 +22,7 @@ public class BlockDecorativeDoor1 extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:decorative_door_1")
 	public static final Block block = null;
 	public BlockDecorativeDoor1(ElementsTmsModMod instance) {
-		super(instance, 1601);
+		super(instance, 428);
 	}
 
 	@Override

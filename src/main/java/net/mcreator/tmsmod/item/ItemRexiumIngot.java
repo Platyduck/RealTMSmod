@@ -20,7 +20,7 @@ public class ItemRexiumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_ingot")
 	public static final Item block = null;
 	public ItemRexiumIngot(ElementsTmsModMod instance) {
-		super(instance, 95);
+		super(instance, 96);
 	}
 
 	@Override

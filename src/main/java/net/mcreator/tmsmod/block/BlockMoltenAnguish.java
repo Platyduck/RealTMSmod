@@ -41,7 +41,7 @@ public class BlockMoltenAnguish extends ElementsTmsModMod.ModElement {
 	public static final Item item = null;
 	private Fluid fluid;
 	public BlockMoltenAnguish(ElementsTmsModMod instance) {
-		super(instance, 642);
+		super(instance, 683);
 		fluid = new Fluid("molten_anguish", new ResourceLocation("tms_mod:blocks/163199833457000624"),
 				new ResourceLocation("tms_mod:blocks/163199833457000624")).setLuminosity(5).setDensity(1000).setViscosity(1000).setGaseous(false);
 	}

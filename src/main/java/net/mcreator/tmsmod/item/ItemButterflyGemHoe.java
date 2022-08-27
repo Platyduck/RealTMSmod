@@ -24,7 +24,7 @@ public class ItemButterflyGemHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_hoe")
 	public static final Item block = null;
 	public ItemButterflyGemHoe(ElementsTmsModMod instance) {
-		super(instance, 771);
+		super(instance, 813);
 	}
 
 	@Override

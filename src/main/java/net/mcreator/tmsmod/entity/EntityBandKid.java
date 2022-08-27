@@ -37,7 +37,7 @@ public class EntityBandKid extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 141;
 	public static final int ENTITYID_RANGED = 142;
 	public EntityBandKid(ElementsTmsModMod instance) {
-		super(instance, 697);
+		super(instance, 736);
 	}
 
 	@Override

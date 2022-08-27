@@ -28,7 +28,7 @@ public class ItemBasicRobes extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:basic_robesboots")
 	public static final Item boots = null;
 	public ItemBasicRobes(ElementsTmsModMod instance) {
-		super(instance, 538);
+		super(instance, 563);
 	}
 
 	@Override

@@ -31,7 +31,7 @@ public class BlockOakPillar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:oak_pillar")
 	public static final Block block = null;
 	public BlockOakPillar(ElementsTmsModMod instance) {
-		super(instance, 149);
+		super(instance, 153);
 	}
 
 	@Override

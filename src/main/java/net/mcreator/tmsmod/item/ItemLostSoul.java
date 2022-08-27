@@ -20,7 +20,7 @@ public class ItemLostSoul extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lost_soul")
 	public static final Item block = null;
 	public ItemLostSoul(ElementsTmsModMod instance) {
-		super(instance, 481);
+		super(instance, 508);
 	}
 
 	@Override

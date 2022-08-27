@@ -32,7 +32,7 @@ public class BlockRyanwoodLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ryanwood_log")
 	public static final Block block = null;
 	public BlockRyanwoodLog(ElementsTmsModMod instance) {
-		super(instance, 181);
+		super(instance, 185);
 	}
 
 	@Override

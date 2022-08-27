@@ -22,7 +22,7 @@ public class BlockContainmentWall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:containment_wall")
 	public static final Block block = null;
 	public BlockContainmentWall(ElementsTmsModMod instance) {
-		super(instance, 368);
+		super(instance, 388);
 	}
 
 	@Override

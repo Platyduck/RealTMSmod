@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabDirtyBirdy extends ElementsTmsModMod.ModElement {
 	public TabDirtyBirdy(ElementsTmsModMod instance) {
-		super(instance, 892);
+		super(instance, 944);
 	}
 
 	@Override

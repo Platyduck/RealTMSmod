@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabTraditionalWeaponry extends ElementsTmsModMod.ModElement {
 	public TabTraditionalWeaponry(ElementsTmsModMod instance) {
-		super(instance, 1631);
+		super(instance, 1621);
 	}
 
 	@Override

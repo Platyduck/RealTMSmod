@@ -28,7 +28,7 @@ public class ItemOwensaber extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owensaber")
 	public static final Item block = null;
 	public ItemOwensaber(ElementsTmsModMod instance) {
-		super(instance, 1658);
+		super(instance, 589);
 	}
 
 	@Override

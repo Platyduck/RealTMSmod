@@ -27,7 +27,7 @@ public class ItemPlastickwoodAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastickwood_axe")
 	public static final Item block = null;
 	public ItemPlastickwoodAxe(ElementsTmsModMod instance) {
-		super(instance, 785);
+		super(instance, 825);
 	}
 
 	@Override

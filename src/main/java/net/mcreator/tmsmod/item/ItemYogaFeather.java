@@ -20,7 +20,7 @@ public class ItemYogaFeather extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:yoga_feather")
 	public static final Item block = null;
 	public ItemYogaFeather(ElementsTmsModMod instance) {
-		super(instance, 487);
+		super(instance, 514);
 	}
 
 	@Override

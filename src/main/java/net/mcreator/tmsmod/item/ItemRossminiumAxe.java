@@ -32,7 +32,7 @@ public class ItemRossminiumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rossminium_axe")
 	public static final Item block = null;
 	public ItemRossminiumAxe(ElementsTmsModMod instance) {
-		super(instance, 802);
+		super(instance, 580);
 	}
 
 	@Override

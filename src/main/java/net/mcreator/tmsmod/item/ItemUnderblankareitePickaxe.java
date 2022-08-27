@@ -24,7 +24,7 @@ public class ItemUnderblankareitePickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_pickaxe")
 	public static final Item block = null;
 	public ItemUnderblankareitePickaxe(ElementsTmsModMod instance) {
-		super(instance, 756);
+		super(instance, 798);
 	}
 
 	@Override

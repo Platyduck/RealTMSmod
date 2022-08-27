@@ -22,7 +22,7 @@ public class BlockHotelWallpaper extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hotel_wallpaper")
 	public static final Block block = null;
 	public BlockHotelWallpaper(ElementsTmsModMod instance) {
-		super(instance, 130);
+		super(instance, 134);
 	}
 
 	@Override

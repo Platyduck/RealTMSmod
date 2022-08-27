@@ -22,7 +22,7 @@ public class BlockVentilation extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ventilation")
 	public static final Block block = null;
 	public BlockVentilation(ElementsTmsModMod instance) {
-		super(instance, 361);
+		super(instance, 381);
 	}
 
 	@Override

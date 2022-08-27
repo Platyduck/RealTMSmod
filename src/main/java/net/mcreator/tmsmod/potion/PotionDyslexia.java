@@ -29,7 +29,7 @@ public class PotionDyslexia extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexia")
 	public static final PotionType potionType = null;
 	public PotionDyslexia(ElementsTmsModMod instance) {
-		super(instance, 900);
+		super(instance, 952);
 	}
 
 	@Override

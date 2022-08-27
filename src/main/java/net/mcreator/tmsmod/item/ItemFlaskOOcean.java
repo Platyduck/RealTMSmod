@@ -42,7 +42,7 @@ public class ItemFlaskOOcean extends ElementsTmsModMod.ModElement {
 	public static final Item block = null;
 	public static final int ENTITYID = 7;
 	public ItemFlaskOOcean(ElementsTmsModMod instance) {
-		super(instance, 516);
+		super(instance, 543);
 	}
 
 	@Override

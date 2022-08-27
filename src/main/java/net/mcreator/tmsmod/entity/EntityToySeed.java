@@ -38,7 +38,7 @@ public class EntityToySeed extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 47;
 	public static final int ENTITYID_RANGED = 48;
 	public EntityToySeed(ElementsTmsModMod instance) {
-		super(instance, 624);
+		super(instance, 665);
 	}
 
 	@Override

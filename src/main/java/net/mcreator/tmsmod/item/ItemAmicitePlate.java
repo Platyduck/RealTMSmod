@@ -24,7 +24,7 @@ public class ItemAmicitePlate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:amicite_plate")
 	public static final Item block = null;
 	public ItemAmicitePlate(ElementsTmsModMod instance) {
-		super(instance, 1562);
+		super(instance, 880);
 	}
 
 	@Override

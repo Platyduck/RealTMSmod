@@ -20,7 +20,7 @@ public class ItemPlasticShard extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_shard")
 	public static final Item block = null;
 	public ItemPlasticShard(ElementsTmsModMod instance) {
-		super(instance, 645);
+		super(instance, 686);
 	}
 
 	@Override

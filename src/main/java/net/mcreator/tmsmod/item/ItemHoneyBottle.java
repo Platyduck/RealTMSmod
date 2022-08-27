@@ -21,7 +21,7 @@ public class ItemHoneyBottle extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:honey_bottle")
 	public static final Item block = null;
 	public ItemHoneyBottle(ElementsTmsModMod instance) {
-		super(instance, 291);
+		super(instance, 310);
 	}
 
 	@Override

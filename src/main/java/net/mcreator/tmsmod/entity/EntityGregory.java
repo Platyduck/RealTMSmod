@@ -43,7 +43,7 @@ public class EntityGregory extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 80;
 	public static final int ENTITYID_RANGED = 81;
 	public EntityGregory(ElementsTmsModMod instance) {
-		super(instance, 653);
+		super(instance, 694);
 	}
 
 	@Override

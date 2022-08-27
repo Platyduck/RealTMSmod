@@ -28,7 +28,7 @@ public class ItemDyslexiumArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_armorboots")
 	public static final Item boots = null;
 	public ItemDyslexiumArmor(ElementsTmsModMod instance) {
-		super(instance, 523);
+		super(instance, 550);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockMercury extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mercury")
 	public static final Block block = null;
 	public BlockMercury(ElementsTmsModMod instance) {
-		super(instance, 239);
+		super(instance, 242);
 	}
 
 	@Override

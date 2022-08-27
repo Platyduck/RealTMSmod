@@ -22,7 +22,7 @@ public class BlockBeehiveWall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:beehive_wall")
 	public static final Block block = null;
 	public BlockBeehiveWall(ElementsTmsModMod instance) {
-		super(instance, 274);
+		super(instance, 293);
 	}
 
 	@Override

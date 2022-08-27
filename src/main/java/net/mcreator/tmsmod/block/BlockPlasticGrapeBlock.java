@@ -22,7 +22,7 @@ public class BlockPlasticGrapeBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_grape_block")
 	public static final Block block = null;
 	public BlockPlasticGrapeBlock(ElementsTmsModMod instance) {
-		super(instance, 177);
+		super(instance, 181);
 	}
 
 	@Override

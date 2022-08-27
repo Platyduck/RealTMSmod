@@ -42,7 +42,7 @@ public class EntityAlimoo extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 96;
 	public static final int ENTITYID_RANGED = 97;
 	public EntityAlimoo(ElementsTmsModMod instance) {
-		super(instance, 661);
+		super(instance, 702);
 	}
 
 	@Override

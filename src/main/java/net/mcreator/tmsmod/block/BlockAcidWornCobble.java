@@ -22,7 +22,7 @@ public class BlockAcidWornCobble extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:acid_worn_cobble")
 	public static final Block block = null;
 	public BlockAcidWornCobble(ElementsTmsModMod instance) {
-		super(instance, 249);
+		super(instance, 250);
 	}
 
 	@Override

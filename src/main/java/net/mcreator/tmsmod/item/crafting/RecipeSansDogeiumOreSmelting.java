@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeSansDogeiumOreSmelting extends ElementsTmsModMod.ModElement {
 	public RecipeSansDogeiumOreSmelting(ElementsTmsModMod instance) {
-		super(instance, 1330);
+		super(instance, 1382);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class BlockKenzieGrass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kenzie_grass")
 	public static final Block block = null;
 	public BlockKenzieGrass(ElementsTmsModMod instance) {
-		super(instance, 856);
+		super(instance, 1465);
 	}
 
 	@Override

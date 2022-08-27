@@ -22,7 +22,7 @@ public class BlockPolishedGlitch extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:polished_glitch")
 	public static final Block block = null;
 	public BlockPolishedGlitch(ElementsTmsModMod instance) {
-		super(instance, 477);
+		super(instance, 504);
 	}
 
 	@Override

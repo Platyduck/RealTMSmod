@@ -20,7 +20,7 @@ public class ItemILYLAA extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ilylaa")
 	public static final Item block = null;
 	public ItemILYLAA(ElementsTmsModMod instance) {
-		super(instance, 685);
+		super(instance, 726);
 	}
 
 	@Override

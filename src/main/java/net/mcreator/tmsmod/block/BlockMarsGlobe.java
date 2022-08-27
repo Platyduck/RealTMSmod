@@ -22,7 +22,7 @@ public class BlockMarsGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mars_globe")
 	public static final Block block = null;
 	public BlockMarsGlobe(ElementsTmsModMod instance) {
-		super(instance, 242);
+		super(instance, 245);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemUnitedSteelArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_armorboots")
 	public static final Item boots = null;
 	public ItemUnitedSteelArmor(ElementsTmsModMod instance) {
-		super(instance, 534);
+		super(instance, 560);
 	}
 
 	@Override

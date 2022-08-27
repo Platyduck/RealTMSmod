@@ -26,7 +26,7 @@ public class ItemTealStrummer extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:teal_strummer")
 	public static final Item block = null;
 	public ItemTealStrummer(ElementsTmsModMod instance) {
-		super(instance, 858);
+		super(instance, 1481);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemIronRod extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:iron_rod")
 	public static final Item block = null;
 	public ItemIronRod(ElementsTmsModMod instance) {
-		super(instance, 673);
+		super(instance, 714);
 	}
 
 	@Override

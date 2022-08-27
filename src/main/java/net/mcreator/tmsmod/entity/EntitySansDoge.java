@@ -46,7 +46,7 @@ public class EntitySansDoge extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 11;
 	public static final int ENTITYID_RANGED = 12;
 	public EntitySansDoge(ElementsTmsModMod instance) {
-		super(instance, 606);
+		super(instance, 647);
 	}
 
 	@Override

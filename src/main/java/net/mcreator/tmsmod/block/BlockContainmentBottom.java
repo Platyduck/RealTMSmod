@@ -22,7 +22,7 @@ public class BlockContainmentBottom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:containment_bottom")
 	public static final Block block = null;
 	public BlockContainmentBottom(ElementsTmsModMod instance) {
-		super(instance, 379);
+		super(instance, 399);
 	}
 
 	@Override

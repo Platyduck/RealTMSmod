@@ -20,7 +20,7 @@ public class ItemSusmeiserTheme extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:susmeiser_theme")
 	public static final Item block = null;
 	public ItemSusmeiserTheme(ElementsTmsModMod instance) {
-		super(instance, 690);
+		super(instance, 729);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class BlockNeptunianGravel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:neptunian_gravel")
 	public static final Block block = null;
 	public BlockNeptunianGravel(ElementsTmsModMod instance) {
-		super(instance, 244);
+		super(instance, 247);
 	}
 
 	@Override

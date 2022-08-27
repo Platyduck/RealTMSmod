@@ -33,7 +33,7 @@ public class BlockRexiumOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_ore")
 	public static final Block block = null;
 	public BlockRexiumOre(ElementsTmsModMod instance) {
-		super(instance, 189);
+		super(instance, 193);
 	}
 
 	@Override

@@ -26,7 +26,7 @@ public class BlockMud extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mud")
 	public static final Block block = null;
 	public BlockMud(ElementsTmsModMod instance) {
-		super(instance, 306);
+		super(instance, 325);
 	}
 
 	@Override

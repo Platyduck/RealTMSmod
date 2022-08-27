@@ -26,7 +26,7 @@ public class BlockMangroveStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mangrove_stairs")
 	public static final Block block = null;
 	public BlockMangroveStairs(ElementsTmsModMod instance) {
-		super(instance, 310);
+		super(instance, 329);
 	}
 
 	@Override

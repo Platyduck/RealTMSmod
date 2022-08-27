@@ -31,7 +31,7 @@ public class BlockGuildedCrubstone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:guilded_crubstone")
 	public static final Block block = null;
 	public BlockGuildedCrubstone(ElementsTmsModMod instance) {
-		super(instance, 1669);
+		super(instance, 271);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockAnimatedMetalBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:animated_metal_block")
 	public static final Block block = null;
 	public BlockAnimatedMetalBlock(ElementsTmsModMod instance) {
-		super(instance, 174);
+		super(instance, 178);
 	}
 
 	@Override

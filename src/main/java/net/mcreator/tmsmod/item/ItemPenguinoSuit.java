@@ -28,7 +28,7 @@ public class ItemPenguinoSuit extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:penguino_suitboots")
 	public static final Item boots = null;
 	public ItemPenguinoSuit(ElementsTmsModMod instance) {
-		super(instance, 155);
+		super(instance, 159);
 	}
 
 	@Override

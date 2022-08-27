@@ -22,7 +22,7 @@ public class BlockConcrete extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:concrete")
 	public static final Block block = null;
 	public BlockConcrete(ElementsTmsModMod instance) {
-		super(instance, 370);
+		super(instance, 390);
 	}
 
 	@Override

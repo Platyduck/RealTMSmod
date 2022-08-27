@@ -20,7 +20,7 @@ public class ItemSansDogeiumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:sans_dogeium_ingot")
 	public static final Item block = null;
 	public ItemSansDogeiumIngot(ElementsTmsModMod instance) {
-		super(instance, 126);
+		super(instance, 123);
 	}
 
 	@Override

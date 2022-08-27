@@ -32,7 +32,7 @@ public class BlockHotelSiding extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hotel_siding")
 	public static final Block block = null;
 	public BlockHotelSiding(ElementsTmsModMod instance) {
-		super(instance, 158);
+		super(instance, 162);
 	}
 
 	@Override

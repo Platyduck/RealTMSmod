@@ -22,7 +22,7 @@ public class BlockRuaniteBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ruanite_block")
 	public static final Block block = null;
 	public BlockRuaniteBlock(ElementsTmsModMod instance) {
-		super(instance, 180);
+		super(instance, 184);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockFunTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:fun_tiles")
 	public static final Block block = null;
 	public BlockFunTiles(ElementsTmsModMod instance) {
-		super(instance, 165);
+		super(instance, 169);
 	}
 
 	@Override

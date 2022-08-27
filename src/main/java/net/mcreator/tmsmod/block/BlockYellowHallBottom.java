@@ -22,7 +22,7 @@ public class BlockYellowHallBottom extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:yellow_hall_bottom")
 	public static final Block block = null;
 	public BlockYellowHallBottom(ElementsTmsModMod instance) {
-		super(instance, 380);
+		super(instance, 400);
 	}
 
 	@Override

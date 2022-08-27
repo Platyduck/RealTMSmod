@@ -32,7 +32,7 @@ public class BlockBlueParlorQuilt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:blue_parlor_quilt")
 	public static final Block block = null;
 	public BlockBlueParlorQuilt(ElementsTmsModMod instance) {
-		super(instance, 162);
+		super(instance, 166);
 	}
 
 	@Override

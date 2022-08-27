@@ -21,7 +21,7 @@ public class BiomeFrozenWasteland extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:frozen_wasteland")
 	public static final BiomeGenCustom biome = null;
 	public BiomeFrozenWasteland(ElementsTmsModMod instance) {
-		super(instance, 1116);
+		super(instance, 1168);
 	}
 
 	@Override

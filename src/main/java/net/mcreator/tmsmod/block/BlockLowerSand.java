@@ -23,7 +23,7 @@ public class BlockLowerSand extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_sand")
 	public static final Block block = null;
 	public BlockLowerSand(ElementsTmsModMod instance) {
-		super(instance, 872);
+		super(instance, 900);
 	}
 
 	@Override

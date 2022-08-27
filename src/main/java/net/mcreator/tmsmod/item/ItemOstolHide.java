@@ -20,7 +20,7 @@ public class ItemOstolHide extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ostol_hide")
 	public static final Item block = null;
 	public ItemOstolHide(ElementsTmsModMod instance) {
-		super(instance, 485);
+		super(instance, 512);
 	}
 
 	@Override

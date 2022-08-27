@@ -20,7 +20,7 @@ public class ItemSnurbiteDust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbite_dust")
 	public static final Item block = null;
 	public ItemSnurbiteDust(ElementsTmsModMod instance) {
-		super(instance, 81);
+		super(instance, 82);
 	}
 
 	@Override

@@ -20,7 +20,7 @@ public class ItemPawkite extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pawkite")
 	public static final Item block = null;
 	public ItemPawkite(ElementsTmsModMod instance) {
-		super(instance, 89);
+		super(instance, 90);
 	}
 
 	@Override

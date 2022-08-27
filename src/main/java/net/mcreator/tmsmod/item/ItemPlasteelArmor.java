@@ -28,7 +28,7 @@ public class ItemPlasteelArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_armorboots")
 	public static final Item boots = null;
 	public ItemPlasteelArmor(ElementsTmsModMod instance) {
-		super(instance, 540);
+		super(instance, 565);
 	}
 
 	@Override

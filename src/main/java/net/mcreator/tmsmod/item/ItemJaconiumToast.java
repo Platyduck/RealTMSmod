@@ -21,7 +21,7 @@ public class ItemJaconiumToast extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconium_toast")
 	public static final Item block = null;
 	public ItemJaconiumToast(ElementsTmsModMod instance) {
-		super(instance, 576);
+		super(instance, 616);
 	}
 
 	@Override

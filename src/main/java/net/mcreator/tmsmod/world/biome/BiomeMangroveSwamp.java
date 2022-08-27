@@ -29,7 +29,7 @@ public class BiomeMangroveSwamp extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mangrove_swamp")
 	public static final BiomeGenCustom biome = null;
 	public BiomeMangroveSwamp(ElementsTmsModMod instance) {
-		super(instance, 1276);
+		super(instance, 1328);
 	}
 
 	@Override

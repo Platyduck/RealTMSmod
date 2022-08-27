@@ -28,7 +28,7 @@ public class ItemUnderblankareiteArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_armorboots")
 	public static final Item boots = null;
 	public ItemUnderblankareiteArmor(ElementsTmsModMod instance) {
-		super(instance, 520);
+		super(instance, 547);
 	}
 
 	@Override

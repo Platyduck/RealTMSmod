@@ -24,7 +24,7 @@ public class ItemDerpickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:derpickaxe")
 	public static final Item block = null;
 	public ItemDerpickaxe(ElementsTmsModMod instance) {
-		super(instance, 1526);
+		super(instance, 847);
 	}
 
 	@Override

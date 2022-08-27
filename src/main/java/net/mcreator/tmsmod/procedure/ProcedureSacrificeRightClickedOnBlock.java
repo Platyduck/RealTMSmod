@@ -13,7 +13,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSacrificeRightClickedOnBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureSacrificeRightClickedOnBlock(ElementsTmsModMod instance) {
-		super(instance, 1129);
+		super(instance, 1181);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

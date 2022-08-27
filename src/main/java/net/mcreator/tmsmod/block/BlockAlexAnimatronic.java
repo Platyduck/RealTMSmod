@@ -32,7 +32,7 @@ public class BlockAlexAnimatronic extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alex_animatronic")
 	public static final Block block = null;
 	public BlockAlexAnimatronic(ElementsTmsModMod instance) {
-		super(instance, 146);
+		super(instance, 150);
 	}
 
 	@Override

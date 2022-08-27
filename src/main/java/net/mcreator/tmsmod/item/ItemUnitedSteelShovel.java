@@ -24,7 +24,7 @@ public class ItemUnitedSteelShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_shovel")
 	public static final Item block = null;
 	public ItemUnitedSteelShovel(ElementsTmsModMod instance) {
-		super(instance, 782);
+		super(instance, 822);
 	}
 
 	@Override

@@ -52,7 +52,7 @@ public class EntityLauren5Blue extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 13;
 	public static final int ENTITYID_RANGED = 14;
 	public EntityLauren5Blue(ElementsTmsModMod instance) {
-		super(instance, 607);
+		super(instance, 648);
 	}
 
 	@Override

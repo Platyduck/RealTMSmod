@@ -38,7 +38,7 @@ public class EntityMeifWa extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 9;
 	public static final int ENTITYID_RANGED = 10;
 	public EntityMeifWa(ElementsTmsModMod instance) {
-		super(instance, 605);
+		super(instance, 646);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemNetheritePickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:netherite_pickaxe")
 	public static final Item block = null;
 	public ItemNetheritePickaxe(ElementsTmsModMod instance) {
-		super(instance, 283);
+		super(instance, 302);
 	}
 
 	@Override

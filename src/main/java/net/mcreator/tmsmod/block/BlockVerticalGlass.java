@@ -24,7 +24,7 @@ public class BlockVerticalGlass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:vertical_glass")
 	public static final Block block = null;
 	public BlockVerticalGlass(ElementsTmsModMod instance) {
-		super(instance, 396);
+		super(instance, 415);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class BlockRedstoneBlueslate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:redstone_blueslate")
 	public static final Block block = null;
 	public BlockRedstoneBlueslate(ElementsTmsModMod instance) {
-		super(instance, 324);
+		super(instance, 343);
 	}
 
 	@Override

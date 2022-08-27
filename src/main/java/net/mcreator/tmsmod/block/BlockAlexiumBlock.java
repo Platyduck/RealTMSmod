@@ -22,7 +22,7 @@ public class BlockAlexiumBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:alexium_block")
 	public static final Block block = null;
 	public BlockAlexiumBlock(ElementsTmsModMod instance) {
-		super(instance, 265);
+		super(instance, 284);
 	}
 
 	@Override

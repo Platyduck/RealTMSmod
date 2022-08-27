@@ -40,7 +40,7 @@ public class BlockWaste extends ElementsTmsModMod.ModElement {
 	public static final Item item = null;
 	private Fluid fluid;
 	public BlockWaste(ElementsTmsModMod instance) {
-		super(instance, 694);
+		super(instance, 733);
 		fluid = new Fluid("waste", new ResourceLocation("tms_mod:blocks/water_still"), new ResourceLocation("tms_mod:blocks/water_still"))
 				.setLuminosity(0).setDensity(1000).setViscosity(1000).setGaseous(false);
 	}

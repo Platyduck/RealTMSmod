@@ -83,7 +83,7 @@ public class WorldBeetlejuice extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldBeetlejuice(ElementsTmsModMod instance) {
-		super(instance, 225);
+		super(instance, 228);
 	}
 
 	@Override

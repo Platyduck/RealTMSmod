@@ -20,7 +20,7 @@ public class ItemDyslexiumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_ingot")
 	public static final Item block = null;
 	public ItemDyslexiumIngot(ElementsTmsModMod instance) {
-		super(instance, 111);
+		super(instance, 108);
 	}
 
 	@Override

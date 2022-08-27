@@ -22,7 +22,7 @@ public class BlockDecrepitTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:decrepit_tiles")
 	public static final Block block = null;
 	public BlockDecrepitTiles(ElementsTmsModMod instance) {
-		super(instance, 153);
+		super(instance, 157);
 	}
 
 	@Override

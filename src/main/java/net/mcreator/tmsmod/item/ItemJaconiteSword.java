@@ -33,7 +33,7 @@ public class ItemJaconiteSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconite_sword")
 	public static final Item block = null;
 	public ItemJaconiteSword(ElementsTmsModMod instance) {
-		super(instance, 546);
+		super(instance, 571);
 	}
 
 	@Override

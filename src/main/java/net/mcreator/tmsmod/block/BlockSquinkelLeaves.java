@@ -31,7 +31,7 @@ public class BlockSquinkelLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:squinkel_leaves")
 	public static final Block block = null;
 	public BlockSquinkelLeaves(ElementsTmsModMod instance) {
-		super(instance, 967);
+		super(instance, 1019);
 	}
 
 	@Override

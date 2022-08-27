@@ -42,7 +42,7 @@ public class EntityMoobloom extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 84;
 	public static final int ENTITYID_RANGED = 85;
 	public EntityMoobloom(ElementsTmsModMod instance) {
-		super(instance, 656);
+		super(instance, 697);
 	}
 
 	@Override

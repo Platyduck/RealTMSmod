@@ -24,7 +24,7 @@ public class ItemTrophy extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:trophy")
 	public static final Item block = null;
 	public ItemTrophy(ElementsTmsModMod instance) {
-		super(instance, 680);
+		super(instance, 721);
 	}
 
 	@Override

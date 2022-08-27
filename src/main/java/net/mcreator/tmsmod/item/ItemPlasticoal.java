@@ -26,7 +26,7 @@ public class ItemPlasticoal extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasticoal")
 	public static final Item block = null;
 	public ItemPlasticoal(ElementsTmsModMod instance) {
-		super(instance, 646);
+		super(instance, 687);
 	}
 
 	@Override

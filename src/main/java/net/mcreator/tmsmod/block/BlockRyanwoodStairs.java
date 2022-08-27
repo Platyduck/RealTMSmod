@@ -26,7 +26,7 @@ public class BlockRyanwoodStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ryanwood_stairs")
 	public static final Block block = null;
 	public BlockRyanwoodStairs(ElementsTmsModMod instance) {
-		super(instance, 184);
+		super(instance, 188);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemGrahamunyAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_axe")
 	public static final Item block = null;
 	public ItemGrahamunyAxe(ElementsTmsModMod instance) {
-		super(instance, 745);
+		super(instance, 787);
 	}
 
 	@Override

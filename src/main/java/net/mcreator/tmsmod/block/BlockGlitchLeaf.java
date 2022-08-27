@@ -22,7 +22,7 @@ public class BlockGlitchLeaf extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:glitch_leaf")
 	public static final Block block = null;
 	public BlockGlitchLeaf(ElementsTmsModMod instance) {
-		super(instance, 478);
+		super(instance, 505);
 	}
 
 	@Override

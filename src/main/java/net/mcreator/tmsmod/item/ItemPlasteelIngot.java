@@ -24,7 +24,7 @@ public class ItemPlasteelIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_ingot")
 	public static final Item block = null;
 	public ItemPlasteelIngot(ElementsTmsModMod instance) {
-		super(instance, 122);
+		super(instance, 119);
 	}
 
 	@Override

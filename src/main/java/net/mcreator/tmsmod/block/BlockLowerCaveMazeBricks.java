@@ -22,7 +22,7 @@ public class BlockLowerCaveMazeBricks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_cave_maze_bricks")
 	public static final Block block = null;
 	public BlockLowerCaveMazeBricks(ElementsTmsModMod instance) {
-		super(instance, 402);
+		super(instance, 421);
 	}
 
 	@Override

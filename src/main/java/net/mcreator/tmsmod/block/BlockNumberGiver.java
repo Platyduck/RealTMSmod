@@ -32,7 +32,7 @@ public class BlockNumberGiver extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:number_giver")
 	public static final Block block = null;
 	public BlockNumberGiver(ElementsTmsModMod instance) {
-		super(instance, 374);
+		super(instance, 394);
 	}
 
 	@Override

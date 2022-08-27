@@ -32,7 +32,7 @@ public class BlockPlasticJackOLantern extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_jack_o_lantern")
 	public static final Block block = null;
 	public BlockPlasticJackOLantern(ElementsTmsModMod instance) {
-		super(instance, 450);
+		super(instance, 477);
 	}
 
 	@Override

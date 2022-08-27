@@ -24,7 +24,7 @@ public class ItemUnitedSteelPlate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_plate")
 	public static final Item block = null;
 	public ItemUnitedSteelPlate(ElementsTmsModMod instance) {
-		super(instance, 1561);
+		super(instance, 879);
 	}
 
 	@Override

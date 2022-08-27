@@ -22,7 +22,7 @@ public class BlockShippingCrate extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shipping_crate")
 	public static final Block block = null;
 	public BlockShippingCrate(ElementsTmsModMod instance) {
-		super(instance, 1609);
+		super(instance, 431);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class ItemOweniumPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_pickaxe")
 	public static final Item block = null;
 	public ItemOweniumPickaxe(ElementsTmsModMod instance) {
-		super(instance, 740);
+		super(instance, 782);
 	}
 
 	@Override

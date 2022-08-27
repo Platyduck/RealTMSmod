@@ -22,7 +22,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureShredderShred extends ElementsTmsModMod.ModElement {
 	public ProcedureShredderShred(ElementsTmsModMod instance) {
-		super(instance, 1509);
+		super(instance, 1559);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

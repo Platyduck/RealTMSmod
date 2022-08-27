@@ -41,7 +41,7 @@ public class EntityMicarso extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 19;
 	public static final int ENTITYID_RANGED = 20;
 	public EntityMicarso(ElementsTmsModMod instance) {
-		super(instance, 609);
+		super(instance, 650);
 	}
 
 	@Override

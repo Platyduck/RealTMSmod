@@ -29,7 +29,7 @@ public class BiomeJoshianTunnelPark extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:joshian_tunnel_park")
 	public static final BiomeGenCustom biome = null;
 	public BiomeJoshianTunnelPark(ElementsTmsModMod instance) {
-		super(instance, 1225);
+		super(instance, 1277);
 	}
 
 	@Override

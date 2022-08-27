@@ -28,7 +28,7 @@ public class BlockAmethyst extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:amethyst")
 	public static final Block block = null;
 	public BlockAmethyst(ElementsTmsModMod instance) {
-		super(instance, 302);
+		super(instance, 321);
 	}
 
 	@Override

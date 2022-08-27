@@ -22,7 +22,7 @@ public class BlockPlasticTable extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_table")
 	public static final Block block = null;
 	public BlockPlasticTable(ElementsTmsModMod instance) {
-		super(instance, 448);
+		super(instance, 475);
 	}
 
 	@Override

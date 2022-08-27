@@ -22,7 +22,7 @@ public class BlockThiccGlobe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:thicc_globe")
 	public static final Block block = null;
 	public BlockThiccGlobe(ElementsTmsModMod instance) {
-		super(instance, 234);
+		super(instance, 237);
 	}
 
 	@Override

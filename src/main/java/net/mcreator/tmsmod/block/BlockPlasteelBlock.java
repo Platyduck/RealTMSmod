@@ -22,7 +22,7 @@ public class BlockPlasteelBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_block")
 	public static final Block block = null;
 	public BlockPlasteelBlock(ElementsTmsModMod instance) {
-		super(instance, 454);
+		super(instance, 481);
 	}
 
 	@Override

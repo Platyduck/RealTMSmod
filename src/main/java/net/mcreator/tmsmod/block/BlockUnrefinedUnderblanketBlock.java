@@ -22,7 +22,7 @@ public class BlockUnrefinedUnderblanketBlock extends ElementsTmsModMod.ModElemen
 	@GameRegistry.ObjectHolder("tms_mod:unrefined_underblanket_block")
 	public static final Block block = null;
 	public BlockUnrefinedUnderblanketBlock(ElementsTmsModMod instance) {
-		super(instance, 456);
+		super(instance, 483);
 	}
 
 	@Override

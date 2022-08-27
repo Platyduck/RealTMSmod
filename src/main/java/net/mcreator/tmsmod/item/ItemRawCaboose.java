@@ -21,7 +21,7 @@ public class ItemRawCaboose extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:raw_caboose")
 	public static final Item block = null;
 	public ItemRawCaboose(ElementsTmsModMod instance) {
-		super(instance, 599);
+		super(instance, 639);
 	}
 
 	@Override

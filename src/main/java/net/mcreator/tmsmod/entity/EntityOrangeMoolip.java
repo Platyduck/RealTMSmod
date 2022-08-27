@@ -42,7 +42,7 @@ public class EntityOrangeMoolip extends ElementsTmsModMod.ModElement {
 	public static final int ENTITYID = 100;
 	public static final int ENTITYID_RANGED = 101;
 	public EntityOrangeMoolip(ElementsTmsModMod instance) {
-		super(instance, 663);
+		super(instance, 704);
 	}
 
 	@Override
