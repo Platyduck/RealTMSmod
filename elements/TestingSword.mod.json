@@ -3,9 +3,9 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "testingsword",
+    "texture": "ex-communicationhammer",
     "customModelName": "Normal",
-    "name": "Testing Sword",
+    "name": "Ex-communication Hammer",
     "specialInfo": [
       "Cringe"
     ],
