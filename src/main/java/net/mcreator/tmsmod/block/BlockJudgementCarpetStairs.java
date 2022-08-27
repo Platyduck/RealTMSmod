@@ -29,7 +29,7 @@ public class BlockJudgementCarpetStairs extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_carpet_stairs")
 	public static final Block block = null;
 	public BlockJudgementCarpetStairs(ElementsTmsModMod instance) {
-		super(instance, 860);
+		super(instance, 861);
 	}
 
 	@Override

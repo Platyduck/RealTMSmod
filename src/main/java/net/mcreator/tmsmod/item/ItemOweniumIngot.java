@@ -20,7 +20,7 @@ public class ItemOweniumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_ingot")
 	public static final Item block = null;
 	public ItemOweniumIngot(ElementsTmsModMod instance) {
-		super(instance, 105);
+		super(instance, 106);
 	}
 
 	@Override

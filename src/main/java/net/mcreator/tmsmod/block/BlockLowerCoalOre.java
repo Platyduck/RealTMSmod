@@ -35,7 +35,7 @@ public class BlockLowerCoalOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_coal_ore")
 	public static final Block block = null;
 	public BlockLowerCoalOre(ElementsTmsModMod instance) {
-		super(instance, 891);
+		super(instance, 892);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemSnurbumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_hoe")
 	public static final Item block = null;
 	public ItemSnurbumHoe(ElementsTmsModMod instance) {
-		super(instance, 781);
+		super(instance, 782);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemNatreaPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_pickaxe")
 	public static final Item block = null;
 	public ItemNatreaPickaxe(ElementsTmsModMod instance) {
-		super(instance, 806);
+		super(instance, 807);
 	}
 
 	@Override

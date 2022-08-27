@@ -24,7 +24,7 @@ public class ItemUnderblankareiteShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_shovel")
 	public static final Item block = null;
 	public ItemUnderblankareiteShovel(ElementsTmsModMod instance) {
-		super(instance, 800);
+		super(instance, 801);
 	}
 
 	@Override

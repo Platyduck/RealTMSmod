@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabFinalBattle extends ElementsTmsModMod.ModElement {
 	public TabFinalBattle(ElementsTmsModMod instance) {
-		super(instance, 1147);
+		super(instance, 1148);
 	}
 
 	@Override

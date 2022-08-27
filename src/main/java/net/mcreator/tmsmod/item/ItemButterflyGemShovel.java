@@ -24,7 +24,7 @@ public class ItemButterflyGemShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_shovel")
 	public static final Item block = null;
 	public ItemButterflyGemShovel(ElementsTmsModMod instance) {
-		super(instance, 812);
+		super(instance, 813);
 	}
 
 	@Override

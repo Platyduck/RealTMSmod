@@ -20,7 +20,7 @@ public class ItemPinkDiamond extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond")
 	public static final Item block = null;
 	public ItemPinkDiamond(ElementsTmsModMod instance) {
-		super(instance, 114);
+		super(instance, 116);
 	}
 
 	@Override

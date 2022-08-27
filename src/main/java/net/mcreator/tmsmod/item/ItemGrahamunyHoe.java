@@ -24,7 +24,7 @@ public class ItemGrahamunyHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_hoe")
 	public static final Item block = null;
 	public ItemGrahamunyHoe(ElementsTmsModMod instance) {
-		super(instance, 789);
+		super(instance, 790);
 	}
 
 	@Override

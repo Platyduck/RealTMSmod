@@ -28,7 +28,7 @@ public class BlockLowerGrass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_grass")
 	public static final Block block = null;
 	public BlockLowerGrass(ElementsTmsModMod instance) {
-		super(instance, 888);
+		super(instance, 889);
 	}
 
 	@Override

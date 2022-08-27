@@ -11,7 +11,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRossminiumAxeLivingEntityIsHitWithTool extends ElementsTmsModMod.ModElement {
 	public ProcedureRossminiumAxeLivingEntityIsHitWithTool(ElementsTmsModMod instance) {
-		super(instance, 1396);
+		super(instance, 1397);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

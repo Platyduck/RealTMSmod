@@ -21,7 +21,7 @@ public class BiomeKenzone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kenzone")
 	public static final BiomeGenCustom biome = null;
 	public BiomeKenzone(ElementsTmsModMod instance) {
-		super(instance, 1466);
+		super(instance, 1467);
 	}
 
 	@Override

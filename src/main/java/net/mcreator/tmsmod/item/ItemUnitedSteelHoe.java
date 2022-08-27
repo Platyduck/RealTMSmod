@@ -24,7 +24,7 @@ public class ItemUnitedSteelHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_hoe")
 	public static final Item block = null;
 	public ItemUnitedSteelHoe(ElementsTmsModMod instance) {
-		super(instance, 823);
+		super(instance, 824);
 	}
 
 	@Override

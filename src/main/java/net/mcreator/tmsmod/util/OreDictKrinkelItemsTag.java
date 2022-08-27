@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class OreDictKrinkelItemsTag extends ElementsTmsModMod.ModElement {
 	public OreDictKrinkelItemsTag(ElementsTmsModMod instance) {
-		super(instance, 960);
+		super(instance, 961);
 	}
 
 	@Override

@@ -10,7 +10,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureFlaskOOceanBulletHitsBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureFlaskOOceanBulletHitsBlock(ElementsTmsModMod instance) {
-		super(instance, 1062);
+		super(instance, 1063);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

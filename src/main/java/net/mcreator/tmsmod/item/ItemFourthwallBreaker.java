@@ -24,7 +24,7 @@ public class ItemFourthwallBreaker extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:fourthwall_breaker")
 	public static final Item block = null;
 	public ItemFourthwallBreaker(ElementsTmsModMod instance) {
-		super(instance, 814);
+		super(instance, 815);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockJudgementSegwayWall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_segway_wall")
 	public static final Block block = null;
 	public BlockJudgementSegwayWall(ElementsTmsModMod instance) {
-		super(instance, 856);
+		super(instance, 857);
 	}
 
 	@Override

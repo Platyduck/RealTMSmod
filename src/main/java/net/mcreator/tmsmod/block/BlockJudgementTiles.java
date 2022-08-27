@@ -22,7 +22,7 @@ public class BlockJudgementTiles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_tiles")
 	public static final Block block = null;
 	public BlockJudgementTiles(ElementsTmsModMod instance) {
-		super(instance, 852);
+		super(instance, 853);
 	}
 
 	@Override

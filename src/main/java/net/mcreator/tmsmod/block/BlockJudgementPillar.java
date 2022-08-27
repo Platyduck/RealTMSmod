@@ -31,7 +31,7 @@ public class BlockJudgementPillar extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_pillar")
 	public static final Block block = null;
 	public BlockJudgementPillar(ElementsTmsModMod instance) {
-		super(instance, 857);
+		super(instance, 858);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemButterflyGemAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_axe")
 	public static final Item block = null;
 	public ItemButterflyGemAxe(ElementsTmsModMod instance) {
-		super(instance, 811);
+		super(instance, 812);
 	}
 
 	@Override

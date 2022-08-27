@@ -24,7 +24,7 @@ public class ItemJaconiteHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconite_hoe")
 	public static final Item block = null;
 	public ItemJaconiteHoe(ElementsTmsModMod instance) {
-		super(instance, 844);
+		super(instance, 845);
 	}
 
 	@Override

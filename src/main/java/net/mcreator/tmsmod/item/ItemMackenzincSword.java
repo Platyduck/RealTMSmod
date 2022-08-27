@@ -28,7 +28,7 @@ public class ItemMackenzincSword extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mackenzinc_sword")
 	public static final Item block = null;
 	public ItemMackenzincSword(ElementsTmsModMod instance) {
-		super(instance, 1445);
+		super(instance, 1446);
 	}
 
 	@Override

@@ -28,7 +28,7 @@ public class ItemPineconeStick extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pinecone_stick")
 	public static final Item block = null;
 	public ItemPineconeStick(ElementsTmsModMod instance) {
-		super(instance, 836);
+		super(instance, 837);
 	}
 
 	@Override

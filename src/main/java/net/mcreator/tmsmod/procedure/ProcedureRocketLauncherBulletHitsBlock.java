@@ -9,7 +9,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRocketLauncherBulletHitsBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureRocketLauncherBulletHitsBlock(ElementsTmsModMod instance) {
-		super(instance, 1040);
+		super(instance, 1041);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

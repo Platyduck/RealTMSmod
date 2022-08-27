@@ -23,7 +23,7 @@ public class ItemMackenzincIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mackenzinc_ingot")
 	public static final Item block = null;
 	public ItemMackenzincIngot(ElementsTmsModMod instance) {
-		super(instance, 1439);
+		super(instance, 1440);
 	}
 
 	@Override

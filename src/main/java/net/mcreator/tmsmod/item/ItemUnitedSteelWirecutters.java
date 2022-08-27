@@ -20,7 +20,7 @@ public class ItemUnitedSteelWirecutters extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_wirecutters")
 	public static final Item block = null;
 	public ItemUnitedSteelWirecutters(ElementsTmsModMod instance) {
-		super(instance, 873);
+		super(instance, 874);
 	}
 
 	@Override

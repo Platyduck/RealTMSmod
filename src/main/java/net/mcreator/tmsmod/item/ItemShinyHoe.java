@@ -24,7 +24,7 @@ public class ItemShinyHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:shiny_hoe")
 	public static final Item block = null;
 	public ItemShinyHoe(ElementsTmsModMod instance) {
-		super(instance, 777);
+		super(instance, 778);
 	}
 
 	@Override

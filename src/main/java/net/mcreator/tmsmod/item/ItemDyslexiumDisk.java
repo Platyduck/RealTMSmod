@@ -24,7 +24,7 @@ public class ItemDyslexiumDisk extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_disk")
 	public static final Item block = null;
 	public ItemDyslexiumDisk(ElementsTmsModMod instance) {
-		super(instance, 885);
+		super(instance, 886);
 	}
 
 	@Override

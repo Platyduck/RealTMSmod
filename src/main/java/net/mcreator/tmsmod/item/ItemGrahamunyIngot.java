@@ -20,7 +20,7 @@ public class ItemGrahamunyIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_ingot")
 	public static final Item block = null;
 	public ItemGrahamunyIngot(ElementsTmsModMod instance) {
-		super(instance, 112);
+		super(instance, 114);
 	}
 
 	@Override

@@ -38,7 +38,7 @@ public class GuiTrade1 extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 2;
 	public static HashMap guistate = new HashMap();
 	public GuiTrade1(ElementsTmsModMod instance) {
-		super(instance, 1150);
+		super(instance, 1151);
 	}
 
 	@Override

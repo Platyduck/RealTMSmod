@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class TabKillBoars extends ElementsTmsModMod.ModElement {
 	public TabKillBoars(ElementsTmsModMod instance) {
-		super(instance, 1221);
+		super(instance, 1222);
 	}
 
 	@Override

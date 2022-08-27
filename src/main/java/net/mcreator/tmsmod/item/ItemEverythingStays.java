@@ -20,7 +20,7 @@ public class ItemEverythingStays extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:everything_stays")
 	public static final Item block = null;
 	public ItemEverythingStays(ElementsTmsModMod instance) {
-		super(instance, 1652);
+		super(instance, 748);
 	}
 
 	@Override

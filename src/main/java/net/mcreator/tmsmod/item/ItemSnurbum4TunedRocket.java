@@ -24,7 +24,7 @@ public class ItemSnurbum4TunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_4_tuned_rocket")
 	public static final Item block = null;
 	public ItemSnurbum4TunedRocket(ElementsTmsModMod instance) {
-		super(instance, 921);
+		super(instance, 922);
 	}
 
 	@Override

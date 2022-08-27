@@ -24,7 +24,7 @@ public class ItemPinkDiamondShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond_shovel")
 	public static final Item block = null;
 	public ItemPinkDiamondShovel(ElementsTmsModMod instance) {
-		super(instance, 818);
+		super(instance, 819);
 	}
 
 	@Override

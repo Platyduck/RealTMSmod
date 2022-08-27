@@ -24,7 +24,7 @@ public class ItemCorruptedBloontonium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:corrupted_bloontonium")
 	public static final Item block = null;
 	public ItemCorruptedBloontonium(ElementsTmsModMod instance) {
-		super(instance, 124);
+		super(instance, 120);
 	}
 
 	@Override

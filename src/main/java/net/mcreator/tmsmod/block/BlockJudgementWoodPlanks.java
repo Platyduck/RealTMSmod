@@ -25,7 +25,7 @@ public class BlockJudgementWoodPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:judgement_wood_planks")
 	public static final Block block = null;
 	public BlockJudgementWoodPlanks(ElementsTmsModMod instance) {
-		super(instance, 861);
+		super(instance, 862);
 	}
 
 	@Override

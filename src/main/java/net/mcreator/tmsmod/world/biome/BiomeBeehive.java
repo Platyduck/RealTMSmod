@@ -19,7 +19,7 @@ public class BiomeBeehive extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:beehive")
 	public static final BiomeGenCustom biome = null;
 	public BiomeBeehive(ElementsTmsModMod instance) {
-		super(instance, 1222);
+		super(instance, 1223);
 	}
 
 	@Override

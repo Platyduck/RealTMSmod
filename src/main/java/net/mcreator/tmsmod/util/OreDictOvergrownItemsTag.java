@@ -12,7 +12,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class OreDictOvergrownItemsTag extends ElementsTmsModMod.ModElement {
 	public OreDictOvergrownItemsTag(ElementsTmsModMod instance) {
-		super(instance, 1120);
+		super(instance, 1121);
 	}
 
 	@Override

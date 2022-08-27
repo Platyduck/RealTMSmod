@@ -42,7 +42,7 @@ public class BlockMosskenzie extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mosskenzie")
 	public static final Block block = null;
 	public BlockMosskenzie(ElementsTmsModMod instance) {
-		super(instance, 1456);
+		super(instance, 1457);
 	}
 
 	@Override

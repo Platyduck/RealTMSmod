@@ -34,7 +34,7 @@ public class BlockRotLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rot_log")
 	public static final Block block = null;
 	public BlockRotLog(ElementsTmsModMod instance) {
-		super(instance, 755);
+		super(instance, 756);
 	}
 
 	@Override

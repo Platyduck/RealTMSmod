@@ -23,7 +23,7 @@ import java.util.Random;
 @ElementsTmsModMod.ModElement.Tag
 public class StructureHiveportal extends ElementsTmsModMod.ModElement {
 	public StructureHiveportal(ElementsTmsModMod instance) {
-		super(instance, 1223);
+		super(instance, 1224);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ import java.util.Iterator;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedurePlasticoalItemIsCraftedsmelted extends ElementsTmsModMod.ModElement {
 	public ProcedurePlasticoalItemIsCraftedsmelted(ElementsTmsModMod instance) {
-		super(instance, 1302);
+		super(instance, 1303);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

@@ -24,7 +24,7 @@ public class ItemOweniumWire extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_wire")
 	public static final Item block = null;
 	public ItemOweniumWire(ElementsTmsModMod instance) {
-		super(instance, 871);
+		super(instance, 872);
 	}
 
 	@Override

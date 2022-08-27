@@ -24,7 +24,7 @@ public class ItemSnurbiteToolsHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbite_tools_hoe")
 	public static final Item block = null;
 	public ItemSnurbiteToolsHoe(ElementsTmsModMod instance) {
-		super(instance, 773);
+		super(instance, 774);
 	}
 
 	@Override

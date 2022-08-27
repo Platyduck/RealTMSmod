@@ -24,7 +24,7 @@ public class ItemSwoliniumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:swolinium_ingot")
 	public static final Item block = null;
 	public ItemSwoliniumIngot(ElementsTmsModMod instance) {
-		super(instance, 102);
+		super(instance, 130);
 	}
 
 	@Override

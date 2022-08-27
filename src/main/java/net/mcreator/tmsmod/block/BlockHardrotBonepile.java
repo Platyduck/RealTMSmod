@@ -35,7 +35,7 @@ public class BlockHardrotBonepile extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hardrot_bonepile")
 	public static final Block block = null;
 	public BlockHardrotBonepile(ElementsTmsModMod instance) {
-		super(instance, 753);
+		super(instance, 754);
 	}
 
 	@Override

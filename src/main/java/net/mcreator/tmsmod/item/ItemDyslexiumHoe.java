@@ -24,7 +24,7 @@ public class ItemDyslexiumHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_hoe")
 	public static final Item block = null;
 	public ItemDyslexiumHoe(ElementsTmsModMod instance) {
-		super(instance, 805);
+		super(instance, 806);
 	}
 
 	@Override

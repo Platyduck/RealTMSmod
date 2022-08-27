@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeSmeltUnrefinedUnderblanket extends ElementsTmsModMod.ModElement {
 	public RecipeSmeltUnrefinedUnderblanket(ElementsTmsModMod instance) {
-		super(instance, 1293);
+		super(instance, 1294);
 	}
 
 	@Override

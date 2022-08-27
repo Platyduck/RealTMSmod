@@ -24,7 +24,7 @@ public class ItemBeetlejuiceTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:beetlejuice_tuned_rocket")
 	public static final Item block = null;
 	public ItemBeetlejuiceTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 919);
+		super(instance, 920);
 	}
 
 	@Override

@@ -22,7 +22,7 @@ public class BlockFakeLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:fake_leaves")
 	public static final Block block = null;
 	public BlockFakeLeaves(ElementsTmsModMod instance) {
-		super(instance, 896);
+		super(instance, 897);
 	}
 
 	@Override

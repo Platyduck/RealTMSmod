@@ -20,7 +20,7 @@ public class ItemAbarium extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:abarium")
 	public static final Item block = null;
 	public ItemAbarium(ElementsTmsModMod instance) {
-		super(instance, 127);
+		super(instance, 129);
 	}
 
 	@Override

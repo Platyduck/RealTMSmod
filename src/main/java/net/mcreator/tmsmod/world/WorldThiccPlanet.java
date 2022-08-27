@@ -81,7 +81,7 @@ public class WorldThiccPlanet extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldThiccPlanet(ElementsTmsModMod instance) {
-		super(instance, 765);
+		super(instance, 766);
 	}
 
 	@Override

@@ -24,7 +24,7 @@ public class ItemButterflyGemPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:butterfly_gem_pickaxe")
 	public static final Item block = null;
 	public ItemButterflyGemPickaxe(ElementsTmsModMod instance) {
-		super(instance, 810);
+		super(instance, 811);
 	}
 
 	@Override

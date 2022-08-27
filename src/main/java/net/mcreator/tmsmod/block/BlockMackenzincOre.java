@@ -30,7 +30,7 @@ public class BlockMackenzincOre extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mackenzinc_ore")
 	public static final Block block = null;
 	public BlockMackenzincOre(ElementsTmsModMod instance) {
-		super(instance, 1440);
+		super(instance, 1441);
 	}
 
 	@Override

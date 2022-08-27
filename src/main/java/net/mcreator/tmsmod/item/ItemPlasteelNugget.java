@@ -20,7 +20,7 @@ public class ItemPlasteelNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_nugget")
 	public static final Item block = null;
 	public ItemPlasteelNugget(ElementsTmsModMod instance) {
-		super(instance, 120);
+		super(instance, 123);
 	}
 
 	@Override

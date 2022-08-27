@@ -24,7 +24,7 @@ public class ItemSnurbumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_shovel")
 	public static final Item block = null;
 	public ItemSnurbumShovel(ElementsTmsModMod instance) {
-		super(instance, 780);
+		super(instance, 781);
 	}
 
 	@Override

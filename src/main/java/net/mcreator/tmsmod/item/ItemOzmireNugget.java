@@ -20,7 +20,7 @@ public class ItemOzmireNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ozmire_nugget")
 	public static final Item block = null;
 	public ItemOzmireNugget(ElementsTmsModMod instance) {
-		super(instance, 126);
+		super(instance, 128);
 	}
 
 	@Override

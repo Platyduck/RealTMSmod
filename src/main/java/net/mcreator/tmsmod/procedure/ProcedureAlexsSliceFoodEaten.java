@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureAlexsSliceFoodEaten extends ElementsTmsModMod.ModElement {
 	public ProcedureAlexsSliceFoodEaten(ElementsTmsModMod instance) {
-		super(instance, 1337);
+		super(instance, 1338);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

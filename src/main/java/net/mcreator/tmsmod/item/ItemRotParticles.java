@@ -24,7 +24,7 @@ public class ItemRotParticles extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rot_particles")
 	public static final Item block = null;
 	public ItemRotParticles(ElementsTmsModMod instance) {
-		super(instance, 758);
+		super(instance, 759);
 	}
 
 	@Override

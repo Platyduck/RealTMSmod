@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSummonorsScytheToolInHandTick extends ElementsTmsModMod.ModElement {
 	public ProcedureSummonorsScytheToolInHandTick(ElementsTmsModMod instance) {
-		super(instance, 1184);
+		super(instance, 1185);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

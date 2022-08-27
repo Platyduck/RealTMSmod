@@ -83,7 +83,7 @@ public class WorldLowerRealmDim extends ElementsTmsModMod.ModElement {
 	public static final BlockCustomPortal portal = null;
 	public static DimensionType dtype;
 	public WorldLowerRealmDim(ElementsTmsModMod instance) {
-		super(instance, 887);
+		super(instance, 888);
 	}
 
 	@Override

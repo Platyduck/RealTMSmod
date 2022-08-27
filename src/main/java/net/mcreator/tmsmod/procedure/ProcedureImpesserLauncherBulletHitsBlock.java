@@ -11,7 +11,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureImpesserLauncherBulletHitsBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureImpesserLauncherBulletHitsBlock(ElementsTmsModMod instance) {
-		super(instance, 1188);
+		super(instance, 1189);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

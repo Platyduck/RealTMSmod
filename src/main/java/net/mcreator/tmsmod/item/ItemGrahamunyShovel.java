@@ -24,7 +24,7 @@ public class ItemGrahamunyShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_shovel")
 	public static final Item block = null;
 	public ItemGrahamunyShovel(ElementsTmsModMod instance) {
-		super(instance, 788);
+		super(instance, 789);
 	}
 
 	@Override

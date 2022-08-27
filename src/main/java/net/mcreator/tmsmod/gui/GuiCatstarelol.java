@@ -36,7 +36,7 @@ public class GuiCatstarelol extends ElementsTmsModMod.ModElement {
 	public static int GUIID = 4;
 	public static HashMap guistate = new HashMap();
 	public GuiCatstarelol(ElementsTmsModMod instance) {
-		super(instance, 1180);
+		super(instance, 1181);
 	}
 
 	@Override
@@ -115,7 +115,7 @@ public class GuiCatstarelol extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/png-1.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 51, this.guiTop + 34, 0, 0, 0, 0, 0, 0);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 51, this.guiTop + 34, 0, 0, 75, 75, 75, 75);
 		}
 
 		@Override

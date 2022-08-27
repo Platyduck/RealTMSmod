@@ -20,7 +20,7 @@ public class ItemRexiumDust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rexium_dust")
 	public static final Item block = null;
 	public ItemRexiumDust(ElementsTmsModMod instance) {
-		super(instance, 129);
+		super(instance, 98);
 	}
 
 	@Override

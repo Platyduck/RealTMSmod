@@ -22,7 +22,7 @@ public class BlockHubWall extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hub_wall")
 	public static final Block block = null;
 	public BlockHubWall(ElementsTmsModMod instance) {
-		super(instance, 902);
+		super(instance, 903);
 	}
 
 	@Override

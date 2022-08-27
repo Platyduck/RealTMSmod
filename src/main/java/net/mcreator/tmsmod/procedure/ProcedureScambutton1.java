@@ -14,7 +14,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureScambutton1 extends ElementsTmsModMod.ModElement {
 	public ProcedureScambutton1(ElementsTmsModMod instance) {
-		super(instance, 1154);
+		super(instance, 1155);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

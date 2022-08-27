@@ -24,7 +24,7 @@ public class ItemNathiniumPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_pickaxe")
 	public static final Item block = null;
 	public ItemNathiniumPickaxe(ElementsTmsModMod instance) {
-		super(instance, 790);
+		super(instance, 791);
 	}
 
 	@Override

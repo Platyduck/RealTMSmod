@@ -23,7 +23,7 @@ import java.util.Random;
 @ElementsTmsModMod.ModElement.Tag
 public class StructureDirtImpesser extends ElementsTmsModMod.ModElement {
 	public StructureDirtImpesser(ElementsTmsModMod instance) {
-		super(instance, 1274);
+		super(instance, 1275);
 	}
 
 	@Override

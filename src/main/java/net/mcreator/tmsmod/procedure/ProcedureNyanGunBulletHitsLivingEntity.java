@@ -11,7 +11,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureNyanGunBulletHitsLivingEntity extends ElementsTmsModMod.ModElement {
 	public ProcedureNyanGunBulletHitsLivingEntity(ElementsTmsModMod instance) {
-		super(instance, 1183);
+		super(instance, 1184);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

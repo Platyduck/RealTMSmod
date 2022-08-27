@@ -41,7 +41,7 @@ public class BlockLowerLily extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_lily")
 	public static final Block block = null;
 	public BlockLowerLily(ElementsTmsModMod instance) {
-		super(instance, 904);
+		super(instance, 905);
 	}
 
 	@Override

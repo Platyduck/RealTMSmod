@@ -24,7 +24,7 @@ public class ItemRocketTier4 extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rocket_tier_4")
 	public static final Item block = null;
 	public ItemRocketTier4(ElementsTmsModMod instance) {
-		super(instance, 909);
+		super(instance, 910);
 	}
 
 	@Override

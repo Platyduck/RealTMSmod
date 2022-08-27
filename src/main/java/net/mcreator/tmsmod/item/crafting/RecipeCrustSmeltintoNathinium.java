@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class RecipeCrustSmeltintoNathinium extends ElementsTmsModMod.ModElement {
 	public RecipeCrustSmeltintoNathinium(ElementsTmsModMod instance) {
-		super(instance, 1234);
+		super(instance, 1235);
 	}
 
 	@Override

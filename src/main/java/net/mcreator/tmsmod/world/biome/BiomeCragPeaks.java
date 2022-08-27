@@ -19,7 +19,7 @@ public class BiomeCragPeaks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:crag_peaks")
 	public static final BiomeGenCustom biome = null;
 	public BiomeCragPeaks(ElementsTmsModMod instance) {
-		super(instance, 1042);
+		super(instance, 1043);
 	}
 
 	@Override

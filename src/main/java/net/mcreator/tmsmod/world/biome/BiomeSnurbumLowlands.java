@@ -21,7 +21,7 @@ public class BiomeSnurbumLowlands extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:snurbum_lowlands")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSnurbumLowlands(ElementsTmsModMod instance) {
-		super(instance, 940);
+		super(instance, 941);
 	}
 
 	@Override

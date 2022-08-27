@@ -24,7 +24,7 @@ public class ItemDyslexiumShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:dyslexium_shovel")
 	public static final Item block = null;
 	public ItemDyslexiumShovel(ElementsTmsModMod instance) {
-		super(instance, 804);
+		super(instance, 805);
 	}
 
 	@Override

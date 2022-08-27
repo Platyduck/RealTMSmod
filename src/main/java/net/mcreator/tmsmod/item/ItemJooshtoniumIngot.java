@@ -20,7 +20,7 @@ public class ItemJooshtoniumIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jooshtonium_ingot")
 	public static final Item block = null;
 	public ItemJooshtoniumIngot(ElementsTmsModMod instance) {
-		super(instance, 118);
+		super(instance, 121);
 	}
 
 	@Override

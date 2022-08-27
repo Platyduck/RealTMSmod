@@ -24,7 +24,7 @@ public class ItemPlasteelShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plasteel_shovel")
 	public static final Item block = null;
 	public ItemPlasteelShovel(ElementsTmsModMod instance) {
-		super(instance, 834);
+		super(instance, 835);
 	}
 
 	@Override

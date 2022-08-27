@@ -19,7 +19,7 @@ public class ItemHaydeniteNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:haydenite_nugget")
 	public static final Item block = null;
 	public ItemHaydeniteNugget(ElementsTmsModMod instance) {
-		super(instance, 1467);
+		super(instance, 1468);
 	}
 
 	@Override

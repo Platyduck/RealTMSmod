@@ -24,7 +24,7 @@ public class BlockHardenedGrimstone extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hardened_grimstone")
 	public static final Block block = null;
 	public BlockHardenedGrimstone(ElementsTmsModMod instance) {
-		super(instance, 870);
+		super(instance, 871);
 	}
 
 	@Override

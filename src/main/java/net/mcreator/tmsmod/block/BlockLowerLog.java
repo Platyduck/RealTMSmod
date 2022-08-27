@@ -22,7 +22,7 @@ public class BlockLowerLog extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_log")
 	public static final Block block = null;
 	public BlockLowerLog(ElementsTmsModMod instance) {
-		super(instance, 894);
+		super(instance, 895);
 	}
 
 	@Override

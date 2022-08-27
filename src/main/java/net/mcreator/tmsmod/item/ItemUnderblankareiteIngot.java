@@ -20,7 +20,7 @@ public class ItemUnderblankareiteIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblankareite_ingot")
 	public static final Item block = null;
 	public ItemUnderblankareiteIngot(ElementsTmsModMod instance) {
-		super(instance, 103);
+		super(instance, 104);
 	}
 
 	@Override

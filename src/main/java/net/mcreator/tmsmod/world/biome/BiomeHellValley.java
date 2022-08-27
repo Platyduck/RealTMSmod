@@ -21,7 +21,7 @@ public class BiomeHellValley extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:hell_valley")
 	public static final BiomeGenCustom biome = null;
 	public BiomeHellValley(ElementsTmsModMod instance) {
-		super(instance, 1148);
+		super(instance, 1149);
 	}
 
 	@Override

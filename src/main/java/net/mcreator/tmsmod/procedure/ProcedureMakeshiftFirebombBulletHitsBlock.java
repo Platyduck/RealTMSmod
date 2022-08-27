@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureMakeshiftFirebombBulletHitsBlock extends ElementsTmsModMod.ModElement {
 	public ProcedureMakeshiftFirebombBulletHitsBlock(ElementsTmsModMod instance) {
-		super(instance, 1091);
+		super(instance, 1092);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

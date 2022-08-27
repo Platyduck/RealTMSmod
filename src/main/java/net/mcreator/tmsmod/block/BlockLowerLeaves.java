@@ -28,7 +28,7 @@ public class BlockLowerLeaves extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_leaves")
 	public static final Block block = null;
 	public BlockLowerLeaves(ElementsTmsModMod instance) {
-		super(instance, 895);
+		super(instance, 896);
 	}
 
 	@Override

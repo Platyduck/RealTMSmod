@@ -20,7 +20,7 @@ public class ItemUnitedSteelRod extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:united_steel_rod")
 	public static final Item block = null;
 	public ItemUnitedSteelRod(ElementsTmsModMod instance) {
-		super(instance, 874);
+		super(instance, 875);
 	}
 
 	@Override

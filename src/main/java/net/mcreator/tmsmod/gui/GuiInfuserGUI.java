@@ -253,13 +253,13 @@ public class GuiInfuserGUI extends ElementsTmsModMod.ModElement {
 			this.drawModalRectWithCustomSizedTexture(k, l, 0, 0, this.xSize, this.ySize, this.xSize, this.ySize);
 			zLevel = 100.0F;
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/demo6.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 132, this.guiTop + 52, 0, 0, -1, -1, -1, -1);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 132, this.guiTop + 52, 0, 0, 16, 16, 16, 16);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/demo4.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 24, this.guiTop + 52, 0, 0, -1, -1, -1, -1);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 24, this.guiTop + 52, 0, 0, 16, 16, 16, 16);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/demo5.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 60, this.guiTop + 52, 0, 0, -1, -1, -1, -1);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 60, this.guiTop + 52, 0, 0, 16, 16, 16, 16);
 			this.mc.renderEngine.bindTexture(new ResourceLocation("tms_mod:textures/arrowgui.png"));
-			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 96, this.guiTop + 43, 0, 0, -1, -1, -1, -1);
+			this.drawModalRectWithCustomSizedTexture(this.guiLeft + 96, this.guiTop + 43, 0, 0, 16, 16, 16, 16);
 		}
 
 		@Override

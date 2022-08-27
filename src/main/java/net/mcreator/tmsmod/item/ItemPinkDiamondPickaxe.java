@@ -24,7 +24,7 @@ public class ItemPinkDiamondPickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond_pickaxe")
 	public static final Item block = null;
 	public ItemPinkDiamondPickaxe(ElementsTmsModMod instance) {
-		super(instance, 816);
+		super(instance, 817);
 	}
 
 	@Override

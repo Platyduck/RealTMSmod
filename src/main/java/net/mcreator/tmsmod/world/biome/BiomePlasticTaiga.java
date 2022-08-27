@@ -29,7 +29,7 @@ public class BiomePlasticTaiga extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastic_taiga")
 	public static final BiomeGenCustom biome = null;
 	public BiomePlasticTaiga(ElementsTmsModMod instance) {
-		super(instance, 1298);
+		super(instance, 1299);
 	}
 
 	@Override

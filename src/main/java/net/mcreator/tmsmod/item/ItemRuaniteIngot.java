@@ -20,7 +20,7 @@ public class ItemRuaniteIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ruanite_ingot")
 	public static final Item block = null;
 	public ItemRuaniteIngot(ElementsTmsModMod instance) {
-		super(instance, 107);
+		super(instance, 108);
 	}
 
 	@Override

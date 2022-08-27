@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureHisRealmPortalTriggerUsed extends ElementsTmsModMod.ModElement {
 	public ProcedureHisRealmPortalTriggerUsed(ElementsTmsModMod instance) {
-		super(instance, 1273);
+		super(instance, 1274);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

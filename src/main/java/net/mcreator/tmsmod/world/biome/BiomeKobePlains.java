@@ -21,7 +21,7 @@ public class BiomeKobePlains extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:kobe_plains")
 	public static final BiomeGenCustom biome = null;
 	public BiomeKobePlains(ElementsTmsModMod instance) {
-		super(instance, 1370);
+		super(instance, 1371);
 	}
 
 	@Override

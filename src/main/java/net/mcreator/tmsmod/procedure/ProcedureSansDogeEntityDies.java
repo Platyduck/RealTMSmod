@@ -17,7 +17,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSansDogeEntityDies extends ElementsTmsModMod.ModElement {
 	public ProcedureSansDogeEntityDies(ElementsTmsModMod instance) {
-		super(instance, 1166);
+		super(instance, 1167);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

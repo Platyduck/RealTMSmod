@@ -24,7 +24,7 @@ public class ItemOzmireIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:ozmire_ingot")
 	public static final Item block = null;
 	public ItemOzmireIngot(ElementsTmsModMod instance) {
-		super(instance, 125);
+		super(instance, 127);
 	}
 
 	@Override

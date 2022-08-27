@@ -22,7 +22,7 @@ public class BlockLowerPlanks extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_planks")
 	public static final Block block = null;
 	public BlockLowerPlanks(ElementsTmsModMod instance) {
-		super(instance, 897);
+		super(instance, 898);
 	}
 
 	@Override

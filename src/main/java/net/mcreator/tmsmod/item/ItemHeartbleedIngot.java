@@ -20,7 +20,7 @@ public class ItemHeartbleedIngot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:heartbleed_ingot")
 	public static final Item block = null;
 	public ItemHeartbleedIngot(ElementsTmsModMod instance) {
-		super(instance, 115);
+		super(instance, 117);
 	}
 
 	@Override

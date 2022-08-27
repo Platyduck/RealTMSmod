@@ -24,7 +24,7 @@ public class ItemNatreaTunedRocket extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_tuned_rocket")
 	public static final Item block = null;
 	public ItemNatreaTunedRocket(ElementsTmsModMod instance) {
-		super(instance, 928);
+		super(instance, 929);
 	}
 
 	@Override

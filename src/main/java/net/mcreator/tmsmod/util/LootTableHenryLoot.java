@@ -11,7 +11,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class LootTableHenryLoot extends ElementsTmsModMod.ModElement {
 	public LootTableHenryLoot(ElementsTmsModMod instance) {
-		super(instance, 1400);
+		super(instance, 1401);
 	}
 
 	@Override

@@ -32,7 +32,7 @@ public class ItemStaffOfShrooming extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:staff_of_shrooming")
 	public static final Item block = null;
 	public ItemStaffOfShrooming(ElementsTmsModMod instance) {
-		super(instance, 815);
+		super(instance, 816);
 	}
 
 	@Override

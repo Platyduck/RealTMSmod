@@ -30,7 +30,7 @@ public class BlockRotleaf extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rotleaf")
 	public static final Block block = null;
 	public BlockRotleaf(ElementsTmsModMod instance) {
-		super(instance, 756);
+		super(instance, 757);
 	}
 
 	@Override

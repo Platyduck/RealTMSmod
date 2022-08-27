@@ -22,7 +22,7 @@ public class BlockRoyalCarpet extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:royal_carpet")
 	public static final Block block = null;
 	public BlockRoyalCarpet(ElementsTmsModMod instance) {
-		super(instance, 865);
+		super(instance, 866);
 	}
 
 	@Override

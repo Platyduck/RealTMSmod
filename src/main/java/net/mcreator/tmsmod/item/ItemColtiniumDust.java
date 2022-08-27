@@ -20,7 +20,7 @@ public class ItemColtiniumDust extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:coltinium_dust")
 	public static final Item block = null;
 	public ItemColtiniumDust(ElementsTmsModMod instance) {
-		super(instance, 109);
+		super(instance, 110);
 	}
 
 	@Override

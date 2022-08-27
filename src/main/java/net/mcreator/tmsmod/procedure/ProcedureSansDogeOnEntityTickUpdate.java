@@ -16,7 +16,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSansDogeOnEntityTickUpdate extends ElementsTmsModMod.ModElement {
 	public ProcedureSansDogeOnEntityTickUpdate(ElementsTmsModMod instance) {
-		super(instance, 1152);
+		super(instance, 1153);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

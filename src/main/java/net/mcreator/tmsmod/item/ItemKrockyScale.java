@@ -24,7 +24,7 @@ public class ItemKrockyScale extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:krocky_scale")
 	public static final Item block = null;
 	public ItemKrockyScale(ElementsTmsModMod instance) {
-		super(instance, 759);
+		super(instance, 760);
 	}
 
 	@Override

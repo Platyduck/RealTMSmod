@@ -26,7 +26,7 @@ public class BlockLowerDirt extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:lower_dirt")
 	public static final Block block = null;
 	public BlockLowerDirt(ElementsTmsModMod instance) {
-		super(instance, 889);
+		super(instance, 890);
 	}
 
 	@Override

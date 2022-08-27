@@ -13,7 +13,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class OreDictRiftWoodItemsTag extends ElementsTmsModMod.ModElement {
 	public OreDictRiftWoodItemsTag(ElementsTmsModMod instance) {
-		super(instance, 1011);
+		super(instance, 1012);
 	}
 
 	@Override

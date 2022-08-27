@@ -24,7 +24,7 @@ public class ItemPlastickwoodShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:plastickwood_shovel")
 	public static final Item block = null;
 	public ItemPlastickwoodShovel(ElementsTmsModMod instance) {
-		super(instance, 826);
+		super(instance, 827);
 	}
 
 	@Override

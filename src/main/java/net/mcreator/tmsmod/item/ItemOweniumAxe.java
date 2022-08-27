@@ -27,7 +27,7 @@ public class ItemOweniumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_axe")
 	public static final Item block = null;
 	public ItemOweniumAxe(ElementsTmsModMod instance) {
-		super(instance, 783);
+		super(instance, 784);
 	}
 
 	@Override

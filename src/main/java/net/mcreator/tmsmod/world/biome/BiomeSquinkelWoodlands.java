@@ -27,7 +27,7 @@ public class BiomeSquinkelWoodlands extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:squinkel_woodlands")
 	public static final BiomeGenCustom biome = null;
 	public BiomeSquinkelWoodlands(ElementsTmsModMod instance) {
-		super(instance, 1027);
+		super(instance, 1028);
 	}
 
 	@Override

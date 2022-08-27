@@ -24,7 +24,7 @@ public class BlockSquaredGlass extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:squared_glass")
 	public static final Block block = null;
 	public BlockSquaredGlass(ElementsTmsModMod instance) {
-		super(instance, 899);
+		super(instance, 900);
 	}
 
 	@Override

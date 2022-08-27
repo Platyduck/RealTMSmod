@@ -10,7 +10,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSansdogespattack1 extends ElementsTmsModMod.ModElement {
 	public ProcedureSansdogespattack1(ElementsTmsModMod instance) {
-		super(instance, 1151);
+		super(instance, 1152);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

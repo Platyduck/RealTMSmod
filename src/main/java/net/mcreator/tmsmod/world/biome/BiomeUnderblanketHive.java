@@ -20,7 +20,7 @@ public class BiomeUnderblanketHive extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:underblanket_hive")
 	public static final BiomeGenCustom biome = null;
 	public BiomeUnderblanketHive(ElementsTmsModMod instance) {
-		super(instance, 1276);
+		super(instance, 1277);
 	}
 
 	@Override

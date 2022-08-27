@@ -20,7 +20,7 @@ public class ItemOweniumNugget extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:owenium_nugget")
 	public static final Item block = null;
 	public ItemOweniumNugget(ElementsTmsModMod instance) {
-		super(instance, 106);
+		super(instance, 107);
 	}
 
 	@Override

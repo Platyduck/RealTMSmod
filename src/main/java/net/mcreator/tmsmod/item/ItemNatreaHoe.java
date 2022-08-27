@@ -24,7 +24,7 @@ public class ItemNatreaHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_hoe")
 	public static final Item block = null;
 	public ItemNatreaHoe(ElementsTmsModMod instance) {
-		super(instance, 809);
+		super(instance, 810);
 	}
 
 	@Override

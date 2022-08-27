@@ -35,7 +35,7 @@ public class BlockGrahamunyHardrot extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:grahamuny_hardrot")
 	public static final Block block = null;
 	public BlockGrahamunyHardrot(ElementsTmsModMod instance) {
-		super(instance, 754);
+		super(instance, 755);
 	}
 
 	@Override

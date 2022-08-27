@@ -13,7 +13,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureLaurenVenomOnPotionActiveTick extends ElementsTmsModMod.ModElement {
 	public ProcedureLaurenVenomOnPotionActiveTick(ElementsTmsModMod instance) {
-		super(instance, 1155);
+		super(instance, 1156);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

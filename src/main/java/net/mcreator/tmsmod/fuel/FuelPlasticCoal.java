@@ -9,7 +9,7 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 @ElementsTmsModMod.ModElement.Tag
 public class FuelPlasticCoal extends ElementsTmsModMod.ModElement {
 	public FuelPlasticCoal(ElementsTmsModMod instance) {
-		super(instance, 1300);
+		super(instance, 1301);
 	}
 
 	@Override

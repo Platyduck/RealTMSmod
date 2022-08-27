@@ -22,7 +22,7 @@ public class BiomeDistantMoon extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:distant_moon")
 	public static final BiomeGenCustom biome = null;
 	public BiomeDistantMoon(ElementsTmsModMod instance) {
-		super(instance, 1141);
+		super(instance, 1142);
 	}
 
 	@Override

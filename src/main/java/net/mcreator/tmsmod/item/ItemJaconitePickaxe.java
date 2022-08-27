@@ -24,7 +24,7 @@ public class ItemJaconitePickaxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconite_pickaxe")
 	public static final Item block = null;
 	public ItemJaconitePickaxe(ElementsTmsModMod instance) {
-		super(instance, 841);
+		super(instance, 842);
 	}
 
 	@Override

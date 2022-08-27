@@ -15,7 +15,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureSnurbEntityDies extends ElementsTmsModMod.ModElement {
 	public ProcedureSnurbEntityDies(ElementsTmsModMod instance) {
-		super(instance, 1404);
+		super(instance, 1405);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

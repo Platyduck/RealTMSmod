@@ -24,7 +24,7 @@ public class ItemJaconiteShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:jaconite_shovel")
 	public static final Item block = null;
 	public ItemJaconiteShovel(ElementsTmsModMod instance) {
-		super(instance, 843);
+		super(instance, 844);
 	}
 
 	@Override

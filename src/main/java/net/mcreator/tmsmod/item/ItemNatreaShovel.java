@@ -24,7 +24,7 @@ public class ItemNatreaShovel extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:natrea_shovel")
 	public static final Item block = null;
 	public ItemNatreaShovel(ElementsTmsModMod instance) {
-		super(instance, 808);
+		super(instance, 809);
 	}
 
 	@Override

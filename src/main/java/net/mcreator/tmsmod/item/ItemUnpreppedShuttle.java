@@ -24,7 +24,7 @@ public class ItemUnpreppedShuttle extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:unprepped_shuttle")
 	public static final Item block = null;
 	public ItemUnpreppedShuttle(ElementsTmsModMod instance) {
-		super(instance, 905);
+		super(instance, 906);
 	}
 
 	@Override

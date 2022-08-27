@@ -21,7 +21,7 @@ public class BlockMackenzincBlock extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mackenzinc_block")
 	public static final Block block = null;
 	public BlockMackenzincBlock(ElementsTmsModMod instance) {
-		super(instance, 1441);
+		super(instance, 1442);
 	}
 
 	@Override

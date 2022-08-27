@@ -12,7 +12,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedurePepeCrummsHammerToolInHandTick extends ElementsTmsModMod.ModElement {
 	public ProcedurePepeCrummsHammerToolInHandTick(ElementsTmsModMod instance) {
-		super(instance, 1418);
+		super(instance, 1419);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

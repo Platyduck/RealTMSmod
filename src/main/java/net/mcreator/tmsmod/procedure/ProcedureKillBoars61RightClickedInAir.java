@@ -7,7 +7,7 @@ import java.util.Map;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureKillBoars61RightClickedInAir extends ElementsTmsModMod.ModElement {
 	public ProcedureKillBoars61RightClickedInAir(ElementsTmsModMod instance) {
-		super(instance, 949);
+		super(instance, 950);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

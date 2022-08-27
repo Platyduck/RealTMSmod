@@ -29,7 +29,7 @@ public class BiomeRotlands extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:rotlands")
 	public static final BiomeGenCustom biome = null;
 	public BiomeRotlands(ElementsTmsModMod instance) {
-		super(instance, 945);
+		super(instance, 946);
 	}
 
 	@Override

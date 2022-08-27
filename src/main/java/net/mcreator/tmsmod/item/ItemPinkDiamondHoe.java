@@ -24,7 +24,7 @@ public class ItemPinkDiamondHoe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:pink_diamond_hoe")
 	public static final Item block = null;
 	public ItemPinkDiamondHoe(ElementsTmsModMod instance) {
-		super(instance, 819);
+		super(instance, 820);
 	}
 
 	@Override

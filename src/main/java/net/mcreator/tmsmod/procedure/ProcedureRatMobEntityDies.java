@@ -20,7 +20,7 @@ import java.util.Iterator;
 @ElementsTmsModMod.ModElement.Tag
 public class ProcedureRatMobEntityDies extends ElementsTmsModMod.ModElement {
 	public ProcedureRatMobEntityDies(ElementsTmsModMod instance) {
-		super(instance, 1319);
+		super(instance, 1320);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {

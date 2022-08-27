@@ -27,7 +27,7 @@ public class ItemMackenzincArmor extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:mackenzinc_armorboots")
 	public static final Item boots = null;
 	public ItemMackenzincArmor(ElementsTmsModMod instance) {
-		super(instance, 1447);
+		super(instance, 1448);
 	}
 
 	@Override

@@ -27,7 +27,7 @@ public class ItemNathiniumAxe extends ElementsTmsModMod.ModElement {
 	@GameRegistry.ObjectHolder("tms_mod:nathinium_axe")
 	public static final Item block = null;
 	public ItemNathiniumAxe(ElementsTmsModMod instance) {
-		super(instance, 791);
+		super(instance, 792);
 	}
 
 	@Override
