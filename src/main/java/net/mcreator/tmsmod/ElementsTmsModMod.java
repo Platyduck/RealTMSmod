@@ -36,6 +36,7 @@ import net.minecraft.block.Block;
 
 import net.mcreator.tmsmod.gui.GuiTrade1;
 import net.mcreator.tmsmod.gui.GuiTerminalGUI;
+import net.mcreator.tmsmod.gui.GuiT1GTravelGUI;
 import net.mcreator.tmsmod.gui.GuiShredderGUI;
 import net.mcreator.tmsmod.gui.GuiScam;
 import net.mcreator.tmsmod.gui.GuiInfuserGUI;
@@ -190,6 +191,8 @@ public class ElementsTmsModMod implements IFuelHandler, IWorldGenerator {
 				return new GuiGUIGrill.GuiContainerMod(world, x, y, z, player);
 			if (id == GuiDiskmakerGUI.GUIID)
 				return new GuiDiskmakerGUI.GuiContainerMod(world, x, y, z, player);
+			if (id == GuiT1GTravelGUI.GUIID)
+				return new GuiT1GTravelGUI.GuiContainerMod(world, x, y, z, player);
 			return null;
 		}
 
@@ -217,6 +220,8 @@ public class ElementsTmsModMod implements IFuelHandler, IWorldGenerator {
 				return new GuiGUIGrill.GuiWindow(world, x, y, z, player);
 			if (id == GuiDiskmakerGUI.GUIID)
 				return new GuiDiskmakerGUI.GuiWindow(world, x, y, z, player);
+			if (id == GuiT1GTravelGUI.GUIID)
+				return new GuiT1GTravelGUI.GuiWindow(world, x, y, z, player);
 			return null;
 		}
 	}

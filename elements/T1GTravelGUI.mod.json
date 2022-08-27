@@ -1,0 +1,56 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 330,
+    "height": 226,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Galactic Travel",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Galactic Travel",
+          "x": 176,
+          "y": 10
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Earth",
+          "onClick": {
+            "name": "EarthLaunch"
+          },
+          "width": 50,
+          "height": 20,
+          "name": "Earth",
+          "x": 190,
+          "y": 24
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Gravity Bubble",
+          "onClick": {
+            "name": "TitanLaunch"
+          },
+          "width": 95,
+          "height": 20,
+          "name": "Gravity Bubble",
+          "x": 166,
+          "y": 44
+        }
+      }
+    ]
+  }
+}

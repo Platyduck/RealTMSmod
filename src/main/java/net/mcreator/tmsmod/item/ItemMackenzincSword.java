@@ -14,7 +14,6 @@ import net.minecraft.item.Item;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.entity.ai.attributes.AttributeModifier;
 import net.minecraft.entity.SharedMonsterAttributes;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import net.mcreator.tmsmod.ElementsTmsModMod;
@@ -52,7 +51,7 @@ public class ItemMackenzincSword extends ElementsTmsModMod.ModElement {
 				ret.put("sword", 2);
 				return ret.keySet();
 			}
-		}.setUnlocalizedName("mackenzinc_sword").setRegistryName("mackenzinc_sword").setCreativeTab(CreativeTabs.COMBAT));
+		}.setUnlocalizedName("mackenzinc_sword").setRegistryName("mackenzinc_sword").setCreativeTab(null));
 	}
 
 	@SideOnly(Side.CLIENT)

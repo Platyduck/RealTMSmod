@@ -2,7 +2,7 @@
   "id_map": {
     "ENTITY": 154,
     "DIMENSION": 20,
-    "GUI": 11
+    "GUI": 12
   },
   "mod_elements": [
     {
@@ -11427,15 +11427,6 @@
       "registry_name": "haydenite_ore_smelting"
     },
     {
-      "name": "HaydenitePickaxe",
-      "type": "tool",
-      "sortid": 808,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "haydenite_pickaxe"
-    },
-    {
       "name": "HaydeniteSword",
       "type": "tool",
       "sortid": 547,
@@ -16702,6 +16693,68 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "alexite_pickaxe"
+    },
+    {
+      "name": "T1GTravelGUI",
+      "type": "gui",
+      "sortid": 1690,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 12
+      },
+      "registry_name": "t_1_g_travel_gui"
+    },
+    {
+      "name": "RocketTier1RightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 1691,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocket_tier_1_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MakeLizardGoggles",
+      "type": "recipe",
+      "sortid": 1692,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "make_lizard_goggles"
+    },
+    {
+      "name": "BandkidsExterminated",
+      "type": "achievement",
+      "sortid": 1693,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bandkids_exterminated"
     }
   ],
   "variable_elements": [],
@@ -17177,7 +17230,6 @@
       "item.alexium.name": "Alexium Ingot",
       "item.dyslexium_pickaxe.name": "Dyslexium Pickaxe",
       "item.rexium_shovel.name": "Rexium Shovel",
-      "item.haydenite_pickaxe.name": "Haydenite Pickaxe",
       "entity.banto.name": "Banto",
       "tile.white_plastone.name": "White Plastone",
       "tile.platic_stone.name": "Plastic Cobblestone",
@@ -17279,6 +17331,7 @@
       "tile.wild_carrot_plant.name": "Wild Carrot Plant",
       "tile.plastic_jack_o_lantern.name": "Plastic Jack O\u0027 Lantern",
       "item.wilson_suitboots.name": "Wilton Suit Hooves",
+      "advancements.bandkids_exterminated.title": "Mother Russia",
       "tile.nature_leaves.name": "Nature Leaves",
       "tile.judgement_carpet.name": "Judgement Carpet",
       "item.heartbleed_ingot.name": "Heartbleed Ingot",
@@ -17422,6 +17475,7 @@
       "tile.pawkite_block.name": "Pawkite Crystals",
       "entity.the_last_snurbaderb.name": "The Last Snurbaderb",
       "item.iron_saber_hilt.name": "Iron Saber Hilt",
+      "advancements.bandkids_exterminated.descr": "Prepare to enter the horrible world of the Bandkids",
       "item.natrea.name": "YHBIFTL",
       "tile.blue_lab_filler_block.name": "Blue Lab Filler Block",
       "item.the_last_pepper.name": "Jacob\u0027s Pepper",

@@ -12,7 +12,6 @@ import net.minecraft.item.Item;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.tmsmod.creativetab.TabMetalsAndGems;
 import net.mcreator.tmsmod.ElementsTmsModMod;
 
 @ElementsTmsModMod.ModElement.Tag
@@ -39,7 +38,7 @@ public class ItemHaydeniteNugget extends ElementsTmsModMod.ModElement {
 			maxStackSize = 64;
 			setUnlocalizedName("haydenite_nugget");
 			setRegistryName("haydenite_nugget");
-			setCreativeTab(TabMetalsAndGems.tab);
+			setCreativeTab(null);
 		}
 
 		@Override

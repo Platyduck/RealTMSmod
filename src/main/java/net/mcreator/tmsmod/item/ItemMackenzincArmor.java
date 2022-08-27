@@ -12,7 +12,6 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.item.ItemArmor;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EntityEquipmentSlot;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import net.mcreator.tmsmod.ElementsTmsModMod;
@@ -36,13 +35,13 @@ public class ItemMackenzincArmor extends ElementsTmsModMod.ModElement {
 		ItemArmor.ArmorMaterial enuma = EnumHelper.addArmorMaterial("MACKENZINC_ARMOR", "tms_mod:mackenzinc", 18, new int[]{2, 7, 6, 2}, 11,
 				(net.minecraft.util.SoundEvent) net.minecraft.util.SoundEvent.REGISTRY.getObject(new ResourceLocation("")), 0f);
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.HEAD).setUnlocalizedName("mackenzinc_armorhelmet")
-				.setRegistryName("mackenzinc_armorhelmet").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("mackenzinc_armorhelmet").setCreativeTab(null));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.CHEST).setUnlocalizedName("mackenzinc_armorbody")
-				.setRegistryName("mackenzinc_armorbody").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("mackenzinc_armorbody").setCreativeTab(null));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.LEGS).setUnlocalizedName("mackenzinc_armorlegs")
-				.setRegistryName("mackenzinc_armorlegs").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("mackenzinc_armorlegs").setCreativeTab(null));
 		elements.items.add(() -> new ItemArmor(enuma, 0, EntityEquipmentSlot.FEET).setUnlocalizedName("mackenzinc_armorboots")
-				.setRegistryName("mackenzinc_armorboots").setCreativeTab(CreativeTabs.COMBAT));
+				.setRegistryName("mackenzinc_armorboots").setCreativeTab(null));
 	}
 
 	@SideOnly(Side.CLIENT)

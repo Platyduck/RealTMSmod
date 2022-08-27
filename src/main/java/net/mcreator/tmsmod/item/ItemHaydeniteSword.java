@@ -14,7 +14,6 @@ import net.minecraft.item.Item;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.entity.ai.attributes.AttributeModifier;
 import net.minecraft.entity.SharedMonsterAttributes;
-import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 
 import net.mcreator.tmsmod.ElementsTmsModMod;
@@ -52,7 +51,7 @@ public class ItemHaydeniteSword extends ElementsTmsModMod.ModElement {
 				ret.put("sword", 3);
 				return ret.keySet();
 			}
-		}.setUnlocalizedName("haydenite_sword").setRegistryName("haydenite_sword").setCreativeTab(CreativeTabs.COMBAT));
+		}.setUnlocalizedName("haydenite_sword").setRegistryName("haydenite_sword").setCreativeTab(null));
 	}
 
 	@SideOnly(Side.CLIENT)
