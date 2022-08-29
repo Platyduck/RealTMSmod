@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "tms_mod:blocks/unitedsteelblock",
-    "particle": "tms_mod:blocks/unitedsteelblock"
+    "all": "tms_mod:blocks/unitedsteelanimated2",
+    "particle": "tms_mod:blocks/unitedsteelanimated2"
   }
 }

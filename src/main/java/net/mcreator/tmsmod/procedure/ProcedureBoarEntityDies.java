@@ -4,6 +4,7 @@ import net.minecraft.world.World;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.item.EntityItem;
 
+import net.mcreator.tmsmod.item.ItemBoarTusk;
 import net.mcreator.tmsmod.item.ItemBoarLeather;
 import net.mcreator.tmsmod.ElementsTmsModMod;
 
@@ -39,6 +40,13 @@ public class ProcedureBoarEntityDies extends ElementsTmsModMod.ModElement {
 		if ((Math.random() < 0.2)) {
 			if (!world.isRemote) {
 				EntityItem entityToSpawn = new EntityItem(world, x, y, z, new ItemStack(ItemBoarLeather.block, (int) (1)));
+				entityToSpawn.setPickupDelay(10);
+				world.spawnEntity(entityToSpawn);
+			}
+		}
+		if ((Math.random() < 0.2)) {
+			if (!world.isRemote) {
+				EntityItem entityToSpawn = new EntityItem(world, x, y, z, new ItemStack(ItemBoarTusk.block, (int) (1)));
 				entityToSpawn.setPickupDelay(10);
 				world.spawnEntity(entityToSpawn);
 			}
