@@ -14,17 +14,17 @@ import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.block.state.IBlockState;
 
-import net.mcreator.tmsmod.creativetab.TabMetalsAndGems;
+import net.mcreator.tmsmod.creativetab.TabTraditionalWeaponry;
 import net.mcreator.tmsmod.ElementsTmsModMod;
 
 import java.util.List;
 
 @ElementsTmsModMod.ModElement.Tag
-public class ItemAlexium extends ElementsTmsModMod.ModElement {
-	@GameRegistry.ObjectHolder("tms_mod:alexium")
+public class ItemOvenMitt extends ElementsTmsModMod.ModElement {
+	@GameRegistry.ObjectHolder("tms_mod:oven_mitt")
 	public static final Item block = null;
-	public ItemAlexium(ElementsTmsModMod instance) {
-		super(instance, 92);
+	public ItemOvenMitt(ElementsTmsModMod instance) {
+		super(instance, 1662);
 	}
 
 	@Override
@@ -35,15 +35,15 @@ public class ItemAlexium extends ElementsTmsModMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:alexium", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:oven_mitt", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
-			maxStackSize = 64;
-			setUnlocalizedName("alexium");
-			setRegistryName("alexium");
-			setCreativeTab(TabMetalsAndGems.tab);
+			maxStackSize = 1;
+			setUnlocalizedName("oven_mitt");
+			setRegistryName("oven_mitt");
+			setCreativeTab(TabTraditionalWeaponry.tab);
 		}
 
 		@Override
@@ -64,7 +64,7 @@ public class ItemAlexium extends ElementsTmsModMod.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("Holds a potent magic deep within...");
+			list.add("The only thing strong enough to hold all the Great Diamonds");
 		}
 	}
 }

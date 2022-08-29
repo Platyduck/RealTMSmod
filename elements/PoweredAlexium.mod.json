@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "alexium",
+    "texture": "poweredalexium",
     "customModelName": "Normal",
-    "name": "Alexium Ingot",
+    "name": "Powered Alexium",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:MetalsAndGems"
@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Holds a potent magic deep within..."
+      "Thanks to the pressure of the disk forge",
+      "the potent magic inside the Alexium has found it's way out"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

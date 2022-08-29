@@ -20,11 +20,11 @@ import net.mcreator.tmsmod.ElementsTmsModMod;
 import java.util.List;
 
 @ElementsTmsModMod.ModElement.Tag
-public class ItemAlexium extends ElementsTmsModMod.ModElement {
-	@GameRegistry.ObjectHolder("tms_mod:alexium")
+public class ItemPoweredAlexium extends ElementsTmsModMod.ModElement {
+	@GameRegistry.ObjectHolder("tms_mod:powered_alexium")
 	public static final Item block = null;
-	public ItemAlexium(ElementsTmsModMod instance) {
-		super(instance, 92);
+	public ItemPoweredAlexium(ElementsTmsModMod instance) {
+		super(instance, 1654);
 	}
 
 	@Override
@@ -35,14 +35,14 @@ public class ItemAlexium extends ElementsTmsModMod.ModElement {
 	@SideOnly(Side.CLIENT)
 	@Override
 	public void registerModels(ModelRegistryEvent event) {
-		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:alexium", "inventory"));
+		ModelLoader.setCustomModelResourceLocation(block, 0, new ModelResourceLocation("tms_mod:powered_alexium", "inventory"));
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			setMaxDamage(0);
 			maxStackSize = 64;
-			setUnlocalizedName("alexium");
-			setRegistryName("alexium");
+			setUnlocalizedName("powered_alexium");
+			setRegistryName("powered_alexium");
 			setCreativeTab(TabMetalsAndGems.tab);
 		}
 
@@ -64,7 +64,8 @@ public class ItemAlexium extends ElementsTmsModMod.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<String> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add("Holds a potent magic deep within...");
+			list.add("Thanks to the pressure of the disk forge");
+			list.add("the potent magic inside the Alexium has found it's way out");
 		}
 	}
 }

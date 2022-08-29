@@ -1,0 +1,36 @@
+{
+  "group": "tms_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "tms_mod:alexium"
+    },
+    "2": {
+      "item": "tms_mod:powered_alexium"
+    },
+    "3": {
+      "item": "tms_mod:alexium_nugget"
+    },
+    "4": {
+      "item": "tms_mod:iron_rod"
+    },
+    "5": {
+      "item": "tms_mod:alexium"
+    },
+    "6": {
+      "item": "tms_mod:iron_rod"
+    },
+    "7": {
+      "item": "tms_mod:alexium_nugget"
+    }
+  },
+  "result": {
+    "item": "tms_mod:alexite_pickaxe",
+    "count": 1
+  }
+}

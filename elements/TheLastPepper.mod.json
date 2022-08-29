@@ -3,7 +3,7 @@
   "_type": "food",
   "definition": {
     "renderType": 0,
-    "texture": "jacobspepper",
+    "texture": "newlastpepper",
     "customModelName": "Normal",
     "name": "Jacob's Pepper",
     "rarity": "EPIC",

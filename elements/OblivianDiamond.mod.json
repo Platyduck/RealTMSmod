@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "alexium",
+    "texture": "obliviandiamond",
     "customModelName": "Normal",
-    "name": "Alexium Ingot",
+    "name": "Oblivian Diamond",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:MetalsAndGems"
+      "value": "CUSTOM:TraditionalWeaponry"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -25,7 +25,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Holds a potent magic deep within..."
+      "Given to the Kobes as a gift from the galactic council"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

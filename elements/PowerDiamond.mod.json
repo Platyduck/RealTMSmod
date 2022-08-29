@@ -3,12 +3,12 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "alexium",
+    "texture": "powerdiamond",
     "customModelName": "Normal",
-    "name": "Alexium Ingot",
+    "name": "Power Diamond",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "CUSTOM:MetalsAndGems"
+      "value": "CUSTOM:TraditionalWeaponry"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -25,7 +25,8 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Holds a potent magic deep within..."
+      "Though it was created for the Nathans",
+      "this diamond was stolen from the galactic council by the Birbs long before the great diamonds were ready to be gifted"
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
